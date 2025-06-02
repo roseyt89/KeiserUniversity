@@ -1,0 +1,1001 @@
+Account_ID,Customer_ID,Date_Opened,Account_Type,Opened_Legitimately,Branch_Location,Employee_ID,Number_of_Accounts_per_Customer,Time_Since_Last_Account_Opened,Employee_Tenure,Account_Opening_Method
+3cc8f41e-0b05-468a-af28-9304d7f291e2,e7c58bc1-fd86-435f-bb33-22c0f6a2f401,8/20/2024,Credit,No,Russellport,a2b44acc-ea3a-46a9-a466-31c234c7b1a6,5,278,8,Online
+acd753fb-3e82-43d5-805e-dd1a3c5e0bc8,2260b2eb-48b1-46cf-b5c5-c524d851023e,3/1/2024,Credit,Yes,Dennisside,dceb406d-cdcd-4374-8ae1-b015afaa8384,5,227,9,In-Person
+22246b1f-59e0-47f1-9c25-b73ea55c1fe8,776b12b6-1cbe-4815-bc0a-0621178592ff,5/28/2025,Checking,Yes,Jonathanberg,6891c8f0-f936-4099-be72-18c9bbec3248,5,321,8,In-Person
+5b352471-d6d4-4e31-9544-9fa64ab69810,c3f6379a-f1b6-41c0-8461-62814a8327fa,12/11/2023,Checking,Yes,New Davidmouth,502012b8-98e5-4416-87b8-476e06edc793,5,88,7,Online
+8ca07910-388c-48be-87cd-897c645f996f,e8dd0e69-19d6-4444-892b-de7ecf740f5a,8/10/2022,Credit,Yes,Colonfurt,0964b9fa-3db1-4283-b39b-f9da625e0c1f,3,58,10,Phone
+03b55a67-a6d0-4c10-ab3d-1e2532c2ea38,394fe0cb-147b-47b6-8270-d3a1cc58734a,5/19/2025,Savings,No,Wadeland,b7bfcfd7-f210-4327-9686-bd49eeeb7dec,3,257,2,In-Person
+dcaf3bfa-4b2f-4ebe-8729-5c4d2beab969,e5b10c20-b8fd-4730-8d9a-f80c3a20f8fb,1/18/2025,Savings,Yes,Nataliemouth,550ce4cb-0d98-467e-b8fc-4a60c40d9b68,4,149,1,Phone
+ba5d6dc5-fd48-4370-9560-c06a17944263,254327ca-c2b4-49d6-a157-a6c55a78096c,8/3/2020,Checking,No,Morganhaven,e96aeb45-b025-4f1e-8eeb-cbd82a04fa94,3,2,4,In-Person
+698c1d1e-cf06-4681-81a6-04755bc72aab,7f7dc953-bbd4-4c3d-aabc-323f87dc79e3,6/2/2021,Savings,Yes,Lake Tabithashire,35cc5ede-7c44-4ce8-8967-f94e11336ee6,4,199,4,Phone
+a7a87792-6ea1-4e7e-af2f-ddbbfe615aa2,7bea0ba6-2a71-4b92-8d7c-832b03bcad09,11/12/2020,Checking,No,New Ana,6650c9ae-acf9-4979-829b-723e596e7e52,4,290,1,Online
+bde2bc8e-9c86-4624-9f36-ed6d9f504dce,01235486-e7dd-4021-a44f-37dd2fbc0da9,1/6/2020,Credit,Yes,Lake Katherinemouth,7c928c37-2a66-463e-8f57-8f5a88baef44,3,75,10,Online
+39ce81c0-7b20-4873-8dd0-306e6e16d8ec,5a312aad-d605-491e-8dd9-182c4aaad373,4/12/2020,Savings,No,North Shannon,76eb40c0-a802-44df-ac4b-a627138cc104,2,260,2,In-Person
+587d2868-cdaf-40ee-bf19-005d9348b8cd,2bf4b417-027a-47fa-a5d5-62dccb5aa7dd,11/17/2023,Savings,No,Lake Julianmouth,1f6656ca-c8f9-4f19-963c-3addb9c42493,1,87,1,In-Person
+10ebb0c5-d540-4d53-a830-03568cd2c01b,a70b07ee-a37a-429d-b782-cba5c1d86a8a,11/10/2022,Savings,Yes,West Daniel,fa754d2a-f0ea-4510-9e94-2244f5e0e30b,4,215,2,Online
+dc272bbe-60bb-4617-8cc4-eb253aada881,3ab27fcf-a08a-42b3-a3b2-df4d6331c630,3/17/2023,Checking,No,South Sierraland,c2470a4c-5d37-4607-9ddf-33b2dd1550ed,3,350,6,Online
+05237963-efdf-43be-a570-f10a6c3dee35,dc90d3b0-4b7a-4418-9036-b49c1b764e80,11/23/2020,Checking,No,Jimenezberg,250a3060-7a11-4cc7-8513-a0540e7f52cb,1,162,4,Online
+6c19782f-9020-4d74-9c7d-5d81eb0777a7,927491ea-9910-4927-9009-d5e1d5a71010,5/15/2025,Credit,Yes,Hernandezberg,9f2eb5fe-e04b-493b-8fce-4c104a5d674f,2,331,10,In-Person
+e29a13da-766a-495a-b887-8635a2ac867c,aec6f2cd-d0bf-488b-b036-5264d0cc6970,12/9/2023,Credit,No,Port Patriciaburgh,45986cdd-a483-459c-801e-f7e875a8d041,1,296,2,Phone
+dda51895-e636-4c5a-ae87-e5af2cc7ec25,bc5d0646-00f8-46d8-8c34-b87931adc2f6,4/21/2023,Checking,Yes,Perezberg,f8cebf9d-a27c-420c-a67e-6653c6d1a282,4,35,2,In-Person
+47fa9d78-7086-47a5-bac5-b8dc900545a3,5b236274-8dd7-4d09-95b9-2a44aa5edd9a,9/16/2024,Credit,No,Lake Toddville,0d862884-7e80-4bf0-a310-f820c4fca402,2,132,3,Phone
+f9644c74-c549-4ca1-aecd-cf2373f0640a,72ee1295-babf-4023-95af-72859bf932f8,1/7/2025,Savings,No,Hannahview,3eebb816-4cf8-4dea-b445-e0721a9adb6a,4,265,0,Phone
+5e6377e1-02bb-4b6b-95b7-4c948df5b8c3,93be51ae-0d67-4d04-afcd-1ef2ca6d293c,6/5/2020,Credit,No,North Tiffanytown,b8623000-8ef8-43ce-ab85-52f12d31dad5,2,99,1,Phone
+36ef793c-4b21-40e9-bb7f-216e4468d750,77a51ae7-217f-40ba-8bed-86cf6f8f22fe,8/1/2022,Savings,Yes,Port Briannafurt,b28eeea1-ea3b-42cd-8140-9bdd9d70a55e,5,194,9,Online
+110539fb-69e1-420b-9353-e2239cd13e2a,4b8ff22a-1e5f-4e5b-84b6-1e401b8ad7a4,12/1/2024,Savings,No,Bridgetville,553978ba-045f-4aa5-a5e0-3efc1ad1577e,1,193,3,Online
+ba4a30e3-b1b3-498f-a436-5f5ab67eba61,0c4d1b0f-e863-4bfa-a85b-402b2d468480,7/20/2020,Savings,No,Millerstad,a44e8bc6-0019-4611-90fe-3be4ab6f246f,2,96,10,In-Person
+6ddb1663-faf1-41cd-bf8b-4ecd3c9db066,f71aad6c-cdc4-49b2-8c8c-13efbb53d165,6/11/2022,Savings,No,North Julie,555be1d6-6594-48bc-86a0-04ba93ebb8cb,3,222,10,Phone
+27e3b326-61c1-4c79-9087-9ead3b5ee68d,857fb27f-3c6e-41dd-8069-87883b5e51f1,2/13/2020,Checking,Yes,New Jennifermouth,82b618a0-b486-43f5-bba4-9583dd78e720,2,113,10,Phone
+2cc504f8-d1fe-402c-9407-9570e6828f78,615637fb-abcb-4106-9126-c466714acdb4,4/8/2022,Checking,Yes,Port Jilliantown,cbfe7f40-3b47-4411-99bf-e1fce717ec8a,3,293,2,In-Person
+6e53044a-37fb-4161-a2b5-75386f914558,81c049e5-38a8-4369-8652-6616871fa2bf,7/18/2023,Credit,Yes,Kimberlytown,4e67b9f6-75be-44bd-8914-29d07eacd3b4,5,158,9,Online
+f2713e1c-9042-4332-a115-7e8e65e5ae82,59967d6e-8a48-43a1-847f-e396a998de51,9/8/2022,Savings,No,Garciaside,88b5733d-683a-4c1e-91ff-a6fe4a8deea6,5,170,2,In-Person
+64dfbbc5-7510-4c7c-8dd8-f529d1a9b1be,a42b3f97-fcfa-412b-9d49-795f484d9258,6/18/2020,Credit,No,Lake Nathanieltown,040a1b6f-2555-4db0-aacd-6e042eaf6963,3,121,6,Phone
+2d0b901f-d255-4317-8439-fde7b521ada6,aea2c988-5c14-407b-b2ac-990f091950ef,1/2/2021,Credit,Yes,East James,916cd730-da78-40e2-a208-83a196adc01f,3,331,4,Phone
+88b3ee20-eb7d-4115-b4fd-04f7f4f68335,5248d150-cc6a-4882-89d2-f94eddd69dc6,10/31/2020,Credit,Yes,Jamestown,3121fd53-4a59-43d9-8e74-7f82f658783b,5,44,8,Online
+f47c4ce3-a063-44e9-a947-c2152d2c4f43,ee696094-c002-483e-86d0-51378874e429,4/18/2023,Savings,Yes,Gregoryshire,76d7554a-2678-486c-9eb4-dcf4249293eb,5,265,4,Online
+8d7bf8f2-fe27-4d6e-baca-8965a3cded0a,2e1e4d62-0ae4-43ef-8c3e-72e1c77df85e,11/5/2023,Checking,No,Cunninghamborough,7da114f6-71f5-4ee1-a836-8c3ea9e39de2,2,273,4,Phone
+9abfe436-01f6-4bf2-b60e-81f05a2c1a8b,b7919650-8341-4c34-8150-14473abdccac,11/22/2020,Credit,No,Douglasland,6671ed92-bd01-4f27-8e57-b150da0a7df5,3,103,9,Online
+c76c6670-fdef-48e1-97fe-226642d54adf,ce75cfa6-f919-424d-a228-c019ede8857e,7/23/2020,Credit,No,New Penny,00785f1e-878e-41fe-8023-b05781f3ccdd,1,47,2,Online
+efb5f3ce-616d-4d79-b4a8-fe1fa19b902c,afdd0e6a-2b9f-44f8-9403-9a6f7d7f471d,10/31/2021,Savings,Yes,South Jasonhaven,e0bb0808-661b-40fc-b471-9eee8e14c898,3,136,7,Phone
+470fee42-d0af-4601-9143-689b395c4a49,eb9fb0ea-6d02-434b-9421-890e1f49f219,6/21/2023,Savings,No,Maryfurt,5997a70d-3605-41f6-9454-3df323fff508,3,95,6,In-Person
+37a15987-e46f-4721-b1ad-3687af749a53,ff89b0f5-b6dd-46d1-a5d3-436dcbff11a6,1/15/2021,Savings,Yes,East Valerie,3489a0a0-4dcc-4a7e-90e8-6860fc595915,2,4,4,In-Person
+382e2064-9d51-4ba4-aa2b-1b0e22d06390,35893e7f-f287-4a1d-814d-f70545c9b015,7/14/2020,Savings,No,Chenfurt,1c5e6078-8819-481d-9727-becc0a1abd66,4,333,10,In-Person
+6acbc6a0-af41-4d9e-95b5-a31a9389be98,e5f4b7a6-318d-4690-9009-67dc56c1f3a6,1/12/2021,Checking,Yes,Lemouth,3ca54405-a9dd-48b9-b511-64dd4db900f1,3,200,3,Online
+e27f4a85-ed36-448a-b045-c1c0ba17212d,4413ce9e-a93f-4fc9-a890-105022940e3a,8/4/2021,Checking,Yes,North Scottton,3c93dcf9-b64c-4c25-97bc-0ab6f105d15e,4,30,9,Online
+4780f754-4f3a-41e6-bbcc-f61db1268e6a,cbcbfb9d-2b1e-4d6e-a9dd-2450aacc83d4,6/22/2022,Savings,Yes,Monroefurt,e61fb4fb-79ef-4b7e-90e6-f7dd290a335c,3,92,1,Phone
+10223116-4e1c-41e8-a6d6-b986660187b2,b11dc72c-5069-4461-9181-1ff4b39b124e,3/29/2022,Checking,Yes,Lake Johnnyport,a00652e3-1801-40a7-b313-6a0996938f0a,1,176,6,Phone
+eb609e3f-022a-461d-b5e0-beb3aab756bc,95970dc8-a78e-4ed9-9575-571cb0254ecb,7/25/2021,Savings,No,Lake Gregoryfurt,d814e1aa-256f-45a7-929e-84d0c63408bf,3,251,1,Online
+d75f6502-bc04-4632-aa08-270583f88fa2,d21c8541-2e60-4aa0-8d61-b2aa25856bd6,4/4/2020,Credit,Yes,North Steve,e36438a0-f4ba-4da9-b7af-ff692665520f,3,100,10,In-Person
+5e3a227e-ed24-4685-9294-95105c6881f6,f7034167-3766-43da-9d0a-c12fb9c6d981,12/10/2023,Credit,Yes,New Melissa,bf28a9a0-c44a-4317-a132-e0f714cf0606,3,137,9,Online
+2646cf72-29af-40b5-ac87-4b4c88acefd6,71d0f94c-3db3-46fb-b0a0-7d2233b0533c,5/3/2020,Savings,No,East Rodney,67e3d5d4-3ca0-47b3-b691-1763e7782932,1,338,4,Phone
+87770a2c-e2ee-4482-9c99-5e8f06f8cce6,50a863b4-5bcf-46e7-8b60-7c595b246d2f,8/9/2023,Savings,Yes,Steveville,411dbab0-ea61-4b0c-99c2-719585fd004c,5,199,8,In-Person
+749b138d-b53d-440d-b3df-d7010007f592,d190bfec-e81a-4edf-b54d-4271bd9e16d5,12/15/2021,Checking,No,Reyesshire,96fc532a-3293-4d0d-ab63-11879b8b1d92,5,113,3,In-Person
+aaf4bdb8-144b-4ce0-a436-909ec96863c5,272aea23-7784-4843-ad5d-27e4bb4e33c0,5/2/2022,Credit,Yes,East Chrisberg,377d22a4-fdfc-4329-a740-91e5e4a6a1fe,2,227,5,In-Person
+036ca676-5842-451e-9869-f2e14078c0ca,0c591474-eff4-4080-bb57-0c88d6ae5029,9/1/2023,Savings,No,Lake Roger,d11edc4e-6a4d-4cf7-8bbe-842f716def43,1,48,7,Phone
+223a8e46-6cda-41a2-b85b-730d44caecbb,05cfba51-4b29-4441-87f0-c13472677a00,3/9/2025,Checking,No,Fernandezland,6b3a4ac3-a755-446e-8ac7-d76287252f42,1,256,5,In-Person
+3167cd2b-6f0e-4ce4-995f-06bb4720843b,a22a75d5-3a0a-45da-a2bd-c5e5ba17f14b,10/23/2020,Checking,Yes,South Jeanette,16edf7fa-14da-4614-a738-bd3871e264f3,2,301,8,Phone
+5c9da292-bf6c-4fbb-97fb-891253f9e968,af31c9e9-fa6c-41da-b0bf-e7bf9f3f3602,7/2/2024,Credit,No,West Mollyfurt,dcb8010d-e620-4c54-b569-0656548359cf,1,320,7,Phone
+2946e2cc-ba09-43ad-a2f6-f7405d5e0f7c,e5af2893-9c21-412e-a831-67e816c10199,4/15/2023,Checking,No,Romerofort,1c2856ab-d3cf-470e-be00-0cb509194ebe,2,256,9,Online
+122ff481-3db7-40fa-ae4b-80f1878f3be7,270a882a-88fe-4da5-b768-f9e816de9a31,1/20/2024,Savings,Yes,West Amanda,ed0d7212-4d26-48ec-a635-ebb727beda51,4,258,6,Phone
+b6035327-ac67-4f99-9b21-86d0481c9398,52792d26-e8f2-44bc-8bb4-0509dac691c5,8/6/2024,Checking,Yes,South Kelly,9df238c4-8e5c-4d28-9fb4-41fb408e21d8,5,119,8,Online
+45be88e3-8888-42bd-8d6b-cb3bc95564e2,dd3d1f3c-1c08-4e66-ab53-b704249dce4a,4/24/2020,Credit,Yes,Port Jonathanville,1bc2d49d-1a15-421b-b925-ab6f157ec51a,3,282,2,Online
+48e4c9b5-7c51-47f3-b733-dfa57d67f17b,d47d5b69-95c1-48de-8b69-e834f07b9c22,7/29/2021,Savings,No,Foleybury,f81ee493-1822-44c4-a262-f8864fa934de,1,211,1,Phone
+dba451f4-1118-4ffb-a169-26dfcc56adae,984a73ae-626e-4186-b791-548afa37b7fc,8/27/2020,Savings,No,Lucaston,4748bdf5-9f1f-4dfd-ade7-95ae80a16439,4,33,8,Online
+18c18c62-4db4-4992-b181-cd1a9bf68062,2a026f64-d83f-4ae5-ab30-c31de21f1f51,4/26/2021,Savings,No,South Donaldstad,9090d5c8-671c-421a-811c-143e70d6aa8f,3,267,0,Online
+27da2620-eb0e-4770-a77b-c9433b9c7b70,4ca90299-0d80-4310-838d-6427fa8751b7,4/24/2020,Checking,No,East Joshuafort,3ce92856-cebb-4848-b348-1965c90e1b90,3,189,10,In-Person
+61e0163a-1112-459a-9a5b-1225d72a7094,caf60ea6-40e3-4fed-951f-321ade99658d,1/10/2022,Credit,Yes,Eugenebury,27964ac1-77e7-482c-b786-f88d34e6afc7,3,55,1,Online
+a50f2076-692e-4e83-8f99-ae87269255cb,0962e0a0-915e-4942-a8bd-61ae007351b1,8/25/2022,Checking,No,Sandersland,a91f1e58-2742-4acc-829e-880bf059999c,1,226,1,Online
+ce07fee1-0f56-4f2a-bc36-f66f313a9172,1db45361-f41b-480f-99e9-8cc3b21198ee,4/24/2020,Checking,No,Smithfort,f2e4fcb4-cd92-4cb3-8b37-e67344d981b6,5,221,5,Online
+9173f143-810a-41c5-9d51-e6f11e36fa18,2b475cb8-0aee-49f9-8f38-7dadfea0e5c1,7/5/2022,Checking,Yes,Reyesfurt,bd47f2b4-320a-4f13-ade8-e4a5117891d4,1,75,3,Online
+4b8c03b0-b335-476a-9113-49840b7ca6c3,a6b0ae76-b1e7-43b8-8e6c-3948c1de03ba,9/26/2023,Checking,Yes,Mullentown,d8630e72-0acd-4b8c-8c46-cd787fca3a1a,2,159,7,In-Person
+ac98a98f-43c6-4ff3-9729-4e855fb2d0b3,5400d888-c774-4029-9244-f48f49c42054,10/13/2020,Credit,Yes,Codymouth,83fe1749-9d40-4ae3-86c3-1218fe2579e6,1,318,6,Online
+e062752d-6843-4e25-b126-ca29a180b524,61447133-5f92-4a63-981d-ff82a33b10cd,6/26/2022,Checking,Yes,Kennedyview,3d782184-165f-4e53-b6cd-50551c41d561,4,116,3,Online
+b49b8b2a-5a4a-4ae7-92a7-472bbd610b3b,72e7d7bb-5c03-48e5-80f7-7772f53a9593,1/19/2022,Credit,Yes,Gomezshire,1cbb81bb-1d09-4c55-ab93-84da081ac50b,2,150,9,Online
+1f08921c-f31d-4012-9a6a-290e6c0a1f26,9f4c4f5d-70f7-4c83-9816-008e2547b711,8/13/2024,Credit,No,Lake Amy,d2853119-8e6f-48b7-be25-4b78e6a3f4d4,5,337,0,Phone
+6f87827b-1bb2-438a-8b47-db45995dc477,8496de34-8bc3-4a72-8ee4-364dbcdbaf92,6/9/2024,Credit,Yes,Wendyhaven,3e3b9208-b0dd-4061-ae2c-a8a38c0bb773,1,318,6,Online
+975a74e1-ae36-45f6-b8a7-96784538acd9,4c346788-b791-4cbf-a776-a0391cb65843,2/17/2025,Savings,No,Donnaland,2eb827b8-32a4-45dd-82ab-77f8abe5e91e,1,202,8,In-Person
+223bf713-4b54-41a7-9c5c-c0a1a91a882b,71331639-ab3d-4b86-9834-a0f6fd6a83d6,9/18/2024,Checking,No,Dominguezborough,2ccf41c5-a4dd-4bef-b5f0-26cc984415d4,5,166,8,In-Person
+4308a09c-b619-49a0-9974-12377fe0ca4e,3df47384-c200-4b60-a8de-edebb798e8eb,2/3/2024,Savings,Yes,North Steven,c315adda-a6d8-4478-8a9c-579b5ae6c2fc,3,362,7,Online
+63e5e04a-4a86-486a-94d6-1cd86510684b,6d4f3ae9-c37d-4eef-8209-7a4ebbe5d784,3/15/2021,Credit,No,Nicholsberg,b1653f89-7a05-4977-95c7-c7a0a4f4b852,5,309,1,In-Person
+d54612a2-431a-4673-8eda-4113d5910d33,bf59f917-0ca5-4e91-8200-619ed2005de9,5/2/2025,Checking,No,West Benjaminville,c3f360d0-d5b7-4a0a-8817-bdafc511f518,5,247,6,Online
+d40afc78-32d5-467c-b8a6-b9a241538dbd,704ccd65-d55d-41aa-9203-ba9690e50b98,2/19/2020,Checking,Yes,East Eric,40679b03-532a-4256-bbf6-e5f30b2413cc,4,326,1,Phone
+2a0b6be5-c77b-423b-b73c-98142473345b,78c474ec-5ae9-4834-a07f-4caa1647ce53,4/12/2020,Credit,No,West Renee,b1e32fbe-a14f-4209-9aea-c8fb0f9e86ab,4,350,8,In-Person
+91da9833-9e85-4697-b3d3-881c5b2e3412,c8c8d6d2-0064-494b-9d12-0d5716231160,1/3/2024,Credit,Yes,Cobbland,9dea77b9-61bc-4c66-91ce-766a841c0796,3,346,7,Online
+ec14e475-cffe-42fb-b35a-9ca9a584cebf,f9636c51-5c29-4698-a80e-407aee03da79,11/15/2020,Credit,No,New Mark,f2fe8173-cf73-48b0-9571-8a40cd5a8853,5,360,9,Phone
+d6bd3c28-4904-4821-9172-25331894976b,5071f36d-1c4d-4ce6-94fd-bd53e2b4b027,3/9/2025,Credit,No,Garciashire,4a8ce143-2667-4d3f-8bd0-8e0f7a6733ec,3,189,2,Online
+2aacfa55-953e-4697-bbe0-c5b1a7969dd0,661a5fec-03e1-43f3-a04a-52e4c243e6cf,5/27/2022,Savings,Yes,Fieldsburgh,3f953477-b3c0-4501-b653-434587cffcce,5,139,6,In-Person
+21ebcf62-80a9-42a2-b801-cc99e3f702e8,4cc54739-bdc9-499f-96ff-e6076d6c83ab,8/25/2022,Checking,No,West Sharonmouth,b407ad0a-c3ed-4aca-a35f-4f38232a7b80,2,207,4,Online
+3b374a38-c77f-456b-8562-04c59c8ad5e9,05a5bd14-558a-4475-b317-807332546a92,6/10/2020,Savings,No,Lake Brookemouth,ae21c27d-984c-45b4-a286-38869555df68,3,311,2,In-Person
+e9dbbb94-76b1-4d00-9b8b-dad2a909475f,d3dfc3d4-a1b2-4ee5-9b3f-76e6a4f695c3,3/15/2024,Credit,Yes,Andrewshire,5f46ff2e-035b-4f46-8690-39f7287cf979,3,139,1,Phone
+f8ba7179-5ee8-43d8-887c-6d7289174c45,636d42bd-378f-4c07-979a-51aa45925525,1/13/2024,Savings,No,Port Kellyhaven,7adf4860-573a-4820-b51c-5c83c0aca409,1,363,0,In-Person
+2555be4f-7368-4493-9f09-4317c0e23d4e,95254478-f558-432b-8330-7f2261def56d,3/22/2024,Credit,No,East Jeffrey,9b6c98a1-1d21-4cce-9cb0-73e4da33456c,2,218,5,Phone
+bb14869e-f6cd-423e-b14a-6c420296e8de,dbc4b66d-ce7e-491a-9721-c1540a5cec73,6/20/2022,Checking,Yes,Port Danielle,8bd2eda5-5cab-4d6e-92a4-00007a8bccf3,5,329,3,Phone
+8072b534-eb30-437c-9ede-cef42bd93825,6aa04f46-ceed-48b3-9ec3-c44dc79d4515,2/14/2022,Savings,No,Mcbridemouth,bbac56e0-0394-4d23-bf38-49e8b11489ef,2,109,0,Phone
+4b6691f6-32e6-4391-aaf7-2aef221b89d1,cd0cbac8-96e7-4d0e-9537-498cc2a32833,3/15/2020,Savings,No,Ramirezmouth,6166f7c7-849c-4c3b-98b3-aa052da9bea6,4,137,8,Phone
+9dadd275-0ade-4b7e-a127-f3046cb73bc2,50defab9-bbd6-4bda-b90e-fa8d5df5bac0,4/13/2023,Checking,No,East Monica,b3cbc702-9368-4607-b860-a34d0660a693,5,54,7,In-Person
+33a5f90f-83a2-4118-b1bc-201256f2e81b,d4bab775-7ede-468e-a184-4cedaa525282,11/23/2022,Savings,Yes,Campbellmouth,f92ec90e-b74d-4a51-911b-40740ee2b27d,3,353,10,Online
+317427cb-4f9a-4bb9-987d-4f92998eee86,2b5c9c06-73c3-44c9-808e-b4e9c32a2ff1,11/27/2022,Checking,No,Ashleyland,031586e2-75d9-4a05-9a25-b4f85b0acf2f,3,279,4,Online
+e6e82dee-51cd-4b6d-9a2d-3ca68fe81286,0d563e9e-7b1b-4576-bb81-da0066456970,5/15/2022,Savings,No,East Jacob,5613b8b2-ce92-4156-a5a5-5b01d27af557,1,291,8,In-Person
+86fc1638-3369-4285-8567-168d26d9f966,1ca433db-7c23-4403-8d5b-378ed346b8cc,4/26/2022,Credit,Yes,Gonzalesmouth,edbc3852-d931-4aed-b218-004a229808a9,1,360,8,Phone
+0e3e4ce6-5d60-4579-b5d4-70cee949e34c,2c63ae39-8f74-4823-906c-fdc289682381,2/2/2020,Savings,No,Davisview,b85316da-a458-4cbc-95d0-363dad535324,3,41,10,Phone
+02aab778-d828-4686-90f0-c4efee520369,fbee1bc5-d08f-4bfe-81ea-28e9e3ba341e,7/13/2020,Savings,Yes,Austinbury,eb68c4ba-c445-47c2-a2d6-1eedde2da6f5,4,100,3,Online
+40ac90eb-ac64-47c8-a2c1-2f49fd274b85,9e9bd83c-efb9-459b-bb95-e33aa9e41277,7/15/2021,Savings,No,New Jennifer,4046afb5-d85a-42e5-a058-7fc89b55166a,5,146,9,In-Person
+2ed38133-8492-4ff8-9eff-8321333d59ea,a8943fce-2ba5-443d-b05b-28f3a635edfd,3/14/2024,Credit,Yes,North Micheal,3cfe0ebf-f050-4d98-bdf5-7adf6236ba17,3,124,2,Phone
+f1d2b19c-8e27-4191-805d-4415e7ba55de,2ecd4f64-b4e3-442c-a39c-8683f893a29f,3/21/2020,Savings,No,Port Maryburgh,eeb80362-c859-4079-b9c3-9b1118adbd2e,5,47,9,In-Person
+43d69436-e7ac-4d55-8653-eacf9ca769a8,cf4b0ec8-ad76-4f97-907c-1bbcd6bb428e,1/4/2022,Credit,No,North Kayla,0628b6cf-7cf9-44f9-9287-5be974172dff,3,100,7,Online
+a3c53457-447b-4077-a304-2c93f97cb727,1e83423c-3e28-4682-b3ba-8fcd7313a0e6,12/7/2024,Checking,No,New Shannon,af578b68-d66a-43c6-8201-1e7cb2d6e917,3,241,0,Phone
+de5ee782-dfe4-438c-9970-2e50f3108890,bb6ba3ae-ab47-4989-bfbd-d432dd988031,5/3/2023,Credit,No,Robertborough,fac9e984-c7dc-4e82-978b-7e0a8259f86a,3,341,4,Phone
+08b54e2d-e19a-4dd0-9c86-2a04634735d7,01e288ee-b860-4cc2-bf16-296fd5b7bcf1,6/27/2021,Savings,Yes,New Ashleyview,26327c99-0e74-4032-8f5a-2ef8d4c95d92,4,283,0,Phone
+0bd1c986-e387-469e-bf88-db06f25cdb21,ad038e05-1441-44f2-9107-850886c66faa,5/22/2020,Credit,No,Katherinemouth,c1aae3f7-4502-4224-add4-d8332b1d3201,1,249,8,Phone
+8dea975b-6a13-42de-bdfd-43b8fb5d1d58,d816c0f0-1846-4446-82b4-a8e7bea7da88,6/7/2023,Credit,No,Wolfeside,fe1fb9a8-ea64-4688-9d06-b73993f1761f,1,118,9,Phone
+0ea750bc-1aef-40af-9aca-98b478358cb0,b51a7ce1-340b-4653-adfa-e8ada5445245,3/25/2022,Savings,Yes,Murrayville,6bbd4781-1b98-4f18-a9fa-26663eba9b20,4,230,5,In-Person
+861f5f78-7e01-4012-beb8-b8fac2cddaee,ac6e420e-1257-4d9f-936c-66a6ad0615ea,3/23/2025,Savings,No,Terryview,9667c317-2142-4d95-9b8d-c9d6170913ad,5,50,8,Online
+0c137415-4776-470f-af71-eeb9df5d43e6,1c8a74e6-b889-4778-b48d-3df77e1d815f,3/21/2020,Savings,No,Christopherbury,8c27b943-e9c6-442b-9d8d-769989433cf2,4,178,0,Online
+87e63999-f9aa-46f3-a3fb-d9b2c50efd94,54655fa7-9786-42a4-b554-9d55ec58c382,6/16/2021,Credit,No,Port Richard,3155d028-5433-4b97-9587-13e8805135fe,2,336,9,In-Person
+85c019cc-b971-4965-be09-bdf4a8e0fe31,ba9dfca2-650b-4b0f-9307-e271450b5bb4,10/5/2023,Checking,No,Porterside,3eba1c60-4a48-4fa5-8a3d-9cad0a9364f3,1,247,6,Phone
+d403f83b-7c20-49ee-b030-1be4645536e0,036fada4-d568-43f7-956a-8784686376a0,4/19/2025,Credit,No,Brucefort,d698277a-a2de-4ace-bb77-4e50c1785a4f,1,104,1,Online
+d0bc18ef-01ae-421e-a27d-d1f413c3d3ce,b9e4ffaf-6b1c-4d81-99b9-9fca964ac06c,3/25/2022,Savings,Yes,New Diana,79f775f3-f4ed-41a9-812c-5503b49bdd27,5,54,7,Online
+0617cd5f-25be-428b-8c8c-87840c321615,b2aa204b-7b8c-46b8-a068-c0e0414289d3,8/26/2024,Savings,No,Melvintown,ab14fa65-7bab-4482-b7dc-bf46f611429f,2,299,9,Online
+4c8dead1-d848-40b3-a555-38fd4b848749,3824d5c7-0f4e-46aa-b761-c7f53469fb33,5/17/2020,Checking,Yes,East Ericaside,95578d7e-fac9-4450-9d91-fcdfea02848b,1,109,5,Online
+1724954b-7f09-4403-b395-061e2d7a1661,e28655e2-1606-448c-b3b5-24ce3cb77cb8,2/5/2025,Checking,No,North William,bd8a086b-cdb0-43dd-a88c-8d35b2ce1d46,1,238,7,Online
+bc0e505c-31a7-469f-95c9-496623ed320c,ea8a0c50-3c78-4f7e-904f-64bc042778b2,5/10/2022,Savings,Yes,Hebertport,bce7d624-cdda-4d0b-8e9d-9b8d6344323e,2,15,9,In-Person
+8d2edb2c-26b5-480c-86b0-6d34285e51bf,ce139109-5bf7-4b81-86d9-5aa45863d082,10/23/2020,Savings,No,Port Johnchester,40215ca1-2ad0-401a-bc2b-310a1be434ff,2,150,3,In-Person
+c7807a7e-3b81-4441-88c9-37cc07eba4e4,effd10db-ecc1-4edd-bc11-dc30b4687f0b,4/5/2025,Credit,Yes,Sarahville,2a62e285-0fa6-4441-9b61-29284520f50e,5,65,1,Phone
+46e2a9f5-ac78-4a6f-a3a0-f940164ef4e0,80edf50e-4318-41fc-9198-c67ccb4309e2,2/25/2020,Savings,Yes,Hartmantown,af6a21d5-cdbf-4575-8d20-19d34bf0ad11,5,296,8,Online
+9ca9c091-fd17-46d9-9312-11ecd88a28f6,73a6bde8-3bf9-4925-af73-08bd3f9bdcf4,4/16/2023,Savings,Yes,Woodville,5691a6db-5410-4946-beff-08213f3ddf0e,5,110,4,Phone
+e4d969f0-7570-4398-94f3-06840d09a12c,8ea87647-af1c-4d8e-b58c-27a70d882972,3/25/2020,Savings,No,East Elizabeth,0e3f8056-4b2d-4e77-98f6-82e91ae2d001,4,94,4,Phone
+7a7f1389-5f79-4658-8ae1-68c0ee28be63,02eef7f9-91c1-49b3-9b4b-ee93b7510409,6/16/2024,Checking,No,New Paulside,9f91a219-fe80-471d-8930-44bb17879950,4,328,4,Phone
+e854dda9-25dd-4fb1-9747-4de34fc0f644,dc5b7b44-16d9-4e08-bc2a-4455c55d61ae,3/1/2021,Checking,No,New Johnton,f58916c2-1d4b-4d7c-b3a8-9856e0bf14a9,2,220,0,In-Person
+ad8dd580-727b-43b1-8669-1aac3cb752d1,b3acc395-22b4-42c1-b2c5-cbf554e48bc3,7/25/2021,Credit,Yes,Lake Melissachester,0a9893cf-2dde-4ed3-8895-76ef176aee3f,5,158,10,Online
+9a59c43b-628a-4947-9dc2-4a702a10e6e8,f364c2f9-dadd-4a90-bc2e-84f3d8d88b40,7/4/2020,Credit,No,Robertside,e10078c8-2ac1-4882-93eb-c89d28253b07,4,19,9,Phone
+6dd43760-57b1-415c-883b-9492c52a2f7d,e30c59e5-35e0-4a8c-be9a-9bb156f7ed26,9/2/2024,Savings,Yes,Barbarafort,b78ef298-352a-4320-9001-13b6909d4b36,4,258,7,Phone
+21536b3e-8c4c-4fd3-882c-3216e5d34755,38ace1c3-090c-4840-8ba2-9915774fb152,4/14/2025,Credit,No,Phillipsberg,19165eb6-fe1c-4688-8a49-b263c69bbb5b,4,59,3,Phone
+e40d75bf-ef27-48a2-8c26-861f70a8fa7d,b4c686b9-7580-4a7f-b281-8a68ef6e78d6,6/6/2022,Checking,Yes,East Charlestown,ea83a525-6a67-4c51-a7fb-cac00ad56ef1,1,72,0,Online
+bf063e5d-63c1-496a-b34f-2a64bc70a594,f9da18c8-74f9-48ff-be26-0c7db2fbaa3c,2/20/2022,Checking,No,Bowersstad,22e3b294-d2cd-48be-8015-ce0a4c0d3e8d,2,2,0,Phone
+58308b4d-736f-46aa-b381-c8e1dcd222a1,73f94736-54d1-46f5-9e73-593a183f8274,4/5/2022,Credit,Yes,West Carlos,cd89b12a-8a12-4e27-aadc-fdf381c698ad,5,138,3,Online
+70147885-6c2f-44e8-b140-9f8a1a8a974d,7cc192ba-b56d-46e7-b3fa-6514c57f9071,2/13/2022,Checking,Yes,Anthonyborough,fd657ec7-630e-4784-a8de-600315ae0b78,2,58,10,Phone
+e64a5682-bfd5-4f7e-905f-fedbb120e968,71ecb15d-45e3-4f0e-975e-0d58279779a9,1/14/2022,Credit,Yes,North Kyliefort,0e64349e-5f49-4727-9807-078a02e16930,4,164,10,In-Person
+0921b801-e21e-4583-abfb-35aed39de065,7c56da56-6f28-4c02-8ccf-86df693159c0,2/13/2022,Savings,No,Kaylaborough,56fb0846-a346-40b1-b584-934de2824ec8,5,365,10,In-Person
+f470d1bd-7b60-4525-af22-65233531d180,ad796526-0a91-4cb3-9fd8-536a63ab3e30,1/20/2024,Savings,No,East Melissamouth,85184877-3701-48ce-a17d-21cb87f2ad48,4,100,1,Online
+c2820d59-38ad-47f4-acc9-3989fb98e8bd,a83be39a-a4ec-41f6-b32a-00e037b14f8b,4/16/2025,Checking,No,New Thomas,a1a9e358-472b-4f33-974d-6eff540f6e1f,3,75,6,In-Person
+d245c014-5599-4293-9bad-e161cd00e3c3,58058881-1314-4ddd-b4ef-53a1f3454040,6/18/2021,Checking,No,West Nancy,3b3084da-cc03-421f-a640-77854050cd49,2,289,4,Phone
+d943147f-317b-42a1-9724-7063a58b51ef,07c75956-fd62-497f-9c36-0eaf20e4b989,12/27/2022,Credit,No,West Courtneyshire,b7f121b6-7f7a-4c56-acdf-6c6503a9c77c,5,199,0,In-Person
+92546587-ba95-4044-92ba-5d930ec1986e,9d834a87-851f-4ba7-8f92-acacabac1c34,3/20/2021,Savings,No,Lake Brianna,48df6188-df8d-4622-b057-30eb29794532,3,111,2,In-Person
+78e56908-55ae-436f-be44-7e646a7985e0,1d3ce52f-cbba-4bf0-92f6-71ab1f0d6473,7/23/2023,Credit,Yes,North Nathanport,84a0decc-663c-4507-bc36-72d8e451210f,4,281,0,Online
+a5d43fdd-bef6-4aa3-ae3d-0eea554b93ba,9b130a8b-2a77-4e07-8ee9-e958bb3c1c70,4/4/2025,Credit,No,North Arthur,34144f76-94c4-41de-83fb-7babf7a8124b,2,231,1,In-Person
+f3d642a8-d60f-48e3-bb4e-0136cabe2295,55e6f891-4013-4c57-b81d-a2700b88af43,12/27/2020,Credit,No,Riggsland,c25222d2-bbc1-4c30-bfbb-8f038cc3f80d,3,113,7,In-Person
+cd1b8431-f032-4f23-9d6c-61c8e605ba78,a0834ddf-50d9-4b56-838f-c405d1f075fd,5/20/2021,Checking,No,North Sheila,43d5e069-0c93-456f-b332-3a1991842299,5,68,10,Online
+47c94850-7920-493c-90b9-1bd4e390bccb,2608f8fa-d4b6-4cf0-a526-db393db5a819,7/1/2022,Checking,Yes,Russellport,77a979b2-0953-4901-914e-a44b250cfa2e,5,196,0,Online
+39c916c5-a1ee-4f27-a166-0408c79a229a,a4dbed14-e00c-44b0-849e-95a084df48d0,2/12/2020,Checking,Yes,Goodwinville,296f5e34-1093-44af-91d5-3a91a33b9dcc,4,54,2,Online
+fc66bdcb-a9d6-406b-98ce-74bc9c537bd8,90da760c-6e0a-46d8-a4c7-311a48fb3391,8/1/2021,Credit,No,Sarabury,9655fb55-7159-40ea-8573-67e856f4f131,3,15,10,In-Person
+b325c454-063a-40bc-8898-33faf03a86d3,e7d8315b-326a-485f-95b7-926dc88d7d6a,2/18/2020,Savings,No,Bradleyview,a783f096-3235-48a7-aa8e-25a3170659b7,1,319,1,In-Person
+97e8179b-45e9-4879-b12d-ae3d5e5a30a5,d04cc958-ec5a-42cc-a9d4-3321051c8a9f,9/28/2021,Savings,Yes,Richardton,7191ad26-f5ed-410c-b3c8-a7091c7457b0,4,297,9,Phone
+062efcd0-19cb-4eee-b68d-33c298cda0e0,f31c5611-3fad-45f7-885d-8ecea8c60716,4/1/2022,Savings,Yes,Abbottmouth,7fe9b117-b23f-4ba0-a21e-d0ff24accf32,2,126,1,In-Person
+8365e542-1bd6-4ae9-bc6b-219d11c2bdeb,9fcaecee-832d-4d5e-805b-b303aa1a915a,7/26/2023,Credit,No,Lake Marilyn,f948155c-9d8b-47a6-b663-d4c99520488a,5,241,2,Phone
+4c5c0ef5-ee0c-4288-9a13-c6c2d21a0a0b,62f52ec4-b82c-4e7b-9500-029b9b7b7aca,6/22/2023,Checking,Yes,East Coreyview,dc787fd3-ff8b-48f6-b9bf-e8b0975abb40,3,344,6,In-Person
+e4495b0c-7c09-4048-af6b-29653f38327a,fd6adf74-5462-455b-9961-75b0b7d9ef37,1/25/2021,Savings,Yes,Port Bianca,27a827d8-4999-4ca2-9ee7-b56b5bab4d42,4,253,4,Online
+64d9a30d-09da-4d34-8c4b-6f23d1b1ee6c,44e6e414-85e4-427f-b4cf-95352e4b6ef7,11/8/2022,Credit,Yes,Johnsonfort,088948d7-6ceb-49f7-93d1-ff392041fa19,3,128,4,Online
+957a9374-b2f5-4ff9-b355-2bf5fd37ba79,a6135656-e9b7-4f02-991c-674c446f53c7,5/17/2020,Credit,No,Hendersonfurt,f6fc95fe-d7a5-47b0-a4bb-702ed30b2237,2,303,9,Phone
+d369a229-fbbb-4680-b89a-c18d71daf100,099a4819-a642-42ba-99a1-d2acddcffe8f,2/10/2022,Savings,Yes,Johnsonland,3faeafe8-88f6-43f2-aded-ce4b3cbe45ae,1,133,7,Online
+adf9da19-ae33-4009-afed-30eaed07bf4d,78164c93-ebaa-41b7-a493-e9a4618478d5,11/1/2020,Credit,No,Lake Tristan,e574bc05-7e24-472a-9e74-647b7c510c5c,2,33,10,Online
+8ebb645a-38ea-42c5-bbe9-4d6904b82597,3b6a6679-34ef-439f-9d14-248e06078720,11/21/2022,Savings,No,Monicaville,85883bdc-a803-48dd-9672-0f248aa861c2,2,243,9,Online
+7995c459-ad07-4bd7-a3e7-da49acfe2de3,66b545e8-17ff-4203-b429-849855c12480,10/27/2021,Savings,No,North Amy,37e9abba-6ad8-48e2-a0f5-51845cfff7e9,4,186,8,Phone
+72be60bb-6575-483e-bf22-ad73787d75f1,2c7b2ef9-e135-4bd4-a395-f0b9bba79114,4/4/2024,Savings,Yes,Jacksonfort,a5251c40-ee3c-462e-a29f-94a39cd86dbe,2,256,9,Online
+777ba7d2-5230-43f8-aad4-7dbaa7000386,2f622474-aeb2-4d7e-b4dd-16617d1d34e6,11/5/2020,Savings,No,South Carolynshire,6671f93f-46d0-4b0f-a83c-b3f6e1b07c6b,3,2,7,In-Person
+4e717e87-0650-4df4-9c44-e436ccd5d540,833747dc-e322-46da-a85c-70b0dfbc3744,2/1/2024,Credit,Yes,North Joshua,ed6e9e48-3162-4402-8984-b8cc63d5d16a,1,15,4,Phone
+13ae0c30-af95-4b20-ad84-b7be9fdeec1d,0b22d89a-06b4-4eae-839b-a860d66f9c9a,9/1/2020,Credit,No,Martinezland,8e53b07a-d3ea-42b8-bba3-4d797b17b081,5,60,8,In-Person
+bdc38c40-78b7-4c79-9781-47987bde9508,79db77c1-24f9-452c-8880-fc3907b839d7,8/12/2020,Checking,No,East Cindy,f88241d2-b4d4-4ace-ba59-5264cf78d3a3,1,363,0,Online
+71f93a9e-7e83-48ce-999a-bcf91bdbd5a0,a5cf2374-80fd-4f36-8335-17bec4b98953,8/25/2024,Checking,No,Smithchester,b39e01bb-0b97-478b-8c40-e57dc192e3fb,4,62,7,Phone
+fa19f431-b836-4beb-98f5-9e32118b1372,aa409e0d-8c6c-4c5e-8ebd-5463efc6b0a1,9/5/2021,Checking,No,Bryanthaven,614cee49-41c4-44c2-951b-6765ea88a304,3,364,6,Online
+a886fea1-8eed-4318-8e30-d5dc3e0ccca2,ae041622-b6b5-4cd5-b18a-72c3995dcb17,1/1/2020,Credit,No,East Jamesside,cf58a08c-e658-4f95-964e-21d34a4acd08,3,245,6,Phone
+bdd620e9-b0c1-46a6-a2df-09a6af327fe4,ba94b62d-f5fc-4c9e-bf6e-383666a33683,11/19/2024,Checking,Yes,Cliffordland,34a665e3-8d85-4e4e-9e8c-dd2d47ed55c2,5,120,2,Phone
+aa3fb367-c7ab-4f84-938a-e887ba5cfdeb,50c8bcad-2d9b-4c5b-8a4f-c49f0046ed31,5/7/2024,Savings,No,Lisatown,93456623-9e36-4c6d-960b-4090b7ecddb2,4,300,9,Phone
+e604c4c5-0e50-4a7a-bcda-c0fd27ff47bc,2692d7ef-d9bd-4913-b20c-58cdeafdfc69,11/6/2022,Checking,No,East Sheryl,e7910709-9540-46d4-af19-d5179352f0d1,3,243,1,Online
+77b49f16-652f-4916-873e-7f4d41b39481,3bf91c55-43ab-4647-8ac6-d286d9e537ec,6/27/2020,Savings,No,Port Michael,38a77f67-4d42-49cd-bd78-cb18f63907f7,2,342,1,Online
+48cde458-2b4a-4bff-882b-2b8ec2ffb85b,d737f4a3-0e76-4ec2-9d58-885fa1f9c7f0,3/21/2021,Savings,No,Lake Jeffrey,0590ee3d-df39-403a-b35d-95e1510aa4c4,3,77,9,In-Person
+f08f2c04-5760-46d4-9eb6-3e27157a3738,0131691f-a883-444f-955b-b2dc07c3162e,4/3/2024,Checking,Yes,Gomezfort,e08d2e08-89e9-4306-a7b1-7287079a59f2,4,274,6,Phone
+b7e5c3bc-899d-406f-a5e9-5e79dcc6d7bc,270d2eb2-7e2d-40df-8962-396b4dbc2910,3/18/2020,Checking,No,New Robert,468a24ab-7375-422f-bedc-a12e8f9a30cb,2,172,5,In-Person
+336c2265-48bd-4d26-b265-94569ba38cb4,5f3e1546-863e-49ea-ae84-8d870aee652a,5/1/2020,Checking,Yes,Lake Mia,6c688590-cc0b-48c9-9206-a5dfea4ac180,1,356,6,In-Person
+543016fe-e793-4dff-b0ec-d471714a453f,2c38a0d1-c8d3-4f10-b04c-f648ec2fbad9,8/10/2020,Credit,Yes,Dennisburgh,e56f49d5-0c96-4480-930f-ff1ca568421b,5,307,10,In-Person
+a8611264-3b99-4bb2-a0be-1697ddd0c112,7a7f1c8e-346e-4438-a6c5-796e365dccf0,3/25/2024,Checking,No,Carrollfurt,fdf858f6-60d5-41a9-ab51-019d79c21d06,2,125,5,Online
+ef601373-b11e-4657-bf61-03198043fa4a,43bed055-a7b2-4cfd-9b33-af599c508bf8,2/14/2024,Savings,Yes,Aliciashire,d6a29a7a-a2d9-4943-99f1-8476b9e96e23,4,5,3,In-Person
+b7752053-e685-482b-950e-9eee2253c61e,ebb7a365-e28f-40ac-b308-ab68e9467c27,10/4/2023,Credit,No,Stephentown,3836efa5-ffa4-4df5-bec6-5071f76e4968,4,55,4,Phone
+f279d9da-993c-400a-9599-dd13a2601f3e,c8257dc7-1c62-4769-99a4-f581f76cc330,7/1/2023,Checking,Yes,Murraystad,0ad93ef1-3c1a-469f-8fe3-4be8b9e2cca5,5,210,8,In-Person
+538a4b73-53ce-4443-be89-bc6051319272,83396144-4966-41c2-bdba-f907d92b7142,7/7/2024,Savings,Yes,South Rebekah,17426778-1159-4ced-ac44-49c6211f86cc,1,343,7,In-Person
+cd58ecf4-531c-44df-94f6-c512c66f6098,3dc70c37-bd9c-482b-923c-c28290cfe3f2,12/25/2022,Credit,No,Millerport,bd53877e-e781-495f-a0d5-0a32bca3349d,2,298,0,Phone
+0431bf14-0cc4-42f4-a941-16f0a39b3513,6eee245f-0c7b-4dea-87a2-a5e58d0ca746,5/25/2022,Credit,No,New Davidton,d548db1e-04c7-49e6-b1e7-31b42aa7f3a0,4,203,4,Phone
+2f747749-2351-4b39-beec-a006e130d6e9,68a11256-2665-42fc-bbbd-4691da1eb932,6/27/2024,Savings,Yes,Smithhaven,3ffd34c3-944e-4913-9258-d1ac220bd0ac,4,190,0,Online
+9a8d743c-d867-47f5-9225-f4a589b2da1f,74f310a9-26b4-4685-ba8d-96548eaafcb2,12/27/2023,Checking,No,West Kellyburgh,9c57e77b-fb18-45cb-9a16-d694a0856545,1,37,10,Phone
+1179bd0d-1d61-4cdc-920e-030258b51d4d,094318c4-354d-4bab-9573-4960b9726b3a,1/14/2025,Credit,No,Jacobport,3e57dd0e-77c8-4474-b4ba-6756d03fb1af,2,264,2,Phone
+3cfea7b3-ce70-4d6f-934c-4794c3fd9444,496b2f8b-e3aa-4103-9d84-94fb7e9e9072,3/27/2022,Savings,Yes,Sarahtown,be188be6-75e8-4bfb-ae22-3427bd110afc,4,357,6,Online
+49bf6c0f-751d-4925-a246-a333ab57d940,cd9b139d-eab5-4014-a680-b0b719a1e854,7/8/2022,Savings,No,Robinsonshire,bceb28ab-c077-438e-b395-6c915469eaf9,3,91,8,Online
+cb097064-9291-487a-8dad-d9a996b63ace,b1de99d1-2947-4bab-8861-01bb261aeb1e,1/1/2024,Checking,No,South Jared,876c77b3-012e-424c-a4c5-a1dc6fac7e3f,1,320,0,Phone
+5d1867d3-3ddf-4efb-853f-eaabecb9d20d,4c403d5e-1c1e-4a57-8749-e855eb0e7de0,3/14/2022,Credit,Yes,Villarrealberg,5d8280f8-fbb3-41bc-8760-5a2592eb73e5,5,269,7,In-Person
+b925e327-4d1b-4a0a-b1c6-4bb7ab936aed,9b54d9f8-a327-427b-a325-407ab58bb02d,8/6/2024,Checking,Yes,Christianland,9ea7410f-ab42-4257-b494-55d7637411f0,2,278,6,Online
+93550adf-ec91-4dbc-8d67-b105bf15f106,e3c06146-390a-49c6-a700-fcc7ee351816,1/6/2024,Checking,Yes,East John,e2d2173b-286f-4670-8e3a-7e9aebe039ad,4,67,10,Online
+c273df80-c1fa-4616-87e7-33915d71c712,66dabe3d-5b05-4cff-a4da-13e4083c6c59,12/2/2024,Credit,No,New Paultown,e06bd0c7-4973-4bd9-ae54-4d60f7b3ccc2,3,194,9,Online
+b77b81cf-fe8c-44e4-9954-e417ab2cac06,65d8cc94-7280-477f-85c9-ed8c55da5d59,4/6/2023,Checking,No,Brownville,b6cfd71e-44bf-4c5c-ae49-2de41b6f7f5a,5,5,3,Online
+dab64ad4-0b89-4890-ac98-63e2ea96c9a4,3b669cab-1343-43d7-9065-361643ab0d12,3/25/2022,Savings,Yes,Edwinmouth,92182f1f-d1d6-4414-9a69-8e480360f20f,2,295,6,Online
+e4784d14-6bd8-4250-931d-05d66a14749d,6c8b2b72-fe7b-4494-9565-1f8e29c80af6,4/6/2021,Checking,No,Evansmouth,2e9cd784-e027-4d9c-bdf5-8c1200fe6aa8,2,294,0,In-Person
+03853307-5328-4d1c-8a5a-bf1dd686d634,848fbaa9-9f4c-4179-94ce-99d9844a6329,7/22/2023,Credit,Yes,Cooperburgh,20849c7c-3f03-40d1-a9d6-6eef709f4b35,3,264,1,Online
+9bb2b6d4-69bf-464d-a783-76f0867ec0d4,3c4b8af9-6aad-40f5-b28d-8e294ad42439,3/15/2024,Savings,No,Abbottburgh,2632dafa-269f-48b4-b56a-2210a3cc6dd4,2,46,10,Phone
+03638aaa-0408-48a5-a91e-9ae76aa26b14,a86dd312-b2ff-4d85-9b1f-86a073162eed,1/24/2022,Credit,Yes,East Ashleyshire,bf0071ad-e0fd-4fbd-82a5-9ed5b5cbcc01,5,151,0,Online
+13de85a0-feb8-4f09-85ff-e2941669ee13,4a47ef8b-fa19-4b31-af08-608c97a728fe,6/21/2023,Savings,No,Chavezmouth,4c4608eb-ce01-43d1-925e-0060e19e2838,2,303,10,Phone
+86bdd7f6-8396-4ff1-9676-0eeb859ce5be,16daa53a-4643-4845-8672-af29c16378c7,9/1/2022,Credit,Yes,New Matthew,58fe0988-aa7b-467e-ba1f-a14f1bb20cb1,1,29,1,Online
+5644e81a-62ff-42ac-bca9-97b86afe10df,f0290e05-eee5-481b-ab68-598f84955c6a,5/4/2024,Savings,Yes,Kellytown,dfb6b399-6155-47b8-a5d7-a262dd9e02ab,4,186,2,Online
+b71943a6-0fa5-45a6-b4d6-fa86f13b6420,0102659c-cb90-4d13-ab9d-f216e796e567,3/16/2022,Checking,Yes,Hawkinsbury,2f5e1302-5c2d-4c72-ac12-264b8d694c54,4,152,6,Online
+dded33af-9f7b-4cb4-a598-3c6d4a2f61d9,6eb424bd-6d74-4261-acff-76263e4518ba,12/16/2020,Savings,Yes,West Brian,85d269f3-da0b-45b0-a67c-a0e9cbb4c3a2,2,121,7,In-Person
+770c82b6-631d-4a86-8851-824ef52f71a5,14fa31e6-fb0a-43ab-9bcb-e41b6b4352c1,3/23/2020,Checking,Yes,New Soniaville,8877fe52-cd5f-4162-90dc-0889797f1c79,1,2,0,Phone
+62f4c304-35ab-45c9-86b5-f59e836767ef,92e68e96-a641-4d6f-8e6f-5559391c9d8a,9/29/2021,Savings,Yes,Vazquezville,c8b19cf0-a3e6-478f-8f64-8c05cdc03c98,3,296,3,Online
+4b3d95d0-3506-4f45-ae84-76731d720ac9,b30af55b-f5e7-41d7-8dff-3cd4a96b0aed,3/15/2025,Savings,Yes,West Alyssahaven,7d4f205d-8ccc-499a-babf-defb6cc66d60,5,341,5,Online
+cbc61a45-b377-4f6b-94b3-543352171d06,e9bbf81d-27cf-47fe-b5f9-a36e38a3d559,8/30/2023,Checking,No,Perezberg,7159be45-e3c3-4ff1-a967-b8807843ac21,1,179,2,In-Person
+531c6771-4384-4473-8ced-1d2a52056db1,00e71b5e-4d2f-4e5d-b318-58532fbb4759,1/14/2020,Savings,No,Christopherhaven,45862037-1626-4424-a1a1-8b244ce95757,2,150,8,Phone
+965b0e0a-b70a-4846-9e38-9dbd9e9a2f26,323bc3bf-4e44-4ea4-a5d9-0b9c47b0dbcc,2/13/2022,Checking,No,West Davidton,eaeb52cf-793b-46e4-ab33-26af3e5849c2,1,290,6,Online
+84ecfd44-2be5-41cc-bc8d-2f36a2a75626,954c9c85-7412-499c-95ad-fcfec3f45709,5/29/2020,Checking,No,New Rachelfurt,9a86e142-20ad-424e-9d16-1c7f965377ca,5,288,5,In-Person
+e199d01f-809d-4e88-a05e-ac11e31d67df,3b961cea-3299-4ec9-a2b9-abc55243ee4b,4/23/2025,Checking,No,South Kristin,e81534b9-bc74-47b4-b32a-ef4849ddbeea,4,233,3,Phone
+204fffcd-3b04-4be8-b600-3fae7e26342e,b17c0354-720f-4369-b506-846259d56d0a,10/18/2021,Checking,No,Port Sharon,79475c7b-ad7e-4dc9-988f-0d73f162dfe3,5,300,0,Online
+30f9d716-babd-420e-b33a-52c4746d3733,db08b834-50d6-4e5a-a62a-5a2c8c33842d,10/15/2021,Credit,No,North Victoria,43718d2e-6534-4c63-85f4-1358218fe096,2,351,5,Online
+891b6707-e75d-47ac-8b81-0baca14767ff,00648911-570b-47da-a6cb-6d08507c166a,4/3/2025,Credit,No,South Joannport,703cafd8-ff08-4d36-9d04-48b31229bef4,5,130,7,In-Person
+85d4c95d-54d5-4c8e-b30b-a983de704b2e,45c29daf-db3d-4d54-b7d8-e68d8f259225,4/24/2023,Savings,Yes,West Maxport,aa6f17ce-33a9-4030-861e-e70758c9bd20,1,26,1,Online
+11b35121-61b0-45d1-be6f-2b0ebc9e19a1,c01e3ce4-a54c-420f-9ad0-d3d8a38c155e,3/10/2023,Checking,No,New Bethanymouth,8f46f2b6-b2fb-4d08-9602-cdc6189a7917,2,231,0,Online
+de95a6ff-fff6-42d3-b3d6-34d1f46b4252,9927727e-3d52-44e1-be6e-5d71eaa55fd4,7/18/2023,Savings,No,East Kelly,3d7baa3e-b39b-43ba-9e7e-d95723623373,4,37,1,Phone
+9054f808-a3cb-4248-99ab-c22c051aa9b1,59788b80-c105-48d4-aad4-7e0d72d94db6,1/12/2025,Checking,Yes,Port Gabriel,a8633619-4934-4fcc-9383-1e5966fe80a4,1,19,4,In-Person
+79734374-63b6-49ec-a335-bf25437212f3,1fd0fd78-9e17-40ab-9a23-b7082560b917,9/1/2020,Credit,Yes,Port Danielborough,ed04337c-aa9e-43cf-9149-f3d7417f1698,2,124,10,Online
+86c01c25-dae5-4e70-a2eb-615121f7b37d,67cbf4fb-2118-4af7-99cb-05edc67a269b,2/24/2024,Savings,No,Adamtown,6c76e2c7-85d9-4fc2-8d55-ebcc85907700,3,296,3,Phone
+368798f6-9cad-4e84-94ff-0352bdb4c129,151f13f8-7cec-4648-b560-3f7093e3147a,1/17/2022,Credit,Yes,Brandonbury,34ddfe65-55a6-4f87-be06-8f6708ebde78,1,27,4,Phone
+90af242c-ca1c-4110-a350-6c685fd6511a,24aed439-38d3-488d-ba35-3e6887e57f9c,6/26/2021,Credit,No,Hortonbury,11869445-9dbf-45c0-854a-49f7e20dd09d,4,282,10,Online
+6e4e8550-efc2-4664-99c4-49d31de71d4e,3ee49c53-600e-4364-a40a-e5808242e6f7,8/22/2021,Savings,No,Jeffreyside,43e181b9-e752-4cd5-8bb6-d6f77497d8b1,1,236,8,In-Person
+32b47520-96f7-44b2-9e75-aa510bfc70de,90cb5d75-ec6c-4fa2-8551-a2ff0bec45dd,9/25/2020,Savings,No,Stokesside,fadf1971-54f3-4b52-8ebe-9f2b891ecaf3,4,277,10,Phone
+d173710d-7fd3-441a-979e-a5ba05aec906,eefc3249-0d41-4ece-84a6-55ef86fd25d4,10/18/2023,Savings,Yes,Nelsonshire,2223b27a-4d9d-479f-b7ed-7e501bb26428,4,318,3,Phone
+feb29718-ac42-4c72-916e-1bd60ccf437b,c711d903-8cc8-4df7-b503-dfe3e2e74f72,4/25/2025,Credit,Yes,Petersonshire,461708cd-0078-4566-b1cc-2b6197376d24,1,337,10,Phone
+61b35eca-71a1-46de-8a17-39eb2e8d21a2,ace667c9-0514-4826-a73f-96ea2e819c6d,7/30/2020,Savings,No,Leport,853efcb3-1669-4b97-834b-11e4e846ffc3,4,112,2,Phone
+fed1b0ed-a3ad-4bdb-b9af-04bb72cef55f,0b72bf0d-ba14-44e9-8675-15e69aef6109,12/20/2023,Credit,No,Port Brendan,1606c07e-2514-40de-82e3-d3bf4cd4452a,1,359,10,Phone
+5573f28a-759a-4286-b339-dfb281d52fa4,5bc6fa01-343f-4c26-a5ba-b2ace705c9f6,3/16/2023,Savings,Yes,East Shaneport,a948621d-1292-4f3d-979b-41f688e8fdc0,2,260,2,In-Person
+ecf51d6f-d104-47ab-96f0-ec274f8c831c,caac018d-aac1-4ffd-b407-5fa56d8006bd,3/12/2025,Savings,No,Melindashire,4441db75-8677-4fdb-acc5-67ed258ff864,5,46,1,Phone
+9addd631-dcc0-4917-98bb-e1cbd5adc812,3325c1ef-836d-4e0f-bb8e-959e27a303a8,12/21/2020,Savings,No,South Ashley,dcd5ab5a-59e6-451b-a0db-20cf53e69dc6,2,165,10,Phone
+95f345ae-a5e8-40f8-80ab-6a2b77af20fa,d40d2bf4-d11b-41f0-b19f-939f4a119dd0,9/30/2022,Checking,No,Riveraburgh,e5de868a-fb98-4a37-9a8e-a77522d6443f,4,338,0,Phone
+9b3ec6bf-c205-4589-a5d1-81046c2d06b6,5126f88d-15b3-470f-b042-e74410b45b30,5/3/2024,Checking,Yes,West Dylan,d48766de-2a25-4c0c-b872-7c8793510b9a,1,359,0,In-Person
+5f68dc7c-f433-499d-9c85-40ca3cbb05c2,c1701117-a8eb-4aae-bc0a-219d402ecbcd,6/18/2022,Checking,Yes,Ortizburgh,6c4c78a8-e2aa-471b-bd80-2738e5b9094d,4,261,1,Phone
+6c78ff9e-94bc-428a-8aaa-a63b6d775284,e5f16b2b-5fd3-440c-92d3-1492145fbb74,2/11/2021,Savings,Yes,Wilsonmouth,18630d4e-10a4-4869-aded-c66a74a57fa5,4,152,4,Phone
+f312a3dd-84d2-4281-bdf5-85f377c98878,39232d85-7714-4b4f-b89d-ff56162ddf1f,2/13/2021,Savings,Yes,Monicahaven,d62485b1-e8a2-4cc0-b730-90e37374c643,1,327,4,Phone
+6086eb31-f028-43d1-9bc9-fe3bc1e9cacf,fc03262e-0b25-4cbb-bb77-6dfc4ae709e6,8/12/2022,Savings,No,North Marcuston,6474543f-2b9b-4cf7-93a3-6f8029ea1210,1,177,3,In-Person
+f0604cee-26dc-46a3-8f90-f3591fb3176e,4d333278-d712-4d37-910c-624a8f693865,11/29/2022,Credit,No,Johnland,4aea8296-5eef-46d8-895f-32504e4a8abd,2,297,0,Phone
+6aa59da9-cfef-4f26-ad37-9e855455e4b9,0e759eeb-340b-4dab-a701-b04bbe512645,1/11/2025,Checking,Yes,North Brandon,5919cb7f-f524-4689-9588-a1a42e2e3938,2,137,2,Online
+e53912f3-3b52-4d7a-8b5b-ee618f6f26a1,a59940c8-6d4c-4053-98ca-655558e1ad9d,6/8/2022,Credit,No,West Malloryberg,a95d9249-f365-4b16-87b6-40b7565d3c37,1,141,6,In-Person
+fe3b56a7-42b0-4a42-8c91-b6d712c9cbcf,39a48c26-b6fc-437b-b3d5-d0d9d70de829,7/6/2021,Savings,No,New Bryan,3709caf3-2223-4159-bf8c-da6f3a00de78,3,27,2,Online
+5a43e910-94e3-4e00-8cd2-074845a4ad57,678fa43b-76a6-438e-a7a4-abaa4f2764d3,2/12/2025,Checking,Yes,North Doris,0a37338c-e252-41ed-b4be-1bdebd8ae9b1,3,195,1,Online
+fff28494-68af-48e3-9549-b28c3afdc2d2,321b7981-c46a-455a-a796-773bfc7ffaf2,1/13/2025,Credit,No,South Virginiaview,8d1fd485-a2c8-4f6f-981b-3cc45dc5f7f3,2,87,10,Phone
+bba96969-d74b-4b5f-b148-9eb604e05bdb,fe2f8ea3-e664-4c2c-8501-87fbfa8abdb2,8/26/2023,Credit,Yes,Manningtown,37e98732-ec33-4a3c-830e-223b68ef705b,4,98,7,In-Person
+efdeb2f6-0007-457a-8e2f-878d16b73e47,242e13ec-9778-4646-a52b-bd34ee0a69d6,6/11/2020,Credit,Yes,Kimberlytown,0fb92a1e-03f0-4a51-ba97-33c18500bb3e,2,272,5,Online
+cf29fa74-ce5a-4b54-8b36-dcd5b9178441,f2763a4c-a713-46c6-83ba-e42555f7a793,2/26/2022,Savings,Yes,Hannahstad,5d342d25-2869-4a84-a065-e98e4d8bb6cb,5,330,9,Phone
+a9b7c3bd-8986-4000-b1c6-a999b0fecf1f,32c316a0-d26f-4838-9005-d5e4cdfcc562,10/10/2023,Checking,No,Michealberg,f487e29f-0a53-4883-8d7c-fabfe90c9412,5,254,8,In-Person
+e7ba41db-d159-4c66-a54b-9e7b9ea68e8b,c9773f56-fefe-46ad-8364-5ac8af7c00d7,10/6/2022,Savings,No,Rhondaberg,ca32235d-9573-4578-8681-068a366bc617,1,361,0,Phone
+27421fea-ce21-4996-a2e0-bf3f5aeae954,495f2f01-c2ef-4d51-96f5-da9642da85c8,2/28/2020,Credit,No,Jessicaside,f755a1b9-9c0f-4044-9ffb-4902f0e572fd,5,165,8,Phone
+2ffe3496-e09d-4e55-a90d-db0b1b5950c2,87288a35-4099-4be1-a48b-eb256296c362,5/30/2022,Savings,Yes,Kellyland,afea2da3-4ebe-4750-9185-81a246838ee2,2,74,2,In-Person
+f8cff924-8a3e-41bc-b4fd-b0ebe99ea449,fa8fbf43-18d7-47f7-85a8-2328b37c88bc,5/26/2022,Savings,No,Selenaville,d1c9fedd-b84c-4c1d-80c3-cb0837569a61,3,274,9,Online
+6308fa69-5ee5-4c47-9158-bda0fe814cac,2e2973c9-0402-4b80-b219-daba2e4d39e8,12/17/2021,Checking,Yes,Jacobshire,37e4cfd4-cad1-4639-9353-0b148405eb8a,5,201,0,Online
+80db9f52-4e9b-4a60-9e9a-da7f0ce92751,c1651b52-3d2a-4e96-b21b-95cb37dda994,10/22/2022,Credit,Yes,North Angelachester,5a941354-520a-47ef-aeda-8e47daa6a856,3,296,9,Phone
+7ea2788f-1a6b-438b-b183-926ae9505fb1,3d38c35e-9dc0-49d6-946e-3d3f5c8ffbcf,4/13/2022,Checking,No,Port Glenda,249348d3-5015-44e8-a6d1-6357da2b77af,4,296,1,Online
+40b514f5-d5c9-4b83-8ec6-307848b46d42,43bf0a2c-044f-4a2f-b712-16945304c2dd,8/26/2022,Credit,No,New Lindaton,45f3bde1-06c7-4f1c-a9f4-1c39033774e0,4,257,6,Phone
+71e2aae8-ff3a-4524-a117-35eed61699a6,14a6be26-7ac3-4148-99c7-1a4cc072f029,10/15/2020,Credit,No,Port Nicoleton,09d2799d-6b21-4c54-b95c-cef1900fba04,5,8,4,Online
+69660885-9409-44b3-9682-4822632e6f99,8a695c0d-8fb9-496f-8230-d3bcac26c2ad,7/11/2021,Savings,No,Shaneville,73352350-414c-404f-b56c-0d9810518931,5,87,5,Online
+4c960461-7d42-4041-a76a-433d046f8720,51b833ce-6652-491c-af64-21b664d29679,8/12/2020,Savings,No,Williamsshire,6ed5708c-fe0f-43a0-af72-df5690e83553,4,263,10,Phone
+474fb582-5b93-45ce-bd62-f66d4a6dc82e,2709bf27-2310-46a2-8c38-141cc3c3bde6,12/24/2023,Checking,No,Crystalbury,426da8cd-08d8-49b1-b363-58128975fae6,1,7,10,Phone
+334c5e66-f33a-4b53-a3fc-99872b407809,55718bc9-970d-4e51-a420-ddd9531b9743,7/1/2023,Checking,No,South Connormouth,3882a1e5-50d1-4630-91ff-2a137b12f0a5,5,48,6,Online
+6a3758f5-9b9a-40aa-8731-7972c10b0e23,6570cd08-5c55-4566-9772-b0c4056f961f,7/25/2021,Savings,No,Russellton,a2d743a5-8f3f-430e-837f-12583dd0f6a0,4,269,0,Online
+b76de450-7eb1-4645-befb-6af94e38501e,13d65cc8-7d78-434b-b79f-85f356c0ca9e,4/25/2020,Checking,No,North Pamela,d8d5feea-0dd8-4234-ae6d-03ec654beab2,3,191,4,In-Person
+ccc92f96-437c-4e43-837b-319990022f51,cd5d2afa-cb7e-4a55-9864-a35fdd41c89b,10/3/2020,Savings,No,South Andrew,0609d40d-4d5d-4e27-a147-c387baccdceb,5,150,9,In-Person
+70a7f341-77a9-42a8-bb29-ee3547c26645,0fabb431-2d9c-4d97-972e-9fc3904abe7c,11/25/2024,Credit,Yes,New Jamesburgh,b32d1a3e-62a3-487c-bd6c-3eb17c861f22,5,2,4,Online
+8e558df7-930e-4df4-b5db-460dd37ca93c,500c5220-d494-43e9-8b9a-1a9448f43e8b,2/12/2024,Checking,Yes,Lake Hannahville,d30080e1-76e0-4402-a713-b3c41f94bd9d,2,11,2,In-Person
+75f729b6-c92a-4de6-b3d6-74347ae3f064,ee96c4aa-73f9-4e59-8eb1-19325accb910,5/6/2024,Credit,No,Jonathanhaven,7b481f2e-03f1-4ebe-b173-fa323350bbb3,2,356,6,Phone
+f518a8e4-f2ac-44c3-8641-0579e7e4ed57,c44b84dc-63bc-4c32-ab89-ab55a73dfa4b,2/12/2020,Credit,Yes,Ruthfurt,def85f22-82bd-4a62-8e69-dfedecfd32dd,1,234,1,In-Person
+aea57358-bb76-4cf9-9443-ec05d5e11fc3,61356c4d-b349-40eb-a39b-75d661d9dff2,3/30/2022,Checking,No,Johnathanland,8d10cdf6-66fb-4e25-b7a7-283c44bf86e2,1,329,3,In-Person
+ed77aaf0-9e23-4636-9ee9-5ba0b6cb6ea0,4b58b9f6-54cb-4752-a8e8-47f382c91c43,7/18/2021,Savings,No,Lake Elainetown,22c93b0a-c6c8-4296-b7f9-64e8a00949f6,1,253,1,In-Person
+4a0aaab1-f834-47c8-90d9-9465603d0d96,8560f079-e560-4cd7-be5e-dd1538cff821,6/16/2021,Savings,Yes,Joseton,a9daefcd-2d6c-43b0-acfc-be6c65898b16,4,204,9,Online
+c28dfa07-cf1b-46fe-a5d6-5957fd1be6de,f8c37356-b735-48a2-a410-dde027cf5c56,2/11/2024,Savings,No,Frederickmouth,1e9c3c46-1ff2-4db7-bd89-152ead0508e7,4,361,3,Phone
+ad0f9d7e-a381-4d40-ace4-5a6b8930fbf9,b0f634d4-c44b-4bac-8e18-cc92c2586f3c,1/28/2020,Checking,No,Lake Don,2a5b7910-61a5-43b1-9365-6c1bd535fdc6,1,79,2,In-Person
+a971c589-f873-413e-b984-2b275f94887a,d55097e4-9b38-489d-9def-715e74919496,6/4/2022,Credit,No,North Lisa,cf46c5b0-4205-4d61-a00e-168246b9d034,5,46,8,In-Person
+8195cad4-8ae1-4611-95ac-98d53aa024c0,2ee157f0-63af-4cda-a906-7a4a565c8e74,10/7/2021,Credit,Yes,West Samanthaburgh,101ffebf-21c6-464c-8c07-3dc33b76ba5c,5,211,9,In-Person
+69b11c3a-d5fb-492c-9bbe-140cdab23d95,3f0f6e95-528d-45ef-bceb-f150c6e1e19a,1/21/2023,Savings,Yes,North Kayla,c4843150-8d62-4b5e-92f8-17a24d92176c,2,258,0,Online
+9605a4eb-7226-498e-8196-859c037a7aab,ef4b81de-3a83-43f6-8ce7-b80a2593c569,6/17/2024,Credit,Yes,Lake Carlhaven,1716ab81-d6f5-4c0e-8ea5-154c53201789,1,192,8,Online
+3a512867-27c8-4b7a-9bd9-1ff1ace20847,62beec6c-cd3f-4bcf-ad1f-6392b0e2e657,12/15/2022,Credit,No,Port Craig,28916433-dadc-4e5b-9604-c0dddcdf01e1,1,86,3,In-Person
+15c2592b-9c8a-4b96-8f81-2164b33ac77f,fe62a053-f972-4b55-93c5-0baf17952baf,4/21/2025,Checking,Yes,West James,81dfdf38-0b46-442f-b517-24f5f5e8caf6,5,250,5,In-Person
+c202356d-9d57-4459-89d1-b8a0e636e40d,0647a683-3ebe-4cd5-8149-90ca4ea50265,3/17/2025,Credit,Yes,New Hollymouth,9e3355db-e34b-4748-8c47-ade98da76577,5,260,2,Phone
+ba008f5f-6261-4885-ae65-74ee5eb9e095,105fe585-191f-4704-bbaa-789bc2d8ac5b,2/22/2021,Savings,Yes,Garnerhaven,3730c9ca-4017-4c94-a72c-685d75e06b75,4,290,10,Online
+7c026d12-1cbf-4c5a-b7be-cffe640674d6,9ffe20af-c0f5-460c-9a9a-43602995d625,10/30/2024,Credit,No,Port Josephview,e5e982b9-ea3c-48f4-b7bd-f853f203cfa8,5,47,6,In-Person
+af854972-7fd1-47fa-ba3f-3cd31ee5d964,d44aba54-9b74-483b-8aeb-65bee9275773,1/14/2024,Checking,No,Megantown,637f83fe-ed14-44ba-a01e-ac2f8d6c5a4a,3,56,5,Phone
+ab7142c4-2cd0-4583-a911-363770792894,9fac6626-8bce-4327-ac15-633a342c5d2a,9/20/2023,Checking,No,Knoxshire,ef13f361-a43e-433a-b488-82a69f2e3bcb,4,45,7,In-Person
+a4605356-2c5d-41cd-991a-a7d9588bdd4b,4fd91482-11b2-4768-9dd0-03d6aaf6406f,7/22/2022,Checking,Yes,Port Kevin,89a5d354-f9d4-4679-8e1c-e8cd7cf41f7a,3,326,3,Online
+2560b684-cbf0-46fb-8a79-85925c592acd,78a00dde-061c-4cdb-9f16-46afd2ba1ef8,5/30/2022,Savings,Yes,Newmanville,919d0cda-ee53-45a0-96b7-f7522274bacc,3,16,0,Online
+3bdf04cb-04d2-4e65-a70e-b26e93ecac55,95f41314-a8d6-481a-9af4-c07dfd830d11,6/1/2020,Credit,Yes,Torresborough,da647bb9-209a-447f-9a70-3f0a8efa8169,1,277,2,Online
+6729f584-6bdf-4245-8ab2-d577e58fc7f1,c76277c6-f1ed-47f0-9036-5da91c4a362c,3/13/2025,Credit,Yes,Martinezshire,5defbd8d-29a5-4128-a60b-7c1c48059936,2,303,8,Phone
+d90f21c2-9160-43d7-a482-9d7f8b4fd05b,cf4b15a0-5380-4aca-9c4b-94514e0629c0,4/11/2023,Credit,Yes,Gonzalesborough,21134543-1002-4d20-98aa-3b2bf62b1d69,5,69,0,In-Person
+ba342cb8-4f48-4088-8cdd-af7949984948,3b9a4474-9498-44c2-b21d-638ad3dba689,12/11/2024,Checking,No,West Joel,3380009a-1dbd-42d1-a6ae-0d094c655aca,3,135,5,In-Person
+2c20de82-9d94-4a71-a736-0e0e29aa71b2,1a98afc4-42e5-4e1c-ab80-7e2e3cbc678d,10/13/2021,Checking,No,Port Billybury,1d408960-a9d3-4e3e-ab04-e8747704d405,1,248,2,Online
+f548fe2f-ba4a-4b24-af8c-1fccf379b1c9,af51d80d-5dd2-4d03-a6fc-5be06cc31ae1,5/28/2022,Savings,Yes,Port Annaview,dbaa79a1-15c6-4e12-8c53-ffa2739e103c,5,131,9,In-Person
+5319e9cd-0500-4235-9702-a6036b3dde8a,73b97c72-906b-4787-8486-ffffb113d7be,9/19/2022,Credit,No,Lake Samanthachester,81e43440-8156-4753-9528-1f7fe55030d3,2,279,7,Phone
+25009bba-fbb6-4fbf-923b-e1810ef4f73f,758932e5-833b-4c43-b517-760a439b8f13,3/14/2023,Savings,Yes,North Sharon,72e457d1-3244-496b-8df1-cd92f980444c,4,23,5,Phone
+8a1b5f22-57f6-4e3a-b862-e37c6ca44cfc,08d21724-6f1b-477b-a94d-c6f265962e15,6/13/2020,Credit,No,North Ryan,72ed7b22-67ce-4274-bb96-c930d28f6dab,2,255,2,Online
+dd0e54d0-e489-4894-8d3b-0e23f6428cf3,e06c395b-1a9e-4de9-9d17-e2c622f0b458,1/17/2022,Credit,Yes,Cochranmouth,b2c76386-a8e7-4b43-8201-a1434e144d34,1,82,0,In-Person
+e85ac418-b9db-4eae-a0b1-cef319bf0b54,5912b97e-15d3-4132-91b6-a88213382f07,3/23/2025,Checking,No,East Matthewhaven,ee3498f4-7a4a-4559-9120-99cc7bbb1ccb,3,196,10,In-Person
+775ad636-33e3-4411-a47b-78f66dc3c17c,51540266-ecc3-4579-b683-606d9a636547,1/15/2021,Checking,No,Kellyfurt,e451bc7b-548c-458d-83f9-91cf9753592d,1,261,4,In-Person
+caa2132a-78c8-483c-ab92-8bf33195f724,a978e88d-da4a-4f60-9123-186561ac2fbc,2/23/2021,Savings,No,Port Johnburgh,d3e3181e-7276-4646-a1eb-18cb57d8314c,4,229,5,In-Person
+76db6f45-66a4-451b-a9ac-6c4d8f87fd5d,87886ab5-9233-466b-afc8-5a6599359ab4,4/19/2021,Credit,No,Matthewhaven,47fd24c2-33d0-40bb-816c-b78e1782153b,2,65,2,Online
+8ea02df5-91eb-4e0a-b61a-f9f4076b6d79,8c1e4d24-d02b-45b1-bf39-df69c0b933c8,3/28/2025,Credit,Yes,Rebeccashire,919ad407-a3df-4919-bb59-aca8be8fa424,3,20,1,Online
+78a26fed-222a-4e92-97b6-908763f25539,19095848-1625-4b79-beb3-e5c9f88ffb1b,10/21/2024,Credit,Yes,East Dorothy,327bc5a6-ed9f-4258-b5ba-0cdbd3487d11,5,243,6,In-Person
+291a3d25-1a39-4a66-8303-d5348e2e4243,cab357a6-1700-4ff3-b82c-92f7f20dc161,12/15/2020,Credit,Yes,Port Kelly,e6487ac9-e006-4bd8-85f4-1dc70a83999e,2,102,9,Online
+210f943a-273b-4437-b5b3-51b7e8d86489,b26ceb6a-c1b1-4bab-9620-4ce1c0c97779,12/7/2022,Credit,Yes,Brandonstad,cd90696a-0f95-4dff-a10b-aa4965376a13,4,182,6,In-Person
+e5139286-3053-44b4-b887-2548e23d41dc,bb53afc6-4110-4178-a41b-888138e0a677,5/1/2020,Checking,Yes,Rachelland,4e864a29-ae27-4c16-8255-1c3094decdea,5,305,1,In-Person
+becdc850-534b-468a-a9b4-4e5a5e1f3fde,e54884c2-f096-41c5-8088-d4776c4cab2e,5/1/2024,Savings,Yes,Lopezfort,5b1f1e62-75c5-4296-861a-bebc96af8ff4,5,40,5,In-Person
+9060b943-ea33-4ff2-827d-018fbb3e0fcb,6cbc6be2-e205-4559-99d1-3d5d82656b78,7/29/2024,Credit,Yes,New Diane,b4660dd9-35b2-4507-b0e4-b75571fb2723,5,245,5,In-Person
+4b3dff3b-1d3d-4b1e-acf1-790b1afd1e54,8c17a30f-a446-4592-93ab-c315bf6792f3,1/24/2022,Checking,No,Donaldland,7c214d68-1be5-4586-97f6-6f884d87400d,1,33,2,Phone
+7bfc55ba-fd21-4999-beff-f6e0343af10c,59e9eff3-735c-41e9-ac1e-3224d638ee38,1/16/2020,Checking,Yes,South Marie,df0d240c-33c4-488e-8d9b-6f0a86642748,4,123,2,Phone
+d3df9f06-b785-4bde-b9f2-02a3ea64cc7e,4d4f235e-a0f3-43a9-933e-3305169d0618,11/19/2022,Savings,Yes,Omarborough,eb8e3226-0608-4edc-9b82-df020aa0b9ce,4,351,3,Phone
+724a524c-6b19-437e-945f-a93aa4afe22b,f7709d87-778a-4d80-95b7-2a8f10423051,12/22/2024,Savings,No,Andresland,fc598e7a-094f-468b-815b-831e378ab1da,3,32,6,Phone
+ba9e92ce-a1cd-4da4-87d2-041b5d835b36,107c1a10-633a-4c21-a833-49bf6c280d05,2/20/2025,Checking,Yes,West Margaretfurt,b88856e2-8a23-46f7-9c08-ab81a9841b53,2,79,8,In-Person
+4b66a0e6-f428-48a1-8de4-7c43ddb90826,54f11e19-c0c6-4370-893d-899d7d440908,4/30/2023,Checking,Yes,Rachelstad,284beda1-33fa-4386-9120-f33d51a75a5e,1,56,3,Phone
+b9ec6f47-e285-4582-b198-0d33b6080069,e0fa3562-14e9-42a4-9490-f9c7cd2d5653,5/23/2020,Savings,Yes,Hendersonfort,6beb5234-db69-4dec-b0bd-ce9daa440e22,2,46,2,Online
+37a592ec-3804-498a-b5f0-244fbef58f67,f019e4bc-2738-483b-b2eb-98c54f7a68a7,1/29/2022,Savings,Yes,Sarashire,3639ccea-c076-49e9-9a9a-57d91e20f7d7,5,180,8,Phone
+a63122d3-91c1-4d77-b288-33c2e9371d37,3ff08a33-59f3-4fa6-b4fc-c83b190e204b,12/17/2020,Credit,No,Nicholashaven,177b0bef-28c8-4e86-91b4-2b972601ef41,3,4,8,Online
+0c0fbfa0-a051-4043-98a6-13b96c419062,e8a5b139-a49c-445d-8432-2dcae011f73d,6/5/2020,Savings,No,Millermouth,79af5105-119a-41e8-a9de-406de8ecab04,2,180,4,In-Person
+49b9e433-84a5-4498-b708-646f02b7a986,ea75cc50-55f9-496a-83f5-1dafae75cbdf,4/29/2022,Checking,Yes,West Christopher,fe67d526-33c1-457c-8cb6-c98476a1a29b,1,80,5,In-Person
+dc106cab-8491-46b8-8d69-b434fe2bd9d2,9902c932-c780-4954-a745-1ce3676c7100,3/1/2020,Checking,Yes,East Crystalland,05dabfe8-4c27-486e-9e8d-218ad612ea8b,4,334,3,Phone
+c98d5050-afbf-4ab5-9f77-021e6c27e372,3f2a117f-14cc-4415-a052-5e8867f1faa4,12/31/2021,Credit,Yes,Williamberg,fbd0e0a3-c772-4a7a-8b41-01e6b2b07b6b,5,48,9,Phone
+698ba25f-3405-4ad5-8fec-675063e68478,9d0fac85-37f6-45da-808d-b224c43da679,2/19/2021,Checking,No,New Judithfort,7e913af4-c0de-435f-ae7f-9dd886469831,2,9,9,Online
+83c5618b-b063-4ea2-b4c4-c4499ab7dedc,a268a28c-2919-47da-bd1e-a21c60ce9594,10/30/2022,Credit,No,New Sara,76e079c4-b368-40eb-bfba-acead5be781d,1,286,9,In-Person
+fce2f3f0-6701-48ab-ab87-1e0e88f72e6e,c7476127-81fb-4505-b7f2-278c2272d2b7,2/17/2022,Checking,Yes,Jerryborough,12aa3d91-b557-4110-81a4-721205237c21,3,139,1,Online
+68682f43-3234-4fc1-acaa-7104f5259940,c9a4df7d-64c6-4a7a-9ab0-39f20d30ae2d,10/2/2024,Checking,No,West Justinburgh,332b4d4c-e4f9-4c27-bc50-f601f376a674,4,157,7,Phone
+b6434583-9b9d-47b1-bb35-5d5bf42f4e90,c9ea2315-2460-4d59-b86b-a1507480a3d8,11/21/2020,Savings,No,Wattsburgh,4fb7cf62-4e36-46e8-b134-6370dbb81490,2,2,5,Online
+49938a40-9503-475a-beaa-edb05efcc18f,b38900d0-ac96-40c0-8207-734f48c47ca6,8/19/2021,Checking,No,Kellyshire,1f0bc74a-906c-49d6-8e4a-fccb3fa23c5c,5,18,6,Online
+73462173-4ae9-4eaa-96b6-b434119467be,ecef8e27-2f53-4428-ba87-ded7666e3189,6/20/2024,Credit,No,Suarezton,eb42042e-484b-488d-b0fe-171559abe996,1,185,2,Online
+1ff80b9c-ec0c-40c5-8e18-5b95a77f6c4e,0ddba8bc-5402-4d16-a91b-e1efb45f3d18,3/21/2024,Checking,No,East Jesus,c7c0ee15-5d34-411a-9c42-1c48af352785,4,102,9,Phone
+45556caf-0784-4fdf-ad35-53bafb7f3ab8,65d16621-cf1d-4ec8-b197-47fde16d6ffa,11/30/2023,Checking,No,Timmouth,cbfe4feb-1215-49f8-9ebc-c5135a1bf9bf,3,336,4,In-Person
+2a758065-8c49-4604-a94f-eef79e50bd87,72c537c2-7afb-4ce6-a1cd-e52e87e07afc,2/14/2024,Credit,No,Martinezton,1862fe8b-1e11-4b8f-a4de-945f4905398f,3,204,1,Online
+92118e53-c527-410a-a32f-d02d45f5f19c,2708f301-a86f-49af-9ab4-dd8cafcc1f45,8/25/2021,Credit,No,South Peggy,b45f093f-83bf-4c02-b065-a1952de828d4,4,72,4,In-Person
+4abcae6c-6d66-49d8-9e73-b8b140a0f133,b0ae657a-7625-44a7-be45-6c328cd9cf99,12/15/2021,Savings,No,Donaldbury,f729b0b0-3a41-4def-803c-84a03ac85516,4,3,9,Phone
+8fa5a031-eb8e-4d8b-ac32-50f49e57362a,973f53fd-13a4-40f7-9ac7-9ee5af63b554,12/17/2024,Checking,No,Lake Jennifer,46d08699-4558-42e3-a480-d5a105dd32c6,5,225,1,Phone
+97961416-2fdf-4608-84a8-106c75040698,f30b1d5f-72cf-4f2b-bb59-c8010466fee9,6/11/2023,Credit,Yes,Samanthamouth,c403e406-cf99-4ecb-8313-818443aa2ac3,5,355,4,In-Person
+0a7b9b7c-3e0f-4b7e-9e65-a01d3242fc48,3f714623-24f7-413a-b3ab-a1ad3f5cb91e,10/23/2022,Checking,No,South David,441357ef-609d-4bad-ab0b-b620a75a5e23,2,171,9,Phone
+cfc320ef-3458-47a6-bd8a-c4fdf66ac664,15a8f722-f71b-446a-b3ef-258a2f80e803,3/15/2025,Credit,No,New Alexander,307d58cd-ef77-4e38-896a-d961d3708564,3,305,8,Online
+5c4e2869-b2ee-4797-bd04-c815945ad3ea,0bb0f8e8-5a2c-4495-8a5e-f1a918ab388f,5/7/2021,Checking,Yes,Deanbury,a2814b7e-8e32-488f-a7a9-f6ed5d87507b,4,352,5,Online
+b6fb469a-9579-4699-85eb-ad6bc4f72f9d,92b54ee6-8de2-4780-b5e8-0e9fde02f6fe,2/21/2023,Savings,No,Gutierrezchester,9cfa48d2-f773-454f-b6a2-cca64817fb50,2,365,2,Online
+dff1427a-0cab-4f7d-9b53-b14a5cb3a624,4830a0e5-74ad-49c0-b5c8-9c70e265db50,4/25/2021,Credit,Yes,Lunabury,b00565ce-897e-4fba-aa90-397462e51aa3,5,348,5,In-Person
+e7464da2-de87-4b31-abd7-6f0446461953,7b50b030-96c2-4600-80ea-1767f2fd274d,1/2/2023,Checking,No,Bradleytown,0be03403-018e-4bdc-bd99-0699d4d97a4a,5,233,10,In-Person
+e444fa81-e442-4d87-be62-c8d97832c369,a201ec28-0672-43db-9d31-6c45578b592f,2/6/2025,Checking,No,South Lucasstad,dbe44927-515e-400c-a399-36155ab02029,4,143,3,Online
+c9740452-2135-4f23-ab71-398dcdbdd970,6be5f74c-b458-4761-8308-84bab1fe9bc3,3/24/2024,Checking,Yes,Lake James,7f578611-3cc5-46c8-89cc-b27574400a2f,4,145,8,Online
+814dc13e-ce13-4c57-bbb6-1953649ede48,17f318da-7fbb-46b0-bbdc-b256b91f9f29,9/13/2024,Credit,Yes,South Emily,179c0001-8eb1-4121-be28-1ff743da5157,3,27,10,Phone
+460e9860-b70d-4586-a10c-d5a366606a2d,f85c8f2c-20dd-42e3-a205-c6fb4ac3e53b,4/17/2021,Checking,No,North Gina,2069118e-5a22-4969-99da-9a6f52af8007,5,274,3,Online
+84714fc5-b85b-4fc2-acd8-e06b48261833,30d6a86c-345c-485a-91a2-e39ec0f175c0,6/15/2022,Credit,No,South Michaelside,d49bcbaa-aad6-463e-8c6c-edd073628470,4,64,2,Online
+f34632f2-7dbe-45e4-a916-bc0c249e098a,25e52461-bd28-4f9f-859e-00acecbc2d6f,11/1/2020,Checking,No,Vasquezfort,f053cd58-80d1-47b6-a0d2-77f5072d5474,4,33,2,Online
+82e57189-2742-419b-abe9-514f61dfc65a,f5c280df-2184-416c-99d5-de4873661604,11/14/2022,Credit,Yes,South Gregory,3ce9b214-89a5-4189-9bef-cec61082187b,3,187,8,Phone
+ec2f9af2-38c8-4c3d-986f-610ac7b72f49,c21dc6b4-e680-44d0-8276-29b3b8f6b4f9,12/18/2020,Credit,No,Jacksonbury,b1b691a1-04c2-4907-9e81-5856cb1176b2,4,27,5,Phone
+a0a2be4b-bac6-4f42-bd88-34a94e6863c8,65a23a0c-c963-47cd-87a0-b6494df0bd83,4/18/2025,Savings,No,Jonesfurt,9455d012-bb00-40a5-8cec-8dda30d30bf1,1,80,5,Phone
+fa8806a9-2b85-40eb-8e05-3c9764472e3a,def85ab7-fb1d-4c2a-b5c3-7b8b22bac8c6,4/13/2024,Savings,Yes,Amandaport,56fad670-4110-406b-93cf-918c2ad65b72,4,285,7,Phone
+b82f9f9b-dbdd-4671-9d93-b2c6255cd13a,b74b3be0-c949-4d25-b46b-4bd4897cf9d7,12/27/2024,Savings,No,Garyton,ce075a02-7151-43f9-9107-59cb5904e50f,4,37,7,Phone
+3294894c-cbe0-4090-89ce-f12e4867c6fc,a31999ff-fc1b-463e-a2e4-71012b986eec,7/27/2022,Savings,Yes,East Victoriaside,0187b1d9-73c1-4db8-aa78-3e9393154b67,4,144,4,Online
+38680344-5722-4361-bc62-9fc528d4295d,bc6b3e95-57f1-49f9-8d78-43c588357c32,7/7/2024,Credit,No,New Jeffreyville,8f1c6ab1-502f-411b-80c8-3280a60eb68d,4,326,6,Online
+4da049f3-a227-429b-a961-79583479e500,ab687811-9068-445c-9b75-c77d2437916e,5/27/2020,Savings,Yes,East Michelleview,2f52fb54-47d0-46b6-bc6e-8dd0d75fd776,3,235,5,In-Person
+c0bb7eeb-6f05-4998-ae0b-ab31bbf3d20d,0ca0d7b4-96d7-4a0b-b1cf-9b6eae6252ef,1/9/2025,Checking,No,Lake Sabrina,9355e8c9-23da-4bef-939a-970919138802,5,21,4,Online
+4155b8c5-7eb0-4b45-8fc5-cc6c2f22e6a3,ef7b26a8-21ad-40b5-9d03-c1a9246b9c59,2/15/2020,Credit,Yes,South Calvinbury,90cc0486-a4a1-41fa-aff5-780755b6ff2e,5,0,8,In-Person
+6a9e6b34-993e-4e99-ad47-5820b4580b0b,b5b0e1ed-4374-4acc-9895-cd68a17e13d2,6/9/2022,Checking,No,Carrollhaven,9a6613b1-8f65-44ff-85f8-f608ebf12acd,3,212,3,In-Person
+ff2312f3-dad0-46ec-96ed-bb4b3f10037f,4d8e989a-c7cc-425e-8601-f16a6e888fef,5/24/2023,Checking,Yes,Jonesborough,bbaf912f-b3e4-43a2-b256-bbcdcbd2ed88,3,300,1,Phone
+dcedbbda-c8a3-4994-9d1e-eef1049e461d,dd7729ea-40ba-4c83-b815-0f87b7fccaeb,6/11/2022,Credit,Yes,East Joy,a3a76ff9-ab7b-4acc-a2bf-806ccb60440a,1,339,7,Online
+1ba4c7a1-0ad1-42bd-bd5e-1e8a0a006878,08791054-2f78-4015-868d-ea0e594abd2b,2/8/2025,Checking,Yes,Port Kellyville,f6d61331-f552-4b8c-bfff-b13fc2a50d28,4,105,4,Online
+3cc44d30-f6be-432c-ad12-da943a687ba5,dc6f87f2-fbad-4776-9ca6-721ad6c248a4,3/10/2022,Checking,Yes,West Cherylberg,e6937bc4-fcdf-4f97-b0af-e66bd08578bc,2,62,8,Phone
+b3014713-237f-4281-83f3-8984fc2e0ff2,cc8bcbcd-9744-4d5d-b3f2-ef3658cc3455,4/16/2025,Checking,No,Lake Hunter,a1408d67-7cc9-44d4-873b-6c6abe67ec9b,3,264,5,In-Person
+1c40375c-85b1-4589-9659-4fcc34900b7a,2192d27d-60cc-4866-ab19-6db821951b25,8/26/2020,Credit,Yes,Ashleyborough,d366fadc-987b-40bc-acb9-b1dd88f8602e,4,363,4,Online
+377e30e5-c7ab-40a2-8e65-babc2d7e2a49,55d2d68c-3812-4679-8afe-54681603dda1,2/11/2025,Credit,Yes,Morganside,62fad0a4-94b6-4024-aefb-78155244a798,5,58,9,Phone
+6ccdc371-f149-40b4-8f0c-6412600e1c35,9c4544fe-0e20-42b8-8499-0be7aa12ca71,4/21/2021,Checking,No,Port Amyborough,abc2cf42-7b27-4182-a27f-02768007d2d2,5,85,5,Phone
+0e5b9ebf-62f1-467e-b4b2-7576529db421,c6427cd5-f752-4f85-82ce-e31efb8a8e34,6/1/2020,Savings,Yes,Christinaborough,32c3de30-9768-4a26-8b9b-ea4c39d0f4e9,5,77,10,Online
+18a0f3ed-2259-45d1-bccf-849f7a366a51,29bdd783-5b21-4ae7-a1e1-e8e867684ad3,8/30/2022,Credit,Yes,South Melissaport,1a6b69ac-091d-41b3-9245-27bd6e584e20,1,66,10,In-Person
+62ecddb7-10a0-428a-94bb-6748cf0e2124,591a157f-d2f5-4968-9b28-f316790c459d,7/15/2022,Credit,No,Bakerton,d27eedf9-d96c-4d69-8a4f-925f8c916464,5,262,0,Online
+ba858cfd-1c7c-4519-bef0-adf63b93139c,af7a531e-0d0f-4f40-bbdf-356d54424af2,2/21/2023,Checking,Yes,Ramosburgh,f9684c1e-f864-4a05-9f69-dd6ea056a877,5,311,9,In-Person
+afdf1d02-3528-4ae1-95fb-b38cfe349a7b,7a0647e3-a22a-4954-97d9-5709a8561cdd,9/21/2023,Credit,Yes,West Lindsay,1da0362d-9832-468f-b119-5029e0c3f717,4,58,0,In-Person
+743c7a45-3976-48c8-b2ca-872588c43b8b,c2663f5f-d1ea-4da2-aad0-6826d4194738,3/2/2020,Savings,No,Janestad,4b2a739c-e0b8-4ccb-965f-9f92f451acdf,3,46,9,Phone
+9016ecf5-7e7d-4c8e-a110-dfd21e5a510c,0b70a203-5c37-4c18-8757-fc64f1fe5434,12/30/2023,Savings,No,South Ryan,17c2b0e9-af06-4406-85dc-aa6ee08adf54,2,153,8,In-Person
+36ee696d-abfe-4f0f-a789-3e329e8d5a80,dbd1e37a-fd8a-4155-b87a-0f6a04323af7,11/8/2020,Credit,Yes,Munozmouth,d1bff045-bd39-400c-8f78-ea313dd19064,2,256,3,Phone
+ed6a0e83-cb21-4246-ac61-0c5819ce26f1,c99eefec-c96c-4bd9-83a2-15082fed3ec8,3/24/2020,Checking,Yes,South Joshuaborough,c8bf7018-e925-4ade-8077-da74abfcd2c8,4,248,7,Phone
+4843dc9f-fa2b-46d0-b739-0ceb6924a047,e6a53895-1209-4c69-99eb-9e2d8cbb1820,6/28/2024,Savings,No,South Herbert,83dbb813-0753-4062-89de-6832474eb72f,5,34,8,Online
+c27e5564-8033-4d37-b67d-4f8a5274e54e,3055858f-3276-4ae0-a862-d0bb8c5b53ad,8/15/2020,Checking,No,Lake Craig,e8615fed-b247-4b51-944d-1f897aaf6f49,3,216,0,Phone
+93900b0e-63c2-4149-9bdf-63893af8f748,c33c1f78-1cfa-4a06-8274-8ca319cd79a9,6/30/2023,Savings,Yes,Port Alicia,8fc964f3-c2b2-43df-b636-e1385af5f587,2,7,3,Online
+113213c3-a5aa-4b75-bd87-f0ebbb02e81d,11a8caf6-476d-4c82-8f69-aecd35a25b32,8/1/2023,Credit,No,East Brianside,47587862-f914-4375-b7de-0a68723a2e73,2,240,2,In-Person
+2a4c7352-72dc-4947-b818-88b79a41f8b6,69ba9ab6-3c5e-4a41-9c53-78dd9f2533a0,8/6/2022,Credit,Yes,Brianbury,627a3774-7f8a-4a8c-b34e-107546ac87bd,4,255,9,Phone
+7fd3aaad-4307-43a8-8fe0-ec10eb988411,130016fb-3465-4c9a-932f-85c36635653c,9/25/2024,Credit,No,East Duane,f976fdae-8d62-4283-aa5e-6412d08328d6,4,338,0,Online
+ab5b043b-a096-45b3-8bbe-18e4de1c0706,2bae0ee6-1a95-439b-b07b-2c006bc741f3,9/17/2022,Credit,No,Lake Brian,ec57cc40-69b5-4988-966b-c634059c8f30,5,1,6,Phone
+6c9ca87a-b076-42e6-a400-11686cd0e085,75d84d8d-6a7c-47c2-ba28-fccd2d4e72b3,5/4/2023,Credit,Yes,Mcgeefort,c1146a8c-0d70-4e2a-8c73-dd4cee2540e8,5,143,8,Online
+88c0f4ab-ab55-4bab-857d-353d97be8973,8e27913d-6bc5-4629-a3d1-0d33f256b6ca,1/6/2020,Checking,No,Martinezstad,564cfc06-a915-4320-91c3-0248b37769c4,2,166,9,In-Person
+910cb96d-7fe1-4dc0-af46-5f1a6ae1a25f,4ecccce5-5ca5-4d04-8783-826d43ab664e,1/16/2021,Credit,No,Lake Deanna,891a20c1-0052-4d14-b9c3-dfe0fb0905ba,2,83,10,Phone
+55bbc2a1-a039-42c9-94fe-fb61a479c865,73154bf6-ede4-4a1b-a2a4-e1c0307d414b,4/27/2020,Savings,Yes,Hebertfurt,1cbe2e22-a41e-49dd-8e4f-6080ffd2acef,1,200,3,Online
+e1dbf7da-dd21-4cd9-9eeb-fe74499cfe2e,7790c807-222b-48ee-9d35-efdfda98505f,11/19/2023,Savings,Yes,New Benjamin,98b441e9-af86-465b-857d-c0e7afed474f,5,273,4,Online
+da0d549e-71d4-446d-a80c-43291869f2b3,4f00671f-38da-4556-968a-e41c4cf88b78,7/19/2021,Checking,No,Chavezhaven,0f7bdc66-4bf6-4355-83c1-12585f04ec8e,1,289,1,Online
+d1e92fa9-8636-4299-90b3-87f5c3e342ac,fc619454-767e-4d06-8541-8dc784c4d2ee,1/15/2024,Credit,Yes,North Susanstad,04d6891d-79d1-48e2-b603-dd15eeae1e1b,3,220,10,Phone
+23f10f94-92a9-4c80-a057-939c2bac1886,963ef1cd-7c50-41b7-92e2-e784fd14d71a,6/2/2021,Credit,Yes,Copelandfurt,bc3eda99-6441-46d4-9ba1-63bfe8396683,4,155,7,In-Person
+73e2bb57-918e-4b83-bcb4-12c16ffc883f,4cb2f0bf-3b2f-4f9b-b102-d4e64b51a22a,1/10/2022,Checking,No,Cherylville,81b97fdf-4266-438b-9953-97e3f5da2133,4,329,7,Phone
+bf4f2fa7-33f6-4414-8d6a-00adca9ac0d5,9916a234-e2eb-4942-be37-f95f6d241258,1/20/2022,Checking,No,East Nathan,ebb60817-72ce-41e1-a5ed-0287c34a7cf7,1,47,2,In-Person
+acde7a8c-e247-4333-8f50-05bb8fbcd263,2691220d-c1c4-4565-b49a-d0dd3e94fe38,5/12/2022,Checking,Yes,Christopherburgh,01122c7a-33e5-4a39-9a52-7677eb44e1b2,2,300,1,Online
+6db91d88-56fc-4d6c-a80b-996150b4ee3c,7e900c27-7c98-4dc8-b246-d3b1e81a52c6,3/5/2025,Savings,No,Ricardobury,93b87741-d543-459e-aa31-1154dc89d34e,5,265,8,Online
+63417bf8-d5b1-479e-9813-3b4c4af211cc,b9d92f17-ebed-40a1-bd5f-b3b9166d2775,5/16/2020,Savings,Yes,Jacobsontown,2756109e-36e9-4075-afd4-6af70475eee7,3,14,10,Online
+8a90027a-18a6-48f6-a600-18cd8936cb42,166b36fb-9ca9-40fb-8b1a-23ce3ff9c216,7/14/2024,Checking,Yes,Sheaberg,681e0d84-d0b9-4f9d-b7c4-e51349d462b8,4,68,0,In-Person
+41a213de-cf8b-45e4-b6c3-92c9c1c7e842,378e8283-b16d-4d89-af10-273bee95c3eb,7/8/2023,Checking,Yes,West Christopherburgh,e9525cb1-2ca7-403a-9de6-e77c0c9ab65c,4,267,4,Online
+21e69aab-d16a-4dfe-b4ef-b9fcd3a58283,1747df69-85f7-42ce-8a5e-d4a72446563f,10/12/2023,Checking,Yes,Dawnmouth,3623ba38-8029-4f7e-beda-7367ae9e7e75,5,361,7,Online
+5a9f7a6e-a3db-47b2-8759-a9b6ce6662e1,2ab9421f-8835-430b-ab88-238ee3e8ace5,6/10/2024,Credit,Yes,New Amanda,26596900-4cdb-4679-895e-93edccc9eb4e,2,69,0,In-Person
+0e5ccec7-e540-45d6-83f2-9e0e020af9a4,c12eefda-ebbc-4db6-85f8-25daaf352b1d,10/5/2022,Checking,No,South Pamela,34709c7c-ef43-4f9d-85c5-0d3d6c37a433,1,45,8,Phone
+7d6a595e-ce16-475c-865b-2a689e4fbe42,1722f7cb-8ca8-4006-b391-2ad3cbf8bcb0,8/21/2021,Credit,No,New Shawn,e242010c-ce4c-485d-9457-a47f2bd79769,4,155,5,Online
+328fe3ec-39aa-4488-9c0b-c14119b983fc,2969738c-adeb-4ad5-9c45-071617c12c17,2/7/2022,Checking,No,Dominiqueport,451a0c18-4f18-4a7f-988f-c55ad27648b1,5,330,8,Phone
+ca21336e-7bb3-41bc-ac33-c9ec8a2e2255,c29ec610-82b5-450e-94dc-3db68ada02ff,6/18/2021,Savings,Yes,Thomasborough,5868d931-6071-4e68-b915-4ed84333ccfc,5,73,7,In-Person
+2e873955-b295-4bd9-bde6-cc5acba40ae5,1bbd527c-29ed-4502-abcc-706e6d93400a,9/6/2024,Savings,Yes,Lake Edward,a032573f-2554-4864-8780-2bad1322034b,4,102,3,Phone
+1899d1da-74b0-4cf4-889e-ae55d19a6527,5442da50-fd25-4bee-9649-1a0e70c645be,12/16/2021,Credit,Yes,South Angelaside,66bff95f-e565-4628-afcc-159137cc3c77,3,245,7,In-Person
+af4988be-0675-413e-9972-e44bdf7adb1b,afef4772-69e3-4f47-b709-28bb175de8f8,4/5/2022,Credit,No,Flynnside,ae156f6b-e803-4b64-b85d-d27b7a818a43,5,241,8,In-Person
+11614830-de58-4321-b116-08701e2efb0a,43bd39ed-f7ca-45bd-b379-2277392fd3f6,10/17/2021,Checking,Yes,Robertbury,18ea1d95-36d4-4f84-b679-ccd18929fb9c,4,310,3,Online
+28e7418a-e47a-43a8-8c97-56964cb38c9e,85ba9017-51bc-4410-988d-0da4a5f0420d,11/1/2021,Credit,Yes,Matthewborough,653accda-d89b-4284-b68a-aa3208453d4f,2,348,1,Online
+48363e6e-25ad-4eb0-99b1-56fa5f6dfcda,aceaeacd-0d03-48cb-b0c2-7326f8f75952,4/14/2023,Credit,No,Jenniferhaven,6ed244da-72b0-49b8-8f81-51835fd8dbe0,4,170,4,In-Person
+fff0b661-ca40-4eec-bb72-b182f8aa1145,82ab9464-614f-458b-ab80-f698ead5a513,12/11/2023,Savings,No,West Matthewton,2e051379-5c54-4efb-a53f-3e4892fc0a1b,1,46,4,In-Person
+887f74fa-8fae-4807-9bac-f521c52e7673,cbf365e9-5f1c-4644-884e-26b1d6ced0ce,1/6/2022,Checking,Yes,Spencershire,f05cc22d-db7a-4110-b014-2caa43bee9ac,4,228,6,Phone
+eeea813c-b6a7-4828-9186-40bbe7dd483b,57d5028c-de5d-421d-a164-1b85c7c1d542,8/12/2022,Credit,Yes,Samuelland,fe9ef7fe-55e6-48c2-bffb-298a347c0265,1,182,2,Phone
+cedba00c-c04a-4df2-9edf-9ed6b957120b,04ffd926-8b0a-4eb6-af57-ecf5df573429,11/30/2024,Savings,Yes,South Angelaburgh,994a22d2-7b23-41da-a91a-0f4944fe65bb,2,20,8,Online
+761354b0-7530-4a94-85c7-086d943bf9cf,d9e61026-8ed3-4285-8ccd-0d5870e8bcc4,1/25/2020,Checking,No,Wagnerhaven,2e756137-2497-4c24-b69b-ce73c012022d,5,276,6,Phone
+6fdbf890-5698-485b-bf06-a38f69e43749,1ecd7051-6bfb-4cf4-b70d-5f9befb9d53b,9/8/2021,Savings,Yes,East Sarah,f8be91a7-a444-43fe-9d61-f039aeb10932,3,239,4,Phone
+35bfaa4f-32e9-4b23-a950-dc8d90a3a66b,e1f25c63-63f5-4d9d-b955-0dbcb47f344b,1/15/2022,Checking,Yes,Dawnfort,9c84b16e-db54-4584-8811-438e7e27d214,3,117,4,In-Person
+34039f9d-2afe-4036-8aa2-f001fc971a00,864e0a68-5cf2-4bb9-bade-61e0be4d7918,1/12/2025,Checking,Yes,Welchport,6c8e69d2-d0fe-4a84-9064-b00842ee3a9d,2,38,3,Online
+1d77d512-a9a0-4a73-9cf9-f9b9261bd9ae,d74b072d-63c6-40b1-94a8-7fa85881a3a5,5/30/2021,Credit,No,Denniston,c5fda141-e58b-440d-a39c-7b74408b18d4,1,30,7,In-Person
+c5819118-154b-4a6f-b8fa-829b20e54836,d7df3186-1875-4c97-9ccb-43567a2ca87d,4/26/2025,Credit,Yes,Lisamouth,7a4a5c60-9d66-44b1-bad8-9636246ea691,2,37,2,In-Person
+d7074277-1be5-492f-90b2-d78f7247568a,b967923c-b878-42e6-9240-ba1f1a0de10a,7/10/2024,Savings,No,North April,ad3dd13a-167d-4107-b8da-58b812cd2da5,4,273,4,In-Person
+8abda06a-c380-42b7-998f-0d818d359874,00c58ca7-a417-468a-b23e-d5566cdd8a23,3/29/2025,Credit,Yes,East John,17484353-3133-494e-82d3-14aed242c341,1,86,9,Online
+23fa1af9-c600-4647-bfb2-44cc5ca453b3,78881045-a1cb-44a7-9b67-b4959854f08f,4/2/2023,Credit,No,Lauraberg,b27c4a39-ee41-45b0-9fd5-aadff83515d3,1,321,10,In-Person
+87fc965e-3985-4992-8009-3dbfebb07909,baa6816e-9f94-4a92-82ec-26a43a0df1b2,12/28/2021,Credit,Yes,Schaeferside,9009fcec-70ed-4e90-90be-be7066cb2312,1,156,4,Online
+9d85106a-c8df-40f2-b8df-362351e34802,ef683558-cae2-41ba-b678-7a1519e15d1a,2/10/2023,Checking,Yes,North Jamestown,cac34e3e-645a-4668-93c2-dcadc64cd6c7,2,215,0,Phone
+a990a11e-2ee3-4965-a69a-e59c8258e447,3be1d7e4-ea41-4c1b-baf2-b5bd46686c11,1/28/2021,Checking,No,Andrewland,564fc875-d3af-4fda-b5ef-6fe0a6812c3e,4,302,10,Phone
+beb50295-0117-4038-bc15-64fc2daa058f,1008d9d8-f690-449d-bfc0-0d30e3e4c2f4,10/31/2020,Checking,No,Reedberg,e8e8a2eb-19b8-44d1-ad5a-52202e315cea,1,29,6,Online
+7c0e7479-1220-420b-8a3f-609f7bda0631,05521d5c-73f4-49ad-8f75-fba73b997bd8,5/15/2023,Credit,No,Stuartborough,1e221c95-4138-47d6-858e-b8a443ca334d,5,140,8,In-Person
+10c79547-832c-46e7-8f86-84a129e35863,4ed85753-189e-4f95-9f7c-c04f513e1f71,10/28/2020,Savings,No,Lake Karen,a33d941e-800e-4a12-83e6-accfd81b4400,1,168,1,Online
+474ab39b-1179-4f46-ad47-c35835667b16,1827fc5e-11d4-4480-9896-59c3e046c4b8,2/15/2024,Checking,No,New Robertburgh,35d5dbcf-4cd9-4299-8b24-fe805407de6b,1,299,2,In-Person
+fa9f9cc2-f0b3-47cb-b102-c8c8e4a957dc,4f24806b-daa1-4243-9642-b31343fb0a8c,4/1/2025,Credit,Yes,Jasonfurt,0556cf41-be0e-42d9-a2ca-7e99a69be317,3,325,8,Phone
+3c03f7ff-5541-432c-a205-fa605e0a6371,ea811aa2-bd65-478f-a378-2d007904bd67,11/11/2020,Savings,Yes,Edwardsfort,c35847a8-37bc-4ab5-a029-81b85b420d76,4,45,1,In-Person
+64e3caea-5f29-4e42-a5d6-0ea697e831e5,d1243a9f-d4fc-4690-8590-d3f7f776d5b1,12/22/2021,Savings,Yes,Scottbury,240fadfb-0936-4126-84fe-b6bfb2866129,2,359,10,In-Person
+28d12ed4-36de-4593-8b30-903f29061ad5,4e31a471-08ff-4628-8556-e818056c6eb9,4/10/2023,Checking,Yes,Richardsonfurt,41b0c527-5612-4450-9201-d8b5cd30c0ce,4,262,10,In-Person
+195493dc-271c-4409-be5e-64a60a325e25,f1c8ca16-9b53-4348-a07f-6000aa70b42f,4/15/2023,Checking,Yes,North Danastad,b36f610a-1dd6-41eb-a763-3e010636a925,5,165,3,Online
+739636e9-3443-480a-b336-6430d1ff690b,c1b534db-77b3-48fa-acdf-d24fa6d3c1e9,4/11/2021,Savings,Yes,Calebchester,35cf2548-c4c6-44fb-9c58-ac5acb01f9db,4,347,8,Phone
+0bd8d210-a98a-4249-b850-f751bee9bd3b,78d926f0-c45b-40af-925c-5b0a35c44249,4/22/2020,Checking,Yes,Lake Kevinton,92aa1433-58cb-44a8-a85a-69d93be3d9bf,2,269,2,Phone
+0337fc2e-30e4-4e4e-a659-69a98f78a84c,8d5208d3-6bea-4862-81c5-281a93e3977d,6/20/2020,Savings,Yes,North Christopherfort,a17a2eee-0339-4686-904e-17794a6c0008,1,317,4,Phone
+b077aafe-519e-4411-a102-7e678802eada,5ba86681-a6eb-4fc8-a1ad-5cc0ece95803,7/10/2021,Savings,No,Brandonside,41252f8a-729f-4cd7-9d48-f1c8843ad789,4,304,8,Phone
+bebd2e30-0d86-4005-9446-607d3b5ab4dc,9a947011-274a-4f3e-abd3-20928b409ce4,2/26/2022,Savings,Yes,New Joannburgh,3c0af9e2-bfe9-458e-bc58-2447572794f0,4,79,6,Online
+62f20ee5-f42a-4bde-87c5-2a8d519aa820,01d75f33-e41e-4fdf-8d3a-6da90953ffd8,11/23/2021,Savings,Yes,Lake Adam,c6fdafef-788e-4473-a41a-ab0636dc81f3,5,109,9,Phone
+fa061b92-536e-424c-a84a-e1f7f0a3b2b3,faa99cae-afc8-48e0-81bf-015d2494b53d,1/18/2022,Credit,No,West Jasmin,1c220d93-5cc9-46fc-b995-df5a929c2c5d,3,156,8,Online
+283b2158-056f-40d2-803e-1e93f80657c5,66788128-69b2-4ec9-a0e5-1296ed1b9a1a,11/9/2023,Credit,Yes,Josechester,7bdce084-c97a-404e-a7b3-09ea51202db4,2,258,0,In-Person
+fbae6a3c-d983-4e08-9590-5c601c74be8c,d85a20de-4baf-44ea-af62-245dd3ff95a3,6/1/2021,Checking,Yes,South Nathanport,d6cac8e4-71c0-492a-8490-03e429c1b5dc,4,235,1,Online
+20602778-2fbb-4c5c-8c51-66240478290f,c58f2973-ed7a-4dc9-b6a9-bd19ab4fa921,11/5/2021,Savings,Yes,East Debra,df7164c8-d394-4db1-b57d-fa891ba55b53,4,239,4,Online
+decc9ca3-8575-41ae-ba52-931ca28946a5,e555e7ea-95fb-4267-a946-bc34d832aa60,4/24/2024,Credit,No,South Ericatown,c1539d55-d9c4-447b-b13e-000789be3ac1,2,2,1,In-Person
+07a4a2da-88c6-4262-9b78-ea8453982599,4d040fe1-f797-4c59-ad43-29153b9c1b11,1/26/2023,Savings,No,Lopezchester,b07580b9-a194-470e-bad5-a9faf1ccba26,5,212,4,Online
+9987fc4d-c161-4e23-b4d6-9d7b9f5a43f8,1d6dab74-8e1d-460c-b0b2-be34b4ef08c1,1/24/2021,Credit,Yes,Lake Jason,a2532133-172f-4fa9-b24d-f9416391922b,2,184,7,Online
+fcc6bb40-7c2d-47a8-83d4-79d634cf7bfe,4f761b2d-5e0b-4d69-8646-e6d3553c0347,3/24/2020,Checking,Yes,Nancyfort,9df4acbc-1a3f-4226-afc8-370cc5c4ecdc,5,357,2,In-Person
+9b9cd140-6ec6-473b-820e-cf316e6afef3,c4db41d6-8135-4cd9-ad62-ef12270ce3fe,8/27/2021,Checking,Yes,South Bonniechester,7c878141-38a9-4bb5-b260-d1f2c6940ccb,1,287,4,Online
+4c86b3f1-b930-41b2-ac55-710478190948,0ac72d82-e8f7-4193-80fb-bced9916b951,10/2/2023,Credit,Yes,New Michaelstad,82c52582-d3fc-4e9d-a600-300ab7d1654d,3,78,8,Phone
+559568bf-daf2-40ee-8ec3-274a0e60eef5,0722649e-85a0-41a1-8101-20e11b061586,3/30/2024,Checking,No,South Danny,e237eeba-01d0-4e6f-a81d-54b4cc1d3361,5,99,4,In-Person
+86efe8c5-09e7-4683-86b9-677f23993a1c,150d7a90-77ab-474a-ba70-e29117e36f06,1/2/2020,Checking,Yes,Rileyshire,9277a201-988b-4dac-b5dd-0cbbdd8240c8,4,135,4,In-Person
+aec619df-49e3-47af-b230-2a41c00eceb8,efbc534c-a3ca-4e7a-86b2-1f136c49981b,9/27/2021,Credit,Yes,West Ethanhaven,4b41dab1-ab2d-425a-88b9-98e9288c5ae0,5,48,0,Phone
+a3ff7293-fd74-426c-8cca-79586dce62a5,6c15654d-cd76-4269-83e2-2fc08a9fa4a6,10/15/2020,Savings,Yes,South Robert,7389eb0c-84e3-4f68-ad58-ed60ee6dc45c,1,145,10,In-Person
+e486e5b9-995e-4c3c-8639-d41efb7242ef,e45be322-a8b9-474f-85a3-70f66133c493,7/13/2021,Credit,Yes,Davidview,a859ccb7-3b7a-4219-9e99-1c4c8b12eacd,5,365,5,Online
+424e2beb-b9a1-47a9-bc49-9f988ef25bde,ca362528-dcce-4f62-a269-ecacaf82b5da,10/6/2024,Checking,Yes,Robinsonberg,3a1aad15-b2cc-469f-be06-2b63ef98cb0d,3,162,5,In-Person
+00002740-9b52-4b74-864c-37cc8e75a7fc,e9429924-bfa5-4013-ae54-ec7f34f6a9db,5/28/2023,Savings,No,New Robert,78c4d2e7-ef9b-4d58-8c5f-15f41ce1e097,3,197,9,Phone
+51f3e64c-b02d-4861-914d-39b26baa7fad,1d328037-4de7-4eab-8149-f763ee54dc31,4/10/2020,Checking,No,North Sharon,04a80927-c2b0-4c09-a54a-83eb0609811e,4,221,6,Online
+51068132-2c67-4df4-bd03-32ae3338f8b8,919e825f-0f20-40d2-bee7-f56ebebffbda,6/8/2024,Savings,Yes,Murphyhaven,5e029ee6-7e99-4a64-9c00-cfe6f0ff82dc,1,91,3,In-Person
+abbf307c-46e3-4666-b4ad-540ffda0af3b,e6b7b1a6-1a17-4237-945b-396cffd55c0a,1/25/2025,Checking,No,North Tina,556cfef7-8600-4bc6-a6d6-6a6dca06b588,4,1,7,In-Person
+56c28c98-33b6-4c65-bd09-d7cb7f5e8b10,0652e8b5-8700-4fa2-8ac9-eca11ad610dc,10/8/2023,Checking,No,Port Joe,28345aa7-ae36-4d70-8957-7da0046217d9,4,166,10,Online
+f5e371d1-dfc2-456d-8184-c8a0954f7cd5,b94eb622-c598-4f66-a898-031f988580be,3/14/2024,Checking,No,Justinmouth,f0294806-225e-44a3-9283-e5de62cda1c3,1,125,1,Online
+ec30960f-3fe8-42ee-92db-ec70847a019b,c2271084-c8c2-4138-ab12-b10b13ff8ba5,3/17/2023,Credit,No,North Lindsay,39d4ea04-a9ae-46de-aeb2-7cfb8f2111f0,1,320,9,Phone
+ceaf38ac-5bb8-45a2-9e9c-8c2f37b30818,03a1fd8c-f1d2-4c50-bffe-3d5c711c2273,5/8/2021,Savings,No,Jillfurt,561fda6f-8361-4b17-b2ef-527f5f28f233,3,96,9,Phone
+e21d784e-ef7e-4b96-a4da-69e814a2e440,b6ac4a9f-4759-402a-8775-b723ba85ab19,4/22/2021,Checking,No,Lake Ronaldside,a9592421-073a-456a-a334-381021617afb,4,328,3,Phone
+e656a100-a554-449d-8931-c2bf75b609dd,93f67744-f804-4372-8be2-026c84172a42,5/17/2022,Savings,No,South Deniseside,0858fdc8-3d3d-4806-b30f-96280d40334c,1,150,3,Phone
+9f541024-f091-4c01-bb70-c936ad6c97aa,c87ffd02-b89d-43af-8a89-dff00e7049c8,9/30/2024,Checking,Yes,South Jennifer,2a427486-7ff6-476e-81a8-2ee2673c22b9,2,145,6,Online
+a8543d3b-5322-458b-861c-6ab7faa7c77c,0e1318b8-6337-4b35-b021-453ab067c7ca,7/5/2023,Savings,Yes,Hoganburgh,4bfa499d-87ce-4b36-9949-dff0758e6921,5,203,5,In-Person
+891604f6-741f-41f5-ada3-fc8be511fbe0,79e122e8-f427-41fe-a419-af3bfb81d825,10/13/2020,Credit,Yes,South Christina,f8eac065-e7f8-4dc7-bf85-38ec9822a3b4,1,33,6,Phone
+41ca57cf-319d-4b02-8f1e-24327b73d4a0,ee626dea-6703-4842-86c1-8c24f997502c,2/14/2023,Credit,Yes,New Amanda,66cbe04b-4d24-4d99-8440-55be8b30fc70,4,196,7,In-Person
+f0caf5ef-366f-4c78-a808-6b8b4f81aa5f,521d6ee7-111c-41b6-a1fa-bf007940b3c3,4/10/2020,Credit,Yes,Jonesbury,4a53a8ac-7bfc-44fb-a87c-bf05531eef82,2,176,10,In-Person
+c4fc7c41-d232-4928-b2f2-3244003f3951,b67827ce-6287-4f9e-9e7a-4c2e3f8dba44,1/6/2022,Savings,No,Port Mary,2d3f25f2-db9b-40dc-9e57-81c99b76618a,3,351,7,In-Person
+b7d191e8-4cf0-4473-abfd-256ce9896e42,7e6bc2cd-edd4-4904-9165-1c1d7e8dda81,12/5/2022,Savings,Yes,Lake Christopher,c2ed3fc2-fa30-46d2-9d1d-8b4c97b5071a,2,157,3,Phone
+48ba7e53-d651-44d1-8106-366a41da695e,345c8d7a-6ead-4491-9965-5da88f347379,6/18/2023,Checking,Yes,New Taraside,50adaf84-131d-4d48-937d-546acd55a6c9,4,365,5,Phone
+ce4c94b0-9411-4c6c-88ce-d4b0fbd170ac,dceca160-8af7-4f2d-9a1d-05cd8314a86e,3/18/2021,Checking,Yes,South Denise,798cbfae-6711-4165-a0ef-8ddbd0c2cffe,4,258,4,In-Person
+d7b2bf0a-b565-4c7f-9e89-bb1819b0e5b7,30569b79-543f-4f0e-b092-07f402b26798,11/15/2024,Credit,No,Thomashaven,a5ec7a4e-0cef-4e4f-839e-077c0b11c459,2,322,9,In-Person
+3e44faa8-521a-4ba0-a0d6-53ce2e76d756,23a60fc6-09ca-4944-b5e8-ddd8dfcc9732,6/24/2021,Savings,Yes,Hallview,036c1693-a32d-4d1c-a888-b7a073a07334,1,142,1,In-Person
+03598434-b6cf-4e28-9608-3c765a9eda99,0cf0dab5-3099-44d3-8bb8-e5fbef9ee7b4,5/26/2021,Checking,Yes,Jenniferland,52ab9004-0a0c-42aa-8753-d82b0c1dfdfe,3,232,9,Online
+0b8a26a7-34d3-4647-89f5-80670cee60a7,95494aff-38db-40da-8f78-94c528168a24,5/11/2020,Credit,Yes,New Andrewstad,50d0e860-f68e-4172-9c54-fe246ea98602,3,156,5,In-Person
+59d66d02-5f98-436a-95c2-37bf2323bec2,f8434b82-42e8-4a86-b485-0e2baa932d83,11/6/2021,Checking,No,East Melissaburgh,be7d8ddf-f582-45d3-9252-0c14bcbf45c4,3,317,1,Online
+52b32d70-1aad-4f4c-b9e4-ec1a20c6e9fb,aa36347a-0b1a-4a87-8679-6bf96df0f391,8/12/2020,Credit,No,South Juliefort,8c102a25-cf20-4b4c-a33a-717c9e5a0348,3,209,4,Phone
+b97792e9-03e0-4e02-8260-d76ec6f2dc84,ddf9fff8-20c5-405a-bc51-3bfff62d39af,7/22/2020,Savings,Yes,North Krististad,71caea87-ccd0-441c-bf8a-7268ba722ed9,2,3,8,Phone
+516c69b1-6540-4433-8472-44ec7eb401d9,506071af-bc1d-4d0d-a8e7-2afb62bd1741,7/21/2020,Checking,Yes,Hubbardstad,cb9093a5-5e72-4a40-b48d-903ad84689c2,5,33,9,Phone
+357f6c85-53c8-4c90-b662-19131fe07164,1bc0a409-7317-4a0a-ac45-19f6efc32e31,11/12/2022,Credit,Yes,East Ryan,38143f6e-d7e3-4953-b3c2-73e7c03bd4dc,2,33,7,In-Person
+1508c8fe-4279-4f59-9149-0e1df9cca9fa,d957fc25-5478-41d7-97d7-88853bfca9b2,2/18/2025,Savings,Yes,Rubioside,83ac705d-79c6-4412-8f6e-5a683149c9c8,3,1,3,Phone
+8460f36e-2811-4f79-a343-241ecb3dbe34,63186e36-b557-48a1-9529-62f801fba654,12/16/2024,Credit,Yes,Port Bryanview,7362320e-3ab5-439d-b8d4-0464dae04be6,5,285,5,In-Person
+d57f7cd5-982c-485b-b06d-a5be342c32d1,e797ad18-3887-41b3-8ccf-f7bd3314d4e1,12/13/2023,Credit,Yes,Ayalafort,a0cf4bc2-d0b9-42b3-a76c-9a44e50f71dc,4,283,6,Online
+7243c98b-98d3-4b29-8095-b3f11f5118c6,a9493da9-c2c0-485a-86cf-35bf5a00168e,2/12/2022,Credit,Yes,Michaelport,225ed484-3b68-46f9-814f-cd76499fd15a,4,160,4,In-Person
+3e5f0f55-eb68-42e0-86bd-fc6ee4c35d7c,aed97f5b-71f5-4243-b212-3775b155fa9e,9/3/2021,Credit,Yes,West Keithport,1c65f44a-cf6a-4856-b553-4240faa9eabd,4,262,7,Phone
+f701ed8c-2b80-4ea5-afb9-687e338fefec,24524116-9c7a-477a-9750-b64cf69a05c1,9/9/2024,Credit,No,Aguilarmouth,2d7196a0-93e1-4365-be1c-df8017cc7a8f,1,326,8,Online
+9952374c-217b-49ee-993c-68bed0431602,03ea76ca-71e0-4f92-8e80-93f0f9114db9,7/13/2020,Credit,Yes,Smithberg,168e7d4b-639f-4e35-9a21-7fc06c4aa46b,3,132,8,Online
+cf847456-a3e6-43cd-b7e1-efdc771dfff8,c054561c-e27a-4517-9d94-2af9f4f16b27,3/21/2020,Checking,Yes,Lake Latashaton,f94fddc8-5c3e-4481-b047-add79207793c,1,90,0,Online
+10d8c9da-99e4-4ad0-8607-25bbdad532b6,be8adf7c-273d-482d-9b75-0ab287aa43c6,6/19/2023,Checking,Yes,South Ryan,5273e102-11f0-4a0c-be66-53f8b296ab7e,4,60,5,In-Person
+105cbed4-18de-49e9-9638-136fa9e644ec,3e1d5181-692e-4887-8899-9c313088dd1f,8/7/2022,Credit,No,Johnsonhaven,d69642c8-69c8-4de4-bdea-3c73f6f1a095,2,150,9,Phone
+baa30c26-0691-4bd5-91c4-996daed66293,f4fdf7e6-c3b8-4560-b596-f56b29efd32b,4/12/2020,Savings,Yes,Lake Coreystad,4a86c35c-0564-4525-88c0-2ac9b3e0eb65,1,295,1,In-Person
+80d47ddb-2f24-4115-981c-be88d63ac6ad,62ccc10f-eb84-4d61-8f5c-778e51c0cb5e,1/24/2023,Savings,No,East Karenmouth,36af7b51-37e4-4b77-85c5-4cb74db3989c,4,273,10,In-Person
+3511942d-969d-4507-85ff-f5e3d50515cc,ff7de1a8-05f3-4501-9bfb-6dfed4da2d3f,6/25/2021,Credit,Yes,South Maryport,25ed1b83-3af6-4219-a129-bf4c902eb27d,1,120,6,Phone
+03bfb9e4-bf28-4f11-8905-d6143ddbdf73,5d7180de-1636-4894-b400-aef1d125c8bf,6/10/2020,Credit,No,Stephenton,5c5548b6-7e28-4a37-b48a-8a014ba8b525,2,107,0,Phone
+68456cbe-16d8-4427-bfbc-6451079ada92,e9991a0d-ef95-48c9-8c4e-020440454c82,11/17/2021,Checking,No,Albertview,c20b32f7-147b-43c6-ae06-d12da6ab9d66,3,42,7,Phone
+f7e2b43a-1f21-4ae9-bdf3-0974ea21d89a,8f69ce64-a660-4843-b012-8663d2867534,5/4/2021,Checking,Yes,Lake Michael,9efc4c1a-9ee2-44d4-bfa1-dab4420eca74,2,228,4,Online
+b9c39ca3-c53a-4756-a436-d3ddd8dd4df7,c56f72c9-85dd-4d3a-819c-ebd38c42bd57,3/26/2021,Checking,Yes,South Sharontown,4a0abb31-d2e5-4b2e-ada0-80c573b96c3d,3,112,4,Phone
+117e3c36-0ac2-4a8c-bfcd-d2eabe86478e,c0ca3ee4-af82-4333-abd4-e60a5dc56226,5/15/2023,Savings,Yes,Powellbury,562f74c1-279d-4aa0-9d5d-d3d88e5a507b,4,29,6,Phone
+92895393-124a-4d39-976c-2544bbd47c82,06fb346a-e0f0-4610-b92e-fadd196c443b,10/21/2023,Credit,No,Lake Robert,670ea9e1-517a-4415-8fac-e7c13f0edf2c,2,287,4,Phone
+43a7c076-8176-4ba0-a895-35f29c1d67d3,bd439073-8b47-49e9-bfec-ffb64de0b577,8/24/2021,Credit,Yes,Blackwellton,3c196d10-c24c-4e23-8642-074bce82ea65,1,114,10,Online
+719d00ee-3855-46d8-a308-40a66e67a572,45bbb1ec-8d83-4900-b0da-812c38b69478,8/26/2024,Credit,No,Brittanyburgh,c8cb08b7-36b4-498a-a526-a9724be7dc7c,2,246,10,In-Person
+76e2f9a3-7da2-4e77-bace-834992376353,91f3c35c-948b-4d70-b3be-cab85ab2f176,7/15/2022,Savings,Yes,East Andrew,a3d4cc26-19cc-4350-a61a-326bfc1cad5d,2,150,7,In-Person
+2972670e-b998-4273-8117-c777fd8f6a30,902defc1-b126-40f7-9748-ee4a9579f379,11/16/2024,Savings,Yes,Braunmouth,12e62cf8-1671-40c8-9682-b35c5f128931,5,50,0,Phone
+64ac0daa-4881-467b-b64d-6202ca4d7171,59774e26-76d4-4a33-a8ec-75c02add80f1,11/13/2021,Savings,Yes,West Ericfurt,fe6a9763-5751-42ab-8d6b-9bd7cf7c8329,1,91,7,In-Person
+18f3647a-e5ad-4aa1-8fa0-336f28fb6001,7b1c1f11-572a-4b8c-979f-da922eb36234,3/26/2022,Savings,No,Bennettview,a0f7a3b0-96b7-42a4-aef4-05de13f00676,1,317,9,Phone
+fb85b6b8-cab5-43ec-a7c2-5f33f11b9aec,547667ed-2af7-4e50-af9e-af646be5d582,8/30/2022,Checking,Yes,Mikaylatown,26cdda2d-8807-4612-be8e-91bac0a9af34,4,172,5,Phone
+3115924e-7bce-485b-9e16-7674c8fd749c,6f5a533b-1a4e-4437-bda4-cab735588abe,1/5/2024,Credit,Yes,Victoriastad,b4e7e6da-7ea8-4004-a7f4-59c56d307196,5,272,4,Phone
+6b816cf7-b1ff-438c-9c57-155badf01a75,814f0408-5d99-4755-aaa2-f0df8df1f42c,10/6/2023,Credit,Yes,Simpsonshire,51a1a162-26cc-4c1c-9923-3743209d23fa,2,320,9,Online
+894c907c-d66d-4be2-9bd9-fd03c8bc002b,4de2eb18-c04c-448d-8b7f-6361637807dc,2/2/2021,Checking,Yes,Stevenfort,fb057d36-43c6-4b31-bfc2-c535df90c67b,4,230,10,Phone
+ded38d27-1abb-4de7-932a-88813763de7f,aabe6324-8c1f-433a-bc9e-4cdcdb3d55c3,5/7/2021,Savings,Yes,Coleview,095fb075-73e0-47f3-bbe7-6f1d7649c003,2,91,8,In-Person
+07a39a83-c6b4-49c0-b6d6-90ba86ba327e,b6e31a0e-7eec-4435-b0bf-4c227996fce8,10/6/2022,Savings,Yes,Millerfort,c12b8140-2dec-4d94-96ab-4f2b3a524ec8,2,111,5,In-Person
+7886870e-f77a-469d-bc81-6113fb4b2267,9f51b89e-79c2-4ad3-9171-bd190b02e51f,8/21/2022,Credit,Yes,Lake Troyhaven,2be18638-b84d-40fd-934f-a8d18302e1ce,3,198,5,Online
+8f27e051-5e5d-4da0-92bb-63349c30fecf,1c206aeb-455c-45b0-bff1-0e6bc8917781,5/19/2020,Credit,No,New Stevenport,958845e4-982b-4ead-ab0d-a7e9e9244bb8,3,122,10,In-Person
+7bfc4345-09a0-4a00-a8bc-586fb99b1f4e,9b355da8-1472-4940-a956-c0f0a7c14cf3,9/17/2021,Checking,No,Johnberg,e299f59e-01e5-49e3-87f9-0753fd2d50d7,2,261,2,Online
+95771377-b582-45a9-979a-b7d45ad34ec9,6c3d4df5-634f-405c-b996-606a44a10974,2/4/2023,Credit,Yes,Johnsonside,31d6ce0c-9cf4-4c6a-85f6-cc73b0b53281,5,247,3,Online
+a656ac23-8b86-438d-a131-166a51a16d03,6bb7e089-0248-49d3-b1a1-9a0a81cb6582,8/6/2020,Credit,Yes,Roberttown,8c32ff31-ea5b-4dec-b353-e3b0313747ea,4,313,7,Online
+a360c62b-68de-432d-89f5-49955f0adcd1,6b11f246-90c4-44a9-bf5c-2e8d79ebef3b,1/30/2021,Checking,No,Smithtown,a4b6b627-639c-4782-850d-f50168fd50a7,2,169,8,Online
+bd3e1f75-9801-4a68-b82e-94f86c60146e,d5988683-b060-4652-a86d-477fe884dcb6,6/22/2020,Savings,No,West Devin,c9b77a7f-047c-4131-917b-af9fd5a1a081,4,293,4,Online
+6e4d7d45-e95e-415f-bfd9-e0969b2923dd,d8cc35a3-63cb-49e0-8729-51d1cc83fe6b,2/20/2023,Credit,Yes,North Jeffshire,a4755530-47b1-4772-b639-1570b6085bbc,5,201,10,Online
+02c1e9d6-b515-4116-ac71-09131c139171,6786aa5d-f3a2-4403-8766-d38622751987,9/12/2021,Savings,Yes,Justinland,8fdea415-48a8-4627-b0d2-f514c4140252,2,246,3,In-Person
+a8c9ef63-8584-4080-b3b5-33365090d7a7,56dd714a-3b9d-4d4e-b27a-f4cc4a27891c,2/25/2024,Credit,No,Hendersonshire,ad762319-8c36-4d5d-9f3e-dc1336ff057b,5,105,10,Phone
+0fa333a6-d679-4703-99f7-07455d246446,af046eec-c161-45e1-ba5a-2ca0609fb21e,2/9/2024,Credit,No,Michaelton,a62dac2d-bad0-4d80-b758-1ba839a10476,1,2,0,In-Person
+960a2929-ed1f-4f89-9c69-836a413fd043,ca192b8a-5124-4343-af64-727deac7d6d3,8/4/2022,Savings,Yes,East Melodyland,fce18911-3495-4877-95f5-0b2ca08fc37a,5,65,0,Online
+d8fe00ac-7c84-45d9-83fe-025ff2aa5528,7e277b82-e142-411a-afc8-dba66af6880a,7/29/2021,Credit,Yes,Morganhaven,59c67f1d-db13-49d7-8791-00d24d778f4c,2,361,4,Online
+9885a450-4071-451a-8028-c8665aa0db52,34ed5c6d-4e1a-4930-aa23-0d7de34fd1fb,7/9/2021,Savings,Yes,Lake Josephfurt,7c73b663-db6a-46ab-9054-f945f510479d,3,199,9,In-Person
+c6c57858-f943-45a7-b6bb-0419f09a3914,e59e9f8a-e4ca-4f22-84d6-a99fe34ab065,4/16/2021,Checking,Yes,Balltown,2e5b1a98-bec2-4a5c-b771-cfea84f2a800,4,173,10,In-Person
+fabff939-a73c-4e57-9027-f1c23fa1272a,53159520-cbde-49d6-80c6-96037493f96c,3/27/2023,Credit,No,Port Katrina,b1f0b9cc-d9a8-4457-b6ea-e9bece735b14,1,324,8,Phone
+7f41056b-7eb6-4e09-874d-ad5febd4d8ed,67f41f1d-cbbb-492b-a70e-65af95801288,1/28/2021,Savings,Yes,South Danny,eb31e969-b3ea-4805-826d-ed61d81c62cc,3,80,5,Online
+fcda37cf-faee-4f29-9b82-859b80ba28de,9ed39951-f5bd-4f07-8989-f61df979401f,6/24/2022,Savings,Yes,Taylorport,08390586-1f7e-4e19-ba54-78011a594589,4,77,1,Phone
+0c8ab932-05fe-4b33-8d55-7cefd37b5d53,e893d9da-06c8-49cf-a321-116221b5a350,6/22/2022,Savings,Yes,Amyton,a4a5d3ee-2280-4d28-943f-c8e8819b23b7,3,251,4,Online
+c4bdb420-fc29-41ef-8d60-f9452709af73,d503d25c-002b-4bcd-94ae-3a7b87e480ee,12/29/2023,Credit,Yes,Ochoaport,ce9ae085-b0bf-4412-ba0f-397be8c67888,5,121,5,Phone
+7d373eb5-ae96-4340-a881-57ab8bf5ffff,2d286b3c-c697-4f2d-bbbe-ea619deb67c5,4/14/2020,Credit,No,Port Dean,4b09cbd2-7f88-498a-a88a-edc4d79f264c,5,137,5,In-Person
+d6e0cc72-938b-4179-a834-7a3c96afcdd9,3ac10b5c-cc08-4604-9b3d-29bb93b29762,5/23/2022,Savings,No,Hartmanport,90eb720f-858d-4b53-a660-504f59ce38f1,3,85,7,Phone
+cb8cee43-47bd-4605-be39-5d2293e9c35c,ecbfaeb2-47ef-4903-bc25-70579f160564,2/25/2020,Checking,Yes,Brandonmouth,396acbef-5f9e-402c-8cf3-e30a7bc6d714,2,32,0,Phone
+6cf47607-979b-40f5-9c15-9a42c8fd2cb4,7afeb4f7-44f6-484f-9853-50d8c3bb89af,6/11/2022,Checking,Yes,West Janet,677160c3-a0ed-46a3-b92f-8a5830058aa3,2,200,5,Phone
+6fdba8d9-3acf-499d-aa00-7f95cd13194c,3e285d50-7271-4838-be5e-f2b805f13fd4,5/18/2025,Checking,No,South Bretttown,a32ed8ec-dca1-47e3-b0d3-2c1af97ff113,1,175,3,Online
+c89429d1-a40d-4a87-9fb3-a7db49a6f90e,4bd54612-d2d9-4c64-804e-f28a1e05b5e0,7/4/2020,Credit,No,Caitlynhaven,7b5cf600-6e78-4a76-ae40-91bbb9afc5b4,2,322,7,Online
+3cd9c5a9-d20c-4318-ab81-f4cdbec14750,6f8392f6-6d06-4321-af7d-d26e5fafbe6f,3/20/2021,Credit,No,Kelleyland,edae0826-a668-4cea-9592-1ea3298d8699,5,239,6,In-Person
+1d9f1fe0-be99-464f-9500-ecfc626a6c7a,cc0bb685-3480-49e1-b0fb-00f8bffdb084,7/1/2024,Checking,No,West Maurice,b9e66a81-e086-415c-92a8-abc7e26e8616,1,341,2,Online
+00aa665b-1aeb-4e37-a5f8-cf2289a63a90,12a0fdc0-416a-4b08-8778-fbfc7cd82bae,7/19/2022,Credit,Yes,Robertside,3fe36754-ad63-4e3c-8dc2-853941bc1aa4,2,140,6,In-Person
+059b8015-31d1-4046-a65d-880095401b28,18b8910a-235a-4b8b-83e4-0956a928e5cd,2/14/2024,Checking,No,Elizabethburgh,3011a25c-b39f-4ce0-85f5-8f9552d3049b,4,227,6,Phone
+e969e0b5-aa38-44b1-92e1-3d5ef9144e00,9067f981-783e-4043-88bf-73800a49d8b4,1/10/2020,Checking,No,Melissafort,0e2d96dc-1720-4c99-aace-8294165940a0,2,71,4,Phone
+1b7db47d-1fae-48f9-87cd-4a46a6d805d0,e99d2952-ecdf-463c-a261-e4548a12e4cf,12/3/2020,Savings,No,Turnerchester,b6fb48dc-360c-46ae-a391-5f39c4e7b96c,5,1,0,In-Person
+e65d1727-a3ef-4190-af1a-b6428bf3c57f,83a64b7c-bc42-4211-bf31-e0daaec09140,8/24/2021,Checking,Yes,Kennedyberg,f158a1d3-8f36-4b91-b826-a2f2b7774122,4,205,9,In-Person
+eea966e1-9388-4201-9e98-048aef18e315,300d6a4f-97a9-4b3e-9d3a-10047798ef0e,3/29/2025,Credit,No,Stephenland,89eb4e97-cb9e-4faa-8edc-7b59f501717e,5,177,5,Online
+4e8cf5c7-84e2-436e-b0f4-383d0e65439b,3fc7763b-37aa-4435-b09f-b87be6e40246,5/13/2021,Savings,Yes,New Jason,ff12fcd9-38d6-4bbc-b6a8-023d354080dd,1,90,3,In-Person
+d7ae698a-347b-4b00-94ed-e2550a2c3f87,f08eaece-5ae9-404c-99ae-550a6772a575,3/14/2023,Savings,No,Juliashire,fba4051b-0078-4e5f-98df-e68635c79b30,1,75,0,In-Person
+cea8d519-1609-47aa-b7aa-807d934a0561,8b66c519-c950-497d-bbe8-74dcf993aeee,5/6/2024,Savings,No,Christinafurt,6a1a974b-0b61-4824-baf9-ee9273f7bdbc,5,74,1,Online
+b8bfcd17-6a67-4e65-9410-255ba554df6f,232a76d4-6b3e-498a-924e-c77ad824b4a6,10/14/2024,Credit,No,Jonesbury,961a38d0-2a28-430b-9759-62114e9f1f23,4,248,10,In-Person
+8ee35248-a83e-4e8f-bb1c-9efc06dee3c1,77ac8ed2-19c7-4c13-8663-d5b5adffc22e,4/19/2021,Checking,Yes,Brittanyberg,e1fb6e8f-3aff-4ed6-b742-0e870bf2b7d2,4,63,0,Online
+47f32ad2-13dd-4e91-934e-daaad3833c85,327c312d-318c-46b0-af7d-77c5ff5014da,9/11/2023,Checking,Yes,East Nicole,81c8d3e8-531c-4eaf-ab9c-4c3d9cf98440,3,256,7,In-Person
+8b885858-0355-44d2-858c-ea78470ccccd,6d190c74-5107-4aeb-9cd8-b6bf4a8338e5,1/25/2023,Credit,Yes,Kimberlychester,c8e59649-5e8c-402f-b46b-60a4dfef4271,5,116,2,In-Person
+dac23e70-b551-43dd-bebe-84a2eebe3091,a0c97b46-2087-4917-8735-80805710f431,3/12/2020,Savings,No,East Timothyberg,17194203-b9f5-495f-be30-d5ce13f594dd,4,275,8,Phone
+d9fbbef7-9767-416d-980d-fdeae44ced6b,0f3856fd-9c23-48b8-845e-21041ae76cce,3/31/2020,Credit,Yes,Mullinsfurt,c6e27504-7cd7-48e0-b3d8-c6b4cfd4c8ed,5,323,4,In-Person
+2b9a90de-b080-4873-a422-5fd5fbc3c7d0,a9e94964-ec58-435b-85a8-63a88790e91b,4/13/2024,Credit,No,Port Kimberly,c67fa271-60ee-436d-b33f-1cfbcfe24279,4,287,7,Online
+f6cff0ce-ace0-4d3a-a725-fedc227f0151,4670da94-0c59-484b-a9b7-aaf459f7c2e5,8/6/2023,Credit,No,New Jamesbury,b8558e12-08d9-414d-becc-a3202e77d3d1,2,249,5,In-Person
+1649dc5b-d871-4534-a8b5-2875f6a3858f,24ecd970-bed0-4737-a8bc-12842060d7d2,8/11/2023,Savings,Yes,Elizabethmouth,2eef178f-b65d-46b0-bc7f-871ee1e60113,4,6,8,Online
+ab2dc65c-ad87-4a17-8cb8-0e3bc75c1578,5d258644-89f6-44fb-989f-83187add9818,9/11/2022,Credit,Yes,Port Alexandraview,57c71ec0-eb3f-4ef4-b004-0194be334881,5,183,10,Online
+a808dc08-b040-463f-be64-b454994771b8,58105c92-a4f0-4f54-9312-9c38ae2052cb,2/20/2020,Credit,No,Jocelynport,6a7f4e45-c942-4294-9fba-0f959a47ac1b,4,48,2,Online
+b1462f3a-cdff-4734-b6ed-2c3ce8a03b03,b06f6c2a-cdd3-490b-a312-24ccf9fafcac,12/24/2023,Credit,Yes,South Sharon,25efda06-3c69-4dd8-8e6b-3156cfc4578c,5,263,1,Online
+f47d3957-066d-4beb-a83b-e178c467260a,45150bc7-8b48-42db-a030-17c6bb523324,9/18/2021,Credit,No,Jasonview,2822e399-a5d0-47ba-8c2c-d3fe6c74d728,1,276,0,In-Person
+a110e172-0104-4389-86b2-a15800f63295,6227d80c-910f-4b3b-baa4-0f4aaefe53bf,1/18/2024,Savings,No,Davismouth,9594b61a-28c3-41c1-b341-1be7c9253b20,3,325,9,Online
+cf32bc89-9e9c-4885-b0f1-518bdacb845d,4efc4a8e-5502-497a-b819-02eaaa4194c2,4/28/2023,Savings,Yes,South Kimberly,cc4002f7-d795-45e6-8c4b-2d661ee5a837,5,104,1,Online
+649ca381-3524-4ac8-8705-2de9e2a68afc,0ae72917-3eac-40ba-8b20-022905238878,9/3/2023,Credit,Yes,New Hannah,9b4b164d-920e-4f0c-b1bd-f9dcfe132ccf,4,275,2,Phone
+71ac0506-2938-4904-8eff-07f5791555b2,d85944eb-be01-46de-af24-fd8960268ca7,1/7/2023,Savings,No,Jenniferton,cc9626a7-5bbc-41a5-8004-0bee14e0923d,3,88,1,Online
+ff9fb6d8-bd4d-41af-bb66-fa058cb53156,936970b5-b3cc-427c-bfb1-17aa48d41137,6/3/2023,Checking,Yes,North Janestad,c4fb8d29-cdc2-481b-9a92-5aed04124f6b,3,1,8,Online
+fc840859-b350-4b3d-a55f-ece95dd521d0,192e3d6c-d2b0-4e56-8aa5-4c583d0cd194,6/17/2024,Savings,No,North Jeffrey,d841008b-4e9a-4640-a0a1-77945977c449,3,313,10,Phone
+d40e072d-70d4-4cce-9a6b-3432a7fd2695,becbb6a1-0dd7-430c-8689-65d556aa715a,10/19/2021,Savings,No,Port Carolyn,7ebec232-7b8f-4047-b17a-b7598d546cd8,3,309,2,In-Person
+d88d0ff4-3302-49e1-bdb7-512a38480135,dad0e893-bf90-4993-8020-6ba9b0460a76,11/3/2024,Checking,Yes,Donnatown,929eecad-dc12-4efc-93fc-018c6449e358,1,152,1,In-Person
+2da0bb87-cf75-48a2-b94e-fde08194897c,f11deaf6-0cff-4f2a-be0d-a74496c701e7,1/27/2021,Checking,Yes,Markstad,3a578305-d98c-4633-9c05-88d119b7f64e,2,206,10,Phone
+9ea12b51-5c10-4682-913d-cbb0fd422202,23bfa337-6f4e-4ece-a5ad-adbb7f3db311,1/18/2024,Credit,Yes,West Tiffany,c19cffc0-c158-4097-afc6-f39f6910b5e0,5,346,4,Online
+3805c6b6-2f8e-4edb-bca0-10c3bf1bace5,fe1f22b4-1aa2-4269-83d2-574efafd1e37,12/12/2024,Credit,No,Malonehaven,161db4c1-b367-4eda-81e6-f562c072f7d5,2,89,4,Phone
+0dab1bfd-f809-4b96-8a9c-b2699d04c416,e58587ed-931d-4821-993f-7440d7b7566a,4/30/2023,Savings,Yes,Chenstad,a7988311-2f39-41ba-8e12-a6ffbb61a278,2,69,9,Phone
+77896a26-6644-4fa1-a3af-03d2f921c579,89ac5724-1e0e-41f2-9996-55d79ad93a83,9/24/2021,Checking,Yes,North Amyshire,17e9f00a-60e1-4de1-93ae-149e398d6434,4,123,8,In-Person
+bd0e98e9-2f5f-4d34-bfaf-74baba92b280,a9291230-429f-4028-99d5-6f443d4644fa,1/16/2022,Credit,No,Williamsland,8a84a77c-0bf8-4f1b-92e5-584b9adbd598,1,28,5,In-Person
+ffb40af9-3048-44c8-ac3f-d56c75396b24,7d337053-529d-45bf-9afd-5be539fad829,9/19/2024,Savings,No,North Rebecca,debe36fe-6160-4efb-877b-0d7f67e88523,3,210,6,Online
+617910a6-c0f0-452e-935e-69e3fd55aa8e,ca612002-5a41-4ca2-a36d-3efcb1321e9a,5/1/2023,Savings,No,West Courtneyberg,9db6dd9a-64ad-4cf3-8fc1-2e25044698f5,2,280,10,Phone
+ed2255e4-240a-4386-bf25-d61ff6162eab,84067c27-b097-42b5-aae3-b9cd47aae0d8,12/4/2020,Checking,Yes,Haleystad,0d368005-d204-44ed-93a7-2626a844a0f6,2,156,2,Phone
+940a68c3-3ce5-4303-9531-bc504574b56d,1b0877f6-fb27-45e0-a118-5e1e5c96edae,11/6/2023,Savings,No,West Melissa,945b76cc-0da3-4e00-91c7-d5c0ffcbf1e6,5,260,7,Phone
+2ed868d3-1b13-4a1d-bc90-31fc1402bad0,0347e472-cfd3-4483-bd85-883211de7a1b,9/8/2023,Savings,Yes,New Karl,2611fde9-01e6-4931-a03c-2c15e6e95470,4,350,1,In-Person
+6b935de5-a8e3-4dcf-881e-397322600b35,9f745f4c-22db-4456-8022-4931a568b77d,9/8/2024,Savings,No,South Josemouth,1b54405d-9160-4ae9-b8b9-956333295b98,1,219,8,Online
+1b632553-dee4-48f3-a164-442589be750e,74a98d8e-58b8-4360-b20a-4481195d8f6a,4/18/2021,Credit,Yes,Warestad,f23704ab-fc6f-446e-8f2c-94dee0f9debb,4,101,4,Phone
+e7003ecd-6484-443e-a449-999208a9d2ad,c893bb5a-1896-4049-82b8-421cfc1fe0c2,10/6/2023,Checking,Yes,Ramirezchester,769233e8-543d-4777-8d78-d19fd83b6c61,4,33,10,Phone
+50750e06-3402-47ff-bc92-1478b5bf52c4,ddcb9aa2-25f8-4a70-a34e-eeacec5ae8ad,1/23/2021,Checking,Yes,Hallside,2e539357-4ff4-4d78-8f54-35d4f30dcb07,5,271,7,Phone
+bf86d44c-a919-4a8d-a742-4d669499dc13,af0f161b-f7e1-4da6-8629-9d847e918367,9/14/2023,Checking,Yes,Lake Melody,46d82efd-8a16-4e0c-86d9-ddea184208b0,2,209,10,Phone
+57138ff3-a8ef-4d0f-882b-2cff32bc2b45,0ee4bca3-1a91-4f3a-8db9-0ec884e689c0,5/6/2020,Checking,No,Virginiamouth,567d9703-e938-4f6e-8958-155fd0d67044,3,188,10,In-Person
+02e2ba40-425d-4bc8-8894-932d41e69bb4,3810c48f-63ab-4186-8bcc-6d8594f88c28,9/9/2020,Checking,No,Petersonmouth,dfd6ef2f-9b03-4193-ba23-c165e838e34f,4,95,3,In-Person
+d7801ce2-9b18-423a-be0e-85b34cf4218b,80042d75-928b-4b14-ad0d-e1512eb77e73,11/12/2024,Credit,Yes,North Chad,8b52e9bf-986b-4935-932e-a13b8d4cb9c5,5,298,2,In-Person
+5c60af87-42e9-42ba-a7b1-7df23ce8df6e,8aca4ce0-426a-44ef-a6ee-b27ff091b916,10/13/2024,Checking,Yes,South Brianmouth,d30a60c3-1908-400a-ab04-e78de4f26aa6,2,331,7,Phone
+92a69e8a-3b84-49d3-baa1-be88daeba111,419160df-7ac2-4ee0-bf0e-b0354993af85,1/7/2022,Savings,No,Albertland,8a7692ed-b88c-427e-bb6e-b8d351882a78,1,127,2,In-Person
+df4cb3b2-a0bf-4180-a8f7-ed65a41cf554,8706d20f-9c4f-419d-99db-84f8540fdeee,10/22/2024,Checking,No,Cooleyhaven,b540fcd0-9b78-4552-8575-36ac9d5673c2,1,269,4,Phone
+59132a88-c419-4350-8fa4-85d962f04d45,240ab8ef-d0c6-405a-84c2-ca6765a2b45e,11/2/2022,Savings,Yes,Wardtown,2f47fc60-1a21-44bf-a6bb-e3576982ff73,1,64,0,Phone
+5106bac4-0793-41cb-b412-19e8c3b6494a,4d2d2484-0d5d-418f-bf7e-bb3bd14d1565,9/5/2024,Credit,No,Erinton,270083e1-c14e-44b0-8b84-0b4d8aeb7a82,2,230,6,In-Person
+98f55655-07d9-4f60-b4ad-d362c01baa7f,386af779-c329-40bf-a291-f364555f5359,7/31/2020,Savings,Yes,South Kevin,afe1c49d-bc4b-4175-b0ce-dd9a5358377e,1,64,0,In-Person
+87dfb016-0afb-478a-86d0-1f524ecd5d55,858e0361-4e16-41f7-abe6-dc90996f8968,10/1/2021,Credit,Yes,East Shannon,ccd24fe4-a534-412b-874b-a7c6f975d1b3,2,227,0,Phone
+07a18fd2-bead-489c-b53f-aeb6e7abc387,26fdbf58-96d5-4d73-a677-e69e95e3f527,3/3/2021,Checking,No,East Lindseymouth,16982aba-48dc-4f0c-9ddc-2ae9955b2c50,4,69,6,Online
+6746979f-d3ea-4303-bdba-4613cedc3666,b30c4176-375d-4620-be2b-1314206aa84a,5/9/2022,Credit,Yes,West Thomasland,73007a85-dc6f-4c3e-b366-8d7160487d36,2,221,1,Phone
+05f79fe6-55a2-4c0b-b85e-6ecc4d97e85f,36c239eb-ea08-4bf6-8c83-d0ea4dd4aab8,7/1/2024,Checking,Yes,North Calvinview,c54d758b-d8a7-426a-9c17-d8778eee1734,1,171,10,Phone
+929177ad-4e8e-4813-b679-251520fc9d37,6484d46e-3935-494b-9f60-83917f421b73,5/16/2022,Savings,No,New Kristy,d71e9a04-f8e7-467d-a4ea-409348ac0465,1,24,2,Online
+1d66ea2e-7ca2-43f2-9155-4a9f50f2de91,a661cb36-780f-4007-aba7-271ef22d162f,5/11/2020,Credit,Yes,Simmonsberg,8be9dc7b-940b-45c0-a9bb-03570695b0ce,5,174,10,Online
+be5d2d63-00c2-4c93-ade1-999feed38569,65233463-736b-473f-b4d7-3b7ed2e77c43,12/30/2022,Savings,Yes,South Joseph,7adffa95-7926-41b5-ba1f-41d4af649917,2,135,6,Online
+11e99ec7-a1e9-4410-a75f-d54bb62362a5,fa29a85f-7727-4595-a6a6-6e637881dbc3,2/1/2024,Checking,Yes,Laurenhaven,da0722bf-b9d5-4cc1-ba2a-2e76a3ae3c40,3,46,6,Phone
+340340b8-c120-4c41-81e8-00cc9461b7e5,06fbe0a1-0a83-4c41-aa52-bb6f223724c1,10/1/2022,Checking,Yes,Curtisport,8c3133d0-6373-4853-98ff-7532324f7dd4,4,317,5,Phone
+440c9664-7f26-4a97-b25c-6c74f1854427,f88f0f6d-e2e9-4437-b2a6-5f0ff22adde4,1/31/2023,Credit,Yes,Anthonyfort,2ac99352-f00a-41be-b0ce-3e3560083955,1,314,5,Phone
+5bc37ce8-b395-4fa8-b49a-f56cd993b1d5,e04c8cb5-ce55-4d8d-912d-4426d8c98bc2,4/27/2024,Savings,No,South Tiffanyfort,89f280db-3a07-4a75-b44e-c2aeb379fd18,1,171,3,Online
+4e36366b-66d3-4eba-8444-627cf2a73143,ab26ed7e-38ad-4a58-9687-8e374539a13b,10/5/2020,Checking,No,New Jackfort,1ad1f7de-b600-47e8-b5f7-5fd41717f1d0,5,354,2,Phone
+d120189c-bd26-44f5-95c4-114dca93e11e,d4e888e0-043e-422c-bab1-723ed3c8f8d9,7/7/2023,Credit,Yes,North Tammieport,6865d9d2-9758-4d7e-aca1-7ce26c74c53f,4,139,7,Phone
+1f0620bf-1752-4f46-9888-9dadc83224b0,d721747e-22c6-4791-a1d2-6786cea35560,7/1/2024,Savings,Yes,Lake Melissa,54590fc2-e001-4e93-9d79-c920bbf8af9c,2,355,2,Phone
+573588d9-6b80-43fa-9df1-a0e258f7f3c9,9f33dceb-978a-4b23-b78b-78355bb2b410,5/10/2024,Checking,No,East Sherry,fb7b9ef9-145f-47c5-983b-ba14ad33080a,3,358,2,In-Person
+69ada9a8-c210-4815-bb1f-c2fb763a6833,e28250e4-3d33-460c-8a2d-049debbd3c7a,5/20/2025,Savings,No,Lestermouth,f56901f3-9356-4656-bd39-6237ae1bb8d8,3,118,5,In-Person
+33f05c7c-201b-43bf-b54a-06999c773383,3698fc2f-095b-4879-bcff-0582c7f2e944,10/27/2021,Credit,No,Williamsport,b0ceab3f-fc9f-43e1-8d54-7ba81493ba95,2,39,10,Phone
+aa86ad85-963c-4377-b22c-86b776f06bba,8c04c4ed-df48-4009-8a30-31519f43e7af,11/30/2022,Credit,No,North Mark,9c79313b-ef55-41a4-961a-073af8f053e4,4,279,7,Phone
+3270acb1-ed04-42a8-8f24-90c60f2ced93,326705dc-d464-4788-b02c-35ae5b2a80d3,5/25/2022,Savings,No,Portershire,20a6b1fb-56b8-4035-8347-bd94c4d06f1d,2,71,4,Online
+3557edb1-3e02-485d-90ba-4e419ef2a48d,cecc2631-1a6a-43e0-a7a1-2b22f8e6764e,9/12/2023,Savings,Yes,South Catherine,32a7feb8-4bea-45c8-b9dd-0e4a2ec3168e,3,310,4,In-Person
+44b46c77-3047-46c7-9144-6ead6489149d,603ea61f-0e30-468e-a6a8-fbe1414a4c03,5/4/2021,Savings,No,West Paulfort,d2cf9085-ca09-47cb-95d8-871ee10fbef4,2,246,0,In-Person
+15492ccd-2d8c-492a-babd-7426ca30ac85,2a33b3cb-5664-4df4-b40f-273071926040,12/3/2023,Credit,Yes,Christinetown,3d9b0fc3-ecf2-4012-aa99-564528f1696c,1,226,2,Phone
+179fe1e5-0e70-40d3-b4e8-e915536538b1,918acdf1-5424-4ba2-9f5a-d85726f5f34a,10/26/2022,Credit,Yes,West Dennisborough,49461623-d083-48ef-8dca-1fabc7d43e17,1,276,9,Online
+d6464501-43d9-4db4-8f42-ca0d8ef71c72,a2d1609e-c0c5-4a66-850c-f333eb74105d,4/26/2024,Checking,Yes,Rhodesville,246b9501-a4de-4f80-afe9-839938feee36,4,173,8,Phone
+bd98e16a-3701-4607-81ca-0fa1684aa193,04a41e52-5d20-404a-ba7b-d7221c094181,3/11/2025,Credit,No,Turnermouth,71f29953-8d62-4aac-87ee-52836da71b1a,2,160,1,In-Person
+a8b88560-15c6-4d6a-a762-0bd2557eec39,fcf2542e-51e5-489f-a8ba-a6a10dc01acc,7/9/2024,Savings,Yes,Peterhaven,f900d79c-78e8-4fe5-96f9-e19f453a4e22,2,238,8,In-Person
+8c1390cd-7dfb-4a41-83ed-f583930483d8,096f1191-01be-44c0-bef7-8e5ec6860257,7/30/2022,Checking,Yes,South Nicole,977ff084-db46-49e8-a2de-ed6432f9d682,5,27,10,Online
+2fa55dc4-186b-44a0-ba48-a2637ad55445,9f3a36c5-df2b-47c7-9fd7-7ba3b5cc9db0,3/11/2024,Checking,No,Garciaview,9d3665c0-8b6d-47e5-bf00-abe25f4d1feb,1,109,5,Phone
+80920ae7-fb65-4648-af35-f049c052944c,d98b7ba6-d6e2-41ae-9e7e-afa88e3ed0bf,5/2/2025,Credit,Yes,Mariamouth,3f098bbd-ff7c-42d4-ae3f-24e6e8578518,2,195,9,Online
+4121bd32-b5a5-412e-bdea-b7414c07008a,1894c8c4-9b14-4cca-b399-f50a6aa1f0c8,10/1/2020,Checking,Yes,South Michael,93e3e7ce-afe6-4235-a29b-2add0fb04f37,3,339,5,In-Person
+b63f563c-17c9-4cd2-b9e5-54e545fbe8df,0e6ef5ef-548e-4212-ae01-56815438dc5b,11/28/2023,Credit,Yes,Lawsonview,66fe4c3b-da41-45b8-ae77-91df568e6061,3,84,8,Online
+f66a27af-2e57-493c-a21b-e4454b738a07,ba90932e-58c7-4160-8f07-e3e2b2a496b0,5/17/2024,Checking,Yes,Conniemouth,b982076d-fb14-4791-8e70-822a39e84b5a,2,231,1,Online
+d2c60cce-37fe-4641-85d8-63f4126e79e0,46f1c3f8-0117-4919-91ad-0fffbb434f32,4/13/2024,Credit,No,Aaronbury,af8d6249-b498-4110-9ba9-2fe361e22d58,3,323,8,Phone
+73f2e17a-2ea3-4ba2-8d74-9681282f3f29,ec8c8ec2-39a2-424f-99f3-3e21425ae5ae,10/8/2022,Checking,No,Moorechester,5f8592c6-3267-47e4-a598-721d56e58ada,4,238,10,In-Person
+592b4bcb-4d03-4d2b-93d7-829757355b1b,7e9626cb-378a-4fcf-b198-10bc256e0630,8/10/2022,Savings,Yes,North Michaelborough,86e69b6c-f13c-4364-818c-fd4b0af0f1e6,3,226,5,Phone
+c3f39f03-4057-4273-a30d-751330afdd1f,f3fd9dd3-d1ef-4673-a0e9-b0af3459a49a,9/11/2023,Savings,No,New Pamelafurt,38cbc2b1-2183-4c09-9098-834f516c281f,5,307,9,In-Person
+24e34e99-ce42-427f-b564-ff594ba62914,f04948a3-fb3b-4517-a45f-8459655675aa,5/24/2025,Checking,Yes,New Susantown,fbe1b52a-3ab6-4077-bfb7-0555c935f7a9,1,348,10,Online
+d19a4269-49bd-40f7-a73d-0123aa309433,dd118c25-e9ec-4c48-bbec-7e6a6bdfb2c3,6/26/2020,Checking,Yes,East Tina,2938b178-f805-4fb5-9260-14ad02e19543,1,161,1,Online
+369aa2e1-225a-446c-a9f2-52dc1dad98f9,4b2dab0f-8858-4afb-80b2-b55466152d65,11/5/2023,Checking,No,New Kimberlyfurt,c1ee98fd-bfa4-4268-8fdb-2017910050b8,5,110,5,Phone
+fdd4eb28-49c2-4c9b-a3d1-a3524e2b50c5,8f8f2ca6-8d41-4140-a3ce-0b7d46ba7075,11/5/2021,Savings,No,West Kathrynland,a0a1a9e6-cf59-4a52-936a-2fdfbce64ca9,3,213,9,In-Person
+93a99e94-cc69-4e8a-996f-6fe72bb095c2,3b48fbb0-2edc-4cc3-aaf1-8da93b603d4c,6/20/2020,Checking,No,Juliefort,6585c4d5-7651-4b75-ad35-ad8688d7a236,5,63,6,Phone
+36736c81-3e59-463a-9873-c697b3776a0d,ba11720e-297b-431f-8c55-d29b0cc40093,10/18/2023,Credit,No,Hartmouth,0f09e845-529e-4241-b888-2ddf397678ee,4,65,8,In-Person
+a22724d0-4653-492f-9564-efa354f84a48,42e28043-e752-444f-9a50-0e8e64c82cd9,11/16/2020,Checking,Yes,Robinmouth,fa0e02fe-9c35-43f2-9968-17aab17d405c,4,349,7,In-Person
+60d62439-1d49-41a1-a541-2c10e3db712c,ea7303fa-104b-4eb2-89f5-1167b0455738,6/25/2020,Checking,No,Millerchester,69168806-9b85-47cb-9a8b-e7c2485a5d7a,2,292,10,Online
+724f071d-3ca9-4dad-a443-103b1151f5ba,905efa55-59e7-41e3-be25-098e8aaca96f,1/7/2020,Checking,Yes,Lake Laurafurt,70ce1fcb-eb7b-4a09-8f3e-36b46e487dc1,3,39,2,Online
+b8d027f0-3fc5-46b1-b8dd-35af4989f341,d037c95a-8bcc-49f9-8f3b-841e6bc1260d,1/19/2020,Credit,Yes,Lake Jennifer,a2abc5ec-5bcc-473f-a844-59f1dfe38fa2,5,32,7,Phone
+8d289f71-04aa-4bd0-83e8-429887494967,820799b1-ef09-406d-9a55-0704337e4e51,2/11/2022,Credit,Yes,New Matthew,b2b340b2-0505-44eb-ac5d-741d546af991,4,127,3,Phone
+3ec6689b-df37-4546-9a4f-4073ea254ebe,1f534b93-7cf4-4664-9bca-5ad78e958a67,2/9/2023,Savings,No,Bridgesfurt,68d2a8f0-80e0-49c4-846c-465554216dde,1,83,10,Online
+9e9aa5fd-54a9-46d8-88de-41db3c1ccf83,2fc42d2a-7912-430f-8111-70af68d573bb,10/6/2020,Credit,Yes,Brittanyshire,3c13e092-5e98-414e-a7ac-de6b80cd3ed7,3,70,8,Online
+30ce9c44-c45d-45f4-b331-2f0923ca94a1,b4f360f4-9032-4dc3-ae04-8c69543111b4,9/6/2023,Savings,No,Lake Donald,6ec3960b-a53a-41d0-bb5a-648b65d17ffa,5,222,10,In-Person
+f2a4def7-1970-45e1-9ac0-c458d3c1285d,e3676d7c-e613-4c56-94ea-afb463739070,4/19/2023,Credit,No,Susanfort,1127244e-dfae-43cf-85bd-857872087a4b,2,356,0,Online
+2b53f06c-1404-403f-97c6-e8d73e8d688d,f7d238bd-bf08-4a5a-96f3-a4e6e1d5597a,2/11/2025,Checking,Yes,Fuenteston,05facca3-7657-4e2b-8f99-8be5aa61b610,2,54,0,Phone
+0f7e1b94-ac91-4489-afc2-4dbae56caaf5,189cebdd-62f9-4929-88c8-1c6c6ea92492,5/14/2025,Savings,Yes,Walkerberg,4619fce9-01a0-45a6-9084-c20bfb20b0fc,4,102,2,In-Person
+905be0e9-58da-4069-ba22-6f490f257c5f,65c24d4b-3df0-4825-a022-e00f3279887c,4/20/2022,Savings,No,West Derek,a87899b6-d46c-462f-92cb-0df9c56b1481,3,245,9,Online
+9dfa979b-2fa9-43d2-a6f0-1ef357d66c8b,fb98dc2b-2d4c-4d0c-939a-8ff3eea5357e,7/5/2021,Savings,Yes,Port Patrickborough,5c764d02-758d-4fae-ab66-52f5d246746b,3,102,3,Online
+c4fe4eb5-3d2b-4d8a-8d63-27da532a3a05,e50bd5c5-c1c5-4cff-aff8-83ea377abc82,12/2/2020,Savings,No,Reyesport,ef032647-b950-4364-8f57-30a8adaed4df,3,197,1,Phone
+e1a18307-0a31-453a-940e-925480148613,5399de5f-f769-4905-9ee2-1f5b516b8ad1,3/13/2024,Savings,Yes,Heatherberg,ea327090-fee6-49ef-b9ea-bf71ea46af6e,5,91,10,In-Person
+0578e39a-6f63-4b11-b441-7ef43f366766,f6a6465c-c6ea-4dae-9ae5-4daf5e1cb51d,5/4/2025,Checking,No,Valdezside,2af3af13-fb9f-4ea5-bd4b-92cb61ae31d1,3,307,0,In-Person
+0e541b93-2113-4e9e-858c-015809aac0fb,2fc564ca-f1a6-4fc7-b9b7-a48480bec7f6,9/17/2020,Checking,No,North Aaronbury,6a43ca4b-f6cc-4fff-9bd1-a9c40b90f6a5,3,292,2,In-Person
+5f38f80f-06f4-4ece-8604-7f6677e53b01,b2e5790d-a001-4217-8fc5-a5e6f6965a84,4/4/2020,Savings,No,New Erikastad,1bb043d4-2acf-4cd3-8477-1712f5069a27,4,258,9,Online
+5940c37b-ce28-4f80-aa75-07eb2b1282d9,00cb7656-1702-4e71-9c43-f87261464119,10/8/2021,Savings,Yes,Port David,3ee1f11d-f922-4a01-bdf2-d3da25b9b489,1,174,9,Online
+a6032498-379f-4361-bbaa-cde40ecb0c5b,a6c17b7e-b948-4105-8730-775644b7dc02,9/21/2024,Credit,Yes,Lake Tracystad,33f55b94-1547-4e19-a748-f787b8b09d61,4,195,2,Online
+77b2a017-0a1d-44bd-ada3-6294495d9ce6,e6eda365-e0f3-4f1a-8bd3-a4894f2c2c31,1/1/2025,Checking,Yes,East Jamesborough,df06d8a2-a627-4b0a-bebf-f1f7814bb0ff,4,200,4,Phone
+49bf5662-4ec0-4789-b549-b9f7edc766a2,745c1a27-bdf5-4c8f-8477-b718247a94f7,1/15/2020,Checking,Yes,Williamsside,6d378895-c2f6-477f-8498-c48b8b26d465,5,306,7,In-Person
+482f5987-6286-4035-be12-b8a4bc20748d,2d3af3a1-9d75-44ed-b663-1e1b2393bbab,4/8/2024,Credit,No,North Samuel,50ac0097-3971-4b4b-b47f-a548b269b751,3,209,5,Phone
+55a020b8-d37d-4367-92a3-6305eaf8e980,cbd50357-1f19-436d-9e98-5304a95ae090,2/1/2022,Checking,No,Krystalton,e8803ab2-b58a-4582-afb6-7d1d38c1b83b,1,144,7,Phone
+4659b8bb-f63b-4f03-9b27-9fbb6fe57299,7ac2ed74-02e3-41d4-ba20-79ef23c6d1ad,11/5/2020,Credit,Yes,Paulmouth,4bd59c75-5f39-4aa8-bd6e-a46a8f79fb60,5,98,1,In-Person
+bd3e5c7d-a93f-403b-9950-00b00f1c0565,f285b720-19d3-47aa-b100-7427b7223724,12/16/2024,Credit,Yes,East Kimberly,67e9ec02-a8d1-44dc-9b5f-f1a3a4bf9dde,1,299,5,Phone
+a37b83a0-d5ce-4f50-97ac-09b16cf31ce9,879b872c-4038-4a8f-b21b-58a772876d11,7/29/2024,Savings,Yes,Sallybury,778ad627-fe70-43c7-b107-687e5a86b55d,5,5,2,Online
+616d16e5-8632-46da-8117-98c073b9653c,ce5d1a5e-8493-4a13-8629-1b395e0713e8,3/30/2022,Credit,Yes,Holttown,b9659234-efd5-423b-9ec8-c144177f4719,4,344,10,In-Person
+4d0883ec-c1d1-47dd-9fe5-2b5ee8732129,083d5075-746a-489c-92a5-3c469a80840d,8/13/2020,Credit,No,Krauseton,a501a08e-44ae-47c4-8fdf-65cdd3039e9c,1,280,2,In-Person
+b54cf04f-759a-49fb-9e5f-f369f49ef45c,dfef4168-5709-4fa9-af8f-a5358f382b24,4/9/2025,Savings,Yes,Port Amberville,c63042b5-deab-4355-b772-bf027a694b72,1,317,3,Online
+e07daf9b-068e-4715-aa51-3f73c7180ff4,a5a6d7fe-9306-4ade-8fb1-1ba2546c6f02,12/26/2020,Savings,Yes,New Stephanie,a4e3b78e-781c-4aab-bf7e-f2a22d413e60,4,323,0,In-Person
+a925b527-2a40-4f47-8ef3-d82d724cbc81,d9321da1-4352-4e78-81cd-e5847de37d6e,5/6/2023,Credit,Yes,Williamsside,eb5e33b7-12bb-408b-8b45-c5a956118bf8,4,9,10,Phone
+b86110d4-7106-4be0-9dd2-ac1e820a80ba,248a4d7a-dbf9-4a6a-9e20-2ea9053a02d1,8/17/2021,Credit,Yes,Tylermouth,d369b83d-e64b-4b3d-8c3c-01a47e617e78,3,167,10,Online
+c38bf7e4-847f-4626-9b61-5e4c2462ab37,a82e2e1b-4ffe-4e48-9ee2-7e07941c48b0,3/27/2025,Checking,Yes,North Jamesberg,63aaa382-994b-4055-9393-047b7f05fddb,4,41,8,Online
+7c1bd6cc-ddb3-4154-98ee-888bb59b0a90,3f0b8d6b-ca21-45be-a006-98fc40a11c25,2/3/2022,Credit,No,North Savannahburgh,21f0b791-e6e8-46d7-9140-36403cdd000d,2,72,6,Online
+9453ba54-7642-4f91-811d-9b2798081724,edcfcfb7-7bc1-419b-9681-610b36101c7e,8/29/2024,Credit,Yes,South Richard,f7360a98-4679-46f6-a46f-4e2685ca35a8,5,182,1,In-Person
+1c1a7155-51a7-464f-ba35-44c97ff24dc8,1de28b04-92f9-4938-8002-7c21697aa109,6/19/2020,Credit,No,West Melissaview,50048957-b2b5-4644-bd0f-fa9f1b67889b,2,265,3,Phone
+d9a93ba7-81c4-40ee-b8cd-ae018aae7274,b1df9092-0d4f-4a72-824e-039daf773bee,9/25/2022,Savings,No,Wendyberg,baaff83d-05d4-40c7-ba6b-568b0cf5a244,4,143,3,Phone
+12699c28-3405-4b7a-98c4-5ef7539c7a8a,07e85e3d-eb8b-4700-ad43-d8476343a324,2/11/2024,Savings,No,West Deborahview,5067ad48-81c5-4e75-a0ec-750ace8a323e,1,40,6,Phone
+596ece3c-9f8b-44dd-a1d5-d95bacab8c3e,26c34dcf-3365-4235-929c-5259d725b89a,11/8/2022,Credit,No,Lake Elizabethbury,6e6924dd-9fc5-49af-9490-1adfd03d5be7,3,46,3,Online
+fd401547-54f8-4c98-b414-2daed34120be,3d7fc5f5-bb3e-4faa-b42b-f8789871da3a,1/31/2025,Savings,No,Roseside,12f98b44-b330-4032-92fa-7300d8e9d2f5,1,45,1,Online
+08fba9c8-480b-486c-b545-a9292705fd6c,06555fe7-167b-48cb-a68d-26d92d805b51,12/24/2023,Credit,Yes,Woodchester,faacb77f-cfaf-48aa-8cbc-25c59ea8318f,4,73,8,Online
+d2edc4a2-0add-4f46-8c8a-cf369cc7b0b1,82174267-20aa-41ee-8dc1-b8788ed1df79,7/20/2022,Credit,Yes,East Jasminehaven,20cd883f-3e7e-4e46-ae7b-5889d973d45f,2,105,10,Phone
+09190bb0-1996-4666-9039-f5e32f72d908,36bc5b5b-84cf-4b7b-88b9-0a1df9302e18,12/17/2020,Savings,No,Lake Bonniefurt,8b91925a-7471-44d5-a313-fe86ebb2e09e,5,211,7,Online
+1f7ab066-fac8-4bf9-9d43-455db9520610,e25ab858-5328-4249-adc6-41a5382d315d,9/5/2021,Credit,No,Caseyfort,20507448-67b2-46ec-9acf-6b076c873bf2,5,347,1,In-Person
+85d91d4c-6a6f-4d9c-8ca7-7a3223c05e3e,9d5d7f6a-e828-4648-9ae8-1bca192fe2d6,9/24/2021,Credit,Yes,Port Kiara,f8ec3a16-3e85-466b-b2a9-d47407258259,4,43,4,In-Person
+132fd9f5-1467-4c2e-ad5a-c37a48d054d2,ba2cf9d4-e813-4e3c-a93d-1d87881758f6,5/2/2025,Savings,Yes,North John,c1943fe0-076e-4e0e-b272-3cdfcb231d35,4,159,3,In-Person
+f3cc31a9-2f08-4220-959b-124311f25cf1,417bbf4f-7a3b-47ba-b3ee-8c4ca526c8a2,1/8/2024,Savings,Yes,Hughesmouth,7a8c458f-fa0c-47bb-8607-6f411f4651ec,4,269,6,In-Person
+803b9b5e-c339-4574-b828-02499bde5b1f,9c839095-a266-4b4a-934c-81c032c5065a,3/25/2025,Savings,No,Lake Michelle,f6911b56-1236-4727-b1a4-173ee9974f54,4,290,5,In-Person
+792f1067-2a57-4b55-9257-86d8b68495d7,4cd68ff2-9185-4439-9046-3a0bf67acd11,8/17/2020,Checking,No,Watsonborough,0b24c6d8-a878-4921-b9e3-bede3bd781a7,1,191,5,In-Person
+6c2e8ef7-7943-47a1-89cf-eb6e3105f496,c6c9259b-22c1-4f12-92a6-dfcb3eaf19df,3/28/2020,Savings,Yes,Jenniferburgh,d41a31f7-d3f9-4c65-ba43-33a707b4a431,1,255,0,Online
+490e910c-5053-4a00-a92d-53df7dc1d63c,23404dea-7080-452a-9dfa-5be3efde2837,4/10/2023,Savings,Yes,New Jennifer,de6340eb-d3c4-42e2-9862-a3f61facca69,2,5,4,Phone
+a8102fc5-b23f-43ac-a7a4-b57cdab4ff50,7636307d-2f40-4b47-a981-cf5044e2665a,10/1/2024,Savings,No,Reneeberg,52705dd6-e1c0-451c-9242-f97556276497,4,41,0,Online
+af3fe705-5156-4d42-8d43-899603582d69,06ddcc8c-cbff-44b5-86be-b4779960bc46,5/29/2025,Savings,No,Erinshire,c92b6f42-d559-4703-aaab-640efbc835c1,2,212,8,Online
+3f2cd0a8-66f0-47fc-8c5c-2efc21a014ad,0f3d5246-e552-4335-9ffc-4dd67446a4f9,6/30/2024,Credit,Yes,Richardchester,1bd33051-45c1-4cb8-a686-0e20b89626a0,3,63,10,In-Person
+e54773f2-5fb5-4dc4-8b68-901464f5f202,7c612883-55a7-48af-81c5-4c5760aa6d21,1/6/2021,Credit,Yes,North Kenneth,bae92d6f-156c-4c75-8341-ae94fe0add97,5,215,8,In-Person
+262d0fc4-a806-4be6-abd1-eed3e5c0e169,f58cbd4a-b815-4475-b1de-d896c6797055,12/1/2024,Credit,Yes,Juanbury,7aed8845-22f8-4292-829a-b6b48d459030,1,74,0,Online
+04464abb-6814-46d3-8529-06fc1c8f0b8f,2c5a160b-6853-4ead-b7fc-811d57f8857c,10/13/2023,Checking,No,Donaldmouth,34ee1c51-52d7-4567-8392-afea96d5ad2f,1,330,10,In-Person
+70bb28b5-c06d-44dd-8498-be28e9c61eef,3ffcba77-3eb7-45c8-8633-a90ce0e47989,11/19/2022,Savings,Yes,Port Calvin,ef6b9d65-2941-466f-8c79-a3ca99e4f1ef,3,100,9,In-Person
+d12fd654-de09-463d-b777-8a5c0d1d890b,a291e713-97ab-4a55-8abc-6c1cdce34cae,1/22/2020,Credit,Yes,Gardnerport,27531059-0b0b-4925-b3dc-2adb98675006,5,74,10,Phone
+965d9109-ae76-4b69-b26b-3f43d2295750,7521bb55-fa4a-4157-a1d4-bf9169aac0ad,11/10/2023,Credit,Yes,Kellymouth,4784c738-c212-4ba7-bd65-821f393b6f93,2,127,3,Phone
+280a7186-27cf-417f-97e1-b5dd3b7c5487,aceb0454-4525-47fc-aa02-32407cf3efba,10/8/2024,Savings,No,North Victoriaview,d2726869-e44f-4f2f-ab83-57a2135ed347,1,173,10,Phone
+7faab926-bc20-49f3-88b9-bee5af9eb59d,4234cd32-701f-41d3-9dc6-35242c6e4511,1/17/2022,Credit,Yes,Lake Nancy,8e8996f9-6de8-46c6-b6dd-489d3c9186c4,1,172,6,In-Person
+258f38d0-1915-4a0f-9003-26ce26c8659c,526a841f-7e37-4c95-ba06-a843796111f1,5/5/2022,Checking,Yes,Marystad,b199343e-21b4-4879-ac33-09835ce67f4d,4,281,8,Phone
+ef3c52aa-3bd0-40e6-8fc9-84a0fb7c6d8c,376ec548-beec-4055-9ac9-5d17af51df19,1/26/2024,Checking,Yes,Port Ryan,0ca36267-ba85-4c2c-a766-e6a1f3c08e13,1,134,8,Phone
+680ff7e2-40db-485a-b77b-4f81232d056a,1aee31a0-31f9-40f7-b19e-75d36c0846a2,8/24/2022,Savings,Yes,New Ryanberg,af3a4c26-239c-4967-9bda-8d1f73190793,3,136,3,Phone
+7cb205d2-9a0e-4a4b-a34b-e62ae95eb00f,7f271d7d-951c-4038-9029-ef69b13b21ad,2/17/2024,Credit,Yes,Alejandromouth,f363120c-ce56-4f31-81de-59e06efdbaed,5,119,5,Online
+696cc719-2676-4e4f-b4ad-33927b47bed9,8c22ef7d-e8af-4431-86dc-18bd1e6f2d56,9/9/2024,Checking,No,Granthaven,b49fafbe-b700-4240-b098-9cdfb65ec7e2,2,308,5,Phone
+29dbcafa-36b0-44cf-b964-d7788de0921f,e66362ee-901f-4ffa-9b61-8c2ac10a3cb8,6/18/2024,Credit,No,South Dennisside,54c19394-722d-4141-88e5-60c43f8139c1,3,91,0,In-Person
+f578aee3-e82f-4e16-8aa1-2d99c19da6bc,3099e97d-9aed-44e3-ab55-613b33025c83,4/11/2021,Savings,No,Lake Lisafurt,ee209d4a-caa0-4ac6-aa72-d825601a0c41,5,79,7,In-Person
+a87e7647-1fc4-4c6c-b8b6-f05efbf5bc4a,b5b11785-2edc-4020-a3c2-309e9d183ddf,10/6/2022,Checking,No,South Tylerport,795151ee-d0a3-44e2-b773-e891826ad943,1,140,7,Online
+1531f0b1-280b-40b0-8ada-b6c301a69e73,15818a40-8559-4cf6-9a28-65806511e46a,1/18/2024,Checking,Yes,North Morganfort,43e32c1b-e5fb-4813-893e-6396c5afb676,4,215,2,Phone
+4d2772ad-df3c-4422-aff1-e431a2a5678b,b795978e-b048-4614-ab74-abd2e9d10dcd,1/5/2021,Savings,No,Freemanburgh,814ced9e-cb4e-45de-ba8a-50b8c3be259e,5,152,8,Online
+27be9b87-a423-450a-a115-39c5760f4545,479eda30-e682-458b-9c19-8770a64cb7b3,7/13/2020,Credit,Yes,North Samuelbury,56d81f19-589f-49a2-9195-d5ca4147fac0,4,232,5,Online
+6f49b3e1-f0c4-47a5-a877-9ecebba86623,5d39804a-b5d3-4986-acb9-791639e64cc6,8/26/2024,Credit,No,Patriciamouth,b9316e8d-965e-40d8-a857-945e9065a70c,3,191,7,Online
+f861c422-f317-4759-b287-766354554be0,50521317-c3c1-4310-9186-b2773c141c6b,7/2/2022,Checking,No,Lake Rebeccamouth,7d89e81a-ffba-4088-9a22-bfbc6ed2959b,3,102,4,Phone
+580d566c-1535-44f1-9418-cf5d6dfc5d5d,4c9c3303-f8df-441c-a762-f20ed0939b62,10/27/2020,Credit,Yes,Kristinemouth,594c8171-740d-4970-9abd-2cfd1d5ac80a,3,284,3,In-Person
+674b62fc-10e4-4f00-a10b-43438ae8188c,c020e180-94d9-4367-a7f9-e41b1ffecb94,6/15/2022,Checking,No,West Lauraland,3940c870-7ee4-4c4b-b5eb-1c6d2a0d4218,4,108,10,Online
+55bff3f6-80cb-4fba-a83c-8fa8af78abdd,87aac74c-db33-4137-9622-c807fd69e021,2/22/2021,Credit,Yes,South Matthewberg,158e91d6-82ec-4d8e-a2c6-1e11eb93efb4,2,166,9,Online
+b91f1230-ee5c-496e-9e89-0dd334928e4e,a5d24403-f681-4917-97dc-63f1fff7d733,10/14/2021,Credit,Yes,East Nancy,b44b050a-2af6-4aff-b305-20373afb3e8f,1,10,8,Phone
+e32660fd-4b09-407f-804d-d69321d62aaa,782bfb56-bf25-43aa-878d-ed0c34f216fb,1/10/2025,Checking,No,South Christinastad,84f90574-ad90-4e37-83b6-c3a368b529e7,4,291,8,In-Person
+5b270595-1939-4331-a806-6c2190743d5c,b36cfd9e-ca40-4056-917d-b3c6d4121a52,2/11/2023,Credit,No,South Stephen,b809f9fd-55f5-4acb-acf6-e7e35a937bce,1,201,0,Online
+6682a756-b71c-4817-a49c-690bb257e96a,6f2f37aa-8f6a-4dca-8723-17c23937d95c,9/7/2022,Credit,No,New Andrewville,f0c8b3e2-5f3f-464d-b4f4-365d60fd4d71,2,143,5,Phone
+5dd343d4-0f6e-4c76-b07c-9dbc29b37d6b,0452b3e3-d78c-4a37-b550-cc1d29ab767b,10/19/2024,Checking,Yes,Jamiefurt,6b3672c9-4b5d-41d4-b823-bb1da685e387,2,60,1,Online
+5ae26d39-f6a8-46e2-abde-7484a23fd7e6,75352ba8-8dd3-4bca-854b-1603ec8362b3,8/22/2024,Checking,Yes,Karenfort,4bc1a65b-5249-47f7-aa6b-7871fd3e58c7,5,109,6,In-Person
+2dc28550-d530-4cbd-aaff-62219edb647f,6176bf55-cec8-423f-bcdf-7436f4a95d2f,3/16/2024,Credit,No,West Nicole,edf857d5-a214-4fc9-a20a-465194145d5b,1,289,3,In-Person
+a9a4cb6e-690a-40e2-a9bd-800f903d57ae,030aa1ea-fda3-4da8-a60f-1a15b274e43a,12/15/2024,Savings,No,Durhamfurt,5ed04402-d9e3-4f85-bba0-442d270d71c3,1,258,0,Online
+a5ac3263-c4b3-463f-881f-ed45ced49f06,b6116561-77a2-4e7f-8171-323f8e274975,6/2/2022,Credit,Yes,South Marcusberg,244f7aca-02b4-40dc-9368-1624ceaf3fdc,1,124,0,Online
+edf6ab89-8d93-4068-b9d6-fc3b02e365ca,e70b68bf-8ba6-4a9e-bc68-e20458786b30,1/27/2022,Savings,Yes,Lisafort,55cd710b-0f74-4b71-882c-aed275e7a478,1,59,10,Online
+270df1c5-7ff0-4087-9374-c64a68364937,7ed591ed-9d18-4406-bd86-0df68ffa1235,2/22/2024,Credit,Yes,Samanthaland,709ec0ef-d243-4ff6-9991-c8e3bc209e4b,3,31,7,Online
+347956f0-2a62-42eb-a2b9-f39da43706ef,b7e791b0-8c67-46e5-98fc-cc462bb74073,2/18/2025,Savings,No,Nancyshire,dfebde2d-99a0-465a-9f60-7cb62f8b46ca,5,58,10,Phone
+db70d6d8-5ad9-43ae-a6f8-e91a084b1ede,b03acdf7-a4d2-49c4-87c8-74e45203f320,12/5/2021,Credit,No,Port James,25f726be-0f9f-4529-ae8b-350e13572088,4,107,10,Online
+3c4cccff-7bfe-4d7d-96f4-6d3f6e951c6b,0f96cea1-801e-4a85-ba04-6e19b8480737,2/11/2023,Credit,Yes,New Melissa,d7ee3b52-0d22-49ef-a87d-8004f40da10a,4,28,7,Online
+68dbd8b2-7d68-46a2-9926-ce3e8074a385,46266caf-d3e2-46aa-bac5-c10655bae95f,3/14/2023,Credit,No,West Karenbury,14fec118-6bf4-4153-9756-acd921d2059b,4,355,10,Online
+ba50e34c-0761-4a09-bf24-e9ae339c6d3d,b153c94b-5f92-4ef5-a2f1-601afa353812,7/20/2021,Credit,Yes,Saraland,f370676c-05e8-4042-af2b-4dca3de838db,4,275,4,Online
+c4d2dd44-80b6-4715-8ed8-1069b2398bb9,61d66c84-83be-4d67-bcf1-9e5261632962,10/27/2024,Credit,No,South Christopher,001a8f55-a83b-42fe-838a-283e08f3c91d,5,332,8,Online
+4c8b475b-9d7b-420c-bf20-dfb7a8e5a88d,c350f8eb-c68f-4811-8903-4d35187bc233,3/5/2025,Checking,No,Santanafort,0288b8de-d8fa-4c8b-bb00-c33bd657e1c4,1,40,10,Online
+2604767d-057a-451f-857e-7cbb07c9a832,328ef45e-7130-44bc-afd3-a1d95be77771,4/1/2023,Checking,Yes,Cooperstad,a4f2dd13-b8ca-406c-822b-fd424bc0d5e9,4,148,4,In-Person
+a75895be-93d3-4ceb-8717-d136e565e1e6,01a5da92-73c4-4719-9862-5699ad153b13,4/14/2023,Savings,No,Lake Dominic,66fae891-4f6d-4762-855b-c1ea4554466e,1,288,0,In-Person
+e7f476f6-a580-418b-b375-f64986f4c6c5,4668b254-a6f3-4486-a1ae-97d46ce8ca12,2/3/2024,Savings,Yes,East Thomas,8c7a0645-187b-402d-8b2f-87b6fa297b10,1,188,4,Online
+7c9ab1db-76cf-42cc-8d85-d0104a265697,392b4d8b-a138-46b2-aeaf-1adaf4267de6,3/7/2020,Checking,Yes,West Joshua,f8753985-d213-477e-b5c7-8fa0db7c7c7b,4,332,0,Online
+e7c586bc-85b4-4299-a2d8-a2d84ce66a0a,352c823d-b480-49f5-9c1d-e2a345015755,2/20/2023,Checking,No,Lake Michael,71f30b1b-6f1f-4741-8dbd-c1dceaf3948b,1,59,3,In-Person
+c76a5560-add7-40c0-a162-d4101a9b87fd,f171b6fb-6f6c-4f90-a4e2-a74cef47de31,3/29/2023,Checking,Yes,South Aaron,ad3b5b18-39b1-492e-96bf-81591a9a4211,4,20,6,Phone
+e299f1f1-d0dc-458d-be06-834065036c8b,3bb3e4ef-4fc8-430c-bd11-d632947f5428,6/28/2020,Credit,No,East Allen,ea4296b4-d977-4579-a89f-63f084c80231,4,76,0,Online
+086fc1cf-ff03-4345-aec4-6af65edf1f49,b5386f99-a542-4cad-a439-d0dc68068878,2/1/2021,Savings,Yes,Port Courtney,88704955-9325-45c9-963a-07fba15cb5b9,4,215,0,In-Person
+fbfc922f-2c45-409a-8864-a470730d47f3,0161e1dc-a697-451d-9d59-a5ca68eb607a,10/6/2024,Savings,No,Adamport,76e98e08-99b2-44d0-9c9a-b61c88184295,2,242,6,Phone
+9802ea0c-c45f-4b0e-96a1-f94e383d94c6,f78e31b1-aa13-468f-b46c-1dbc77f779dc,7/29/2022,Savings,Yes,Joshuaburgh,39da1628-839e-4952-b792-c4fbb0fee766,2,250,10,Online
+131f65e8-543b-41ba-8355-5b136ef94ef2,33f29125-5053-4ece-9e53-b26de2c9c710,5/21/2021,Savings,No,Warrentown,9839a6c1-45ce-4dbe-81b0-73e958dfd8b1,3,134,7,Phone
+aa9eb506-eb79-401e-9bb8-24b341a8ce71,ab360e56-a3f3-4e6f-8528-6f3a3a89a394,1/21/2020,Credit,No,East Kimport,4e32ac56-9df9-4f04-8e78-8ea906445690,1,32,6,In-Person
+cb30459a-a9b1-4a7c-9081-bc1a3ed44330,2063fbf9-5d8a-4e0f-a402-c0f6e8d1e57f,6/28/2022,Savings,Yes,South Nancyfort,9a01d771-be70-47a7-a481-172203c27b58,2,314,1,Phone
+d17b8b6e-9da9-41d0-8c75-da544513c967,55ef62c1-1900-4655-9739-a1436f8a46fd,7/1/2022,Savings,No,New Ginachester,482cd98e-e18b-4daa-adcc-31e057a271bd,1,238,4,In-Person
+17424eb5-c11e-4042-9aa1-244342aa7259,49d66f2c-2ab1-4a93-81f1-68e884edbe30,3/17/2023,Checking,No,East Robert,bbe16cf1-4973-4628-be33-9bd645da0a82,2,230,0,Online
+097b2b3b-abd8-431e-a332-767b1c477be0,d4980323-6e96-4619-9b1d-de6dddeb282e,2/1/2020,Credit,No,New Pam,09d1c8c1-6a53-4411-8abc-b47975b8defc,5,204,7,Phone
+1d154053-90d8-4704-9002-5265e4a5126a,9b26d85b-b4cc-4c22-b13b-2e0dc79478e4,2/13/2025,Checking,No,Port Amandafort,63b3cb48-34a1-406d-8581-c8f6b4f256f3,5,40,3,Online
+0cb8e3c6-d2b6-4afe-bf43-a1d55fadfbe7,a7f8b5a1-a555-45c9-8cbc-822f2eafe43d,11/24/2024,Savings,No,Jenniferport,e4822bb5-b9b6-4026-b691-4c8c880d864e,3,15,9,Phone
+bdc026dd-cd92-492b-90e1-53ec868b1b10,e2edd24c-555c-4725-9109-868d8375fa55,11/14/2022,Checking,Yes,Port Jamesside,7ec5c775-b2bf-4dd7-9ef6-1c967377220f,2,273,3,Phone
+f58b3aec-fb6f-4a63-bcd7-5c7f9b2dd8b4,a843fd71-efb7-4a89-a46a-d69e875ec4ab,4/22/2022,Credit,No,Jasonport,88328d1f-304d-42b5-ab30-58b0aaf71c45,1,338,3,Online
+65b59cf8-d560-4a4b-b36d-205eaa27c0b4,7f2d3095-fb94-4615-af6b-d1a536caf67a,6/12/2020,Savings,No,East Tammie,7b41d3e7-fd06-4ff4-9926-dac2d10fd775,4,202,0,Phone
+d174c631-28dd-4d3e-ae06-5ad52cbf078f,0d4bf10a-a3c2-40f9-a6ce-4505b88a4486,3/16/2020,Checking,No,West Donaldshire,213cf493-b5a0-43f5-92af-9fb5054c0085,4,334,8,Online
+112ea24b-6b61-4226-8cbf-e739c9e6f41e,f76b7fc7-0e4d-46fb-aa34-4c12026d0cbc,4/17/2020,Checking,No,Laurentown,490d12d0-966f-4fc0-9d9a-c77208969fd3,4,354,2,In-Person
+92e6b93c-319c-41ae-9c96-fdfede2d28bf,3d4141ac-4e21-4d58-b611-022e9cb5120a,10/21/2021,Credit,Yes,Sullivanmouth,70ffac49-bf99-4866-a2b0-fa46e3f2f11a,5,254,8,Phone
+188f0af5-67c7-408a-af5e-8b701b7eb78a,c6073e4e-d07f-42a6-a07f-a39613edc972,4/1/2024,Savings,Yes,Dominguezmouth,8ffff1c9-236d-4e0b-a772-d70bf551121b,5,23,10,Phone
+fd50cde6-16a8-4297-ac59-953e5ffa507a,7dd73ba1-b07e-4e4b-978d-1b135fec873b,2/3/2025,Checking,No,Lake Gerald,4033017c-8a88-4d6d-bf63-c2963b245de6,1,198,8,Phone
+27022650-c95a-4792-9368-ef3d738a07e2,2982571c-67a1-427b-ae63-89e1700c7a7a,3/10/2024,Credit,No,Tapiaside,93ab57fc-b782-428d-92d4-abcfdce7bb64,3,104,8,Online
+4f495cc0-4a1b-4ec8-a332-62b1008d8776,dd340b84-f755-4273-9c83-5a36cad45f80,6/20/2020,Savings,Yes,East Anthony,d73809ec-0038-4f4d-8901-17f359209c2f,4,146,9,In-Person
+7d87d9ae-c7ae-4f5d-989f-600a9947a786,a41be2d9-9625-40e4-bd8a-ef2faafd1006,2/15/2021,Checking,No,Carpenterside,92525742-464e-424b-89a8-d7ddf83918ae,5,61,5,Phone
+f2c64d11-8ed7-4362-8903-268346d1d4d2,c17e7ceb-422c-4af4-99ad-a02bd56bfc7d,4/1/2023,Savings,No,Adriennefurt,dd6103f9-5cd5-459b-a1b1-d11f07d5d560,3,363,6,In-Person
+dc5826f6-c738-43a9-b314-4bd814262a34,23c24ce9-04d3-43cf-972d-09cc9e5a99c8,9/17/2023,Checking,No,Lake Tamara,f7f77ac3-26dd-4b2e-aef7-fcfef7b8021c,3,93,2,Online
+f00d04bf-601b-4338-8f1a-3430ab7708e7,0922b3fb-e7f3-428f-bb99-912fc1109465,5/31/2022,Savings,No,North Tracy,7f56968b-e2a7-4d99-ae28-ef0e5f5a51cb,5,253,3,Phone
+fcc9c83b-48b9-4aeb-9f85-e14d395ef7cd,2da4005c-a9d8-4076-b7e4-2e1641271fcd,4/3/2024,Savings,Yes,Grantburgh,8a178ec5-71da-47af-a182-aba51a10a262,3,136,8,Online
+b0168b06-ec66-4131-a00f-d8d4fb5a5273,ffaaa0aa-b1c2-4f23-8c63-96ade3c9089a,2/2/2024,Savings,No,South Marissachester,e4ac2d9b-0289-4dc2-b80b-16644808d293,2,266,5,In-Person
+bc6ac78a-5dab-45cb-8f41-e271e6d12830,2ca2a243-c3a5-4852-8da4-b5fff2843a37,8/12/2023,Credit,Yes,New Priscilla,362f51b9-e11c-4ad4-9165-952764787642,2,231,4,Online
+16316e76-fa68-4df6-9018-66672dfbbcb2,5eb07458-4b6d-4573-9440-86b1272c2706,5/13/2022,Checking,No,New Benjaminberg,3cfc037c-d90c-4952-bf9a-4e8d17ade674,3,147,2,Phone
+305c2877-5127-4d54-af81-d4f2ee86d50d,8e4220da-0a8a-48c7-aaa9-93f5355d8a2d,2/2/2024,Savings,Yes,East David,8947a451-a724-46ea-958b-1b415c46b01d,3,331,6,In-Person
+8852cd53-0ad8-46fc-aa9f-ac3c461987b0,a2a41589-0406-4ec8-a9b9-f63e715a751f,7/2/2024,Checking,Yes,Michaelport,6360fd69-b15d-40a5-9a7f-f2c010b0b946,1,128,1,Phone
+0e220ed6-b37c-4b49-a482-da850ecffe59,fad236c1-3148-4797-9b8d-e12760fb5468,7/18/2023,Credit,Yes,East Reneehaven,cdfca976-5fe2-4a5f-9266-05bb2c674641,1,190,9,In-Person
+0546eda9-6d20-45be-9a1d-2c19239c4141,37e5f637-ba5e-46a0-bb66-98b2a5e360fe,5/1/2022,Savings,No,Petersonland,fa6a5d14-73bb-4f06-aae3-8014774e3b09,2,118,7,Online
+0ddb07b7-d1a9-4016-85bf-95f3bd7bd870,18668ace-af11-420d-b3af-852a943f9cd8,5/31/2021,Savings,No,Martinezstad,5b0b1218-3aad-4565-888d-04a21dafe59d,1,194,5,Online
+ba1bce4a-a94f-4a40-9355-48c0270d34ca,237f6b59-1a60-44a0-82b8-1969c258e398,4/17/2022,Savings,No,Lake James,466ce72a-3309-406a-8c44-a0147d02636b,2,154,8,Phone
+b49ab8a4-aa2a-4712-96b6-9df9d87a92fe,078accc1-ba88-43ca-876c-4571fb229a0c,12/22/2024,Credit,Yes,Jasonstad,bbce04cb-2e47-45af-be91-a640b7a8fcda,5,134,2,Phone
+bde49c21-a852-4710-8e6e-5369cd29d91c,09bac615-ac1d-4095-97aa-b1a9bb7ca2ee,6/28/2022,Savings,No,Fordmouth,059eeef3-8a6d-44f2-a5d7-64e388075c74,5,123,7,Online
+53c9c45e-23ae-4475-b541-9bc5bdf42b36,8e0a761f-e5ef-4292-9968-42eb0a7fae65,5/2/2022,Savings,Yes,Christinaberg,e5132a95-41e3-44d5-9505-5472d18b3418,2,278,6,Online
+04debb93-02f6-4e75-a484-e8d8176ee187,ea81ca7e-e610-496e-85eb-0235f580d2f3,2/12/2023,Checking,No,South Jenniferberg,9434bae9-c796-47f8-8877-365dbe8f9684,2,73,3,Phone
+17bb1dcd-93cd-4a80-af93-16a7bf29383e,5d1c6c51-7bcd-45a2-bd7a-1959ffc08190,5/29/2022,Savings,No,Bridgeschester,be9fbcf8-4d43-49b4-832c-8199dfa61598,3,215,10,Online
+6b94a73a-2cda-446e-a26d-3318ff55ad90,8c1c2765-4e04-4817-92de-65b10773f57f,3/12/2022,Credit,No,Port Williambury,379c0b3f-6299-40bd-b833-0aa070b1db73,3,10,3,Phone
+3e50cb9a-f9cb-4b95-ac8f-cc72119ed5c1,a0bbd194-8019-4f3e-9479-3a81bc9cc7a1,9/18/2020,Checking,No,Danachester,4ece2529-259f-48d9-a64e-55dcc9419bd2,5,90,9,Online
+9be0db0b-632e-447b-bd4f-8d3eadf8c028,19b1af27-ed03-4873-80ab-f78d0567d304,2/10/2025,Credit,Yes,South Traviston,c2141f95-8632-4111-b5f7-78c9105f1654,2,202,3,Phone
+adbea548-ccd4-42d1-a6eb-294cee16c758,c3f17d60-76a9-4353-8f7d-a9f0f2059adf,2/14/2020,Savings,Yes,Port Rickyberg,09c4de48-edc7-4cbc-83b3-0d6979e2346b,1,25,9,Online
+4377b289-6cc8-40ff-a4b2-3bc16064fe45,b6e86410-d42d-448c-8831-efe3c5727ea7,4/26/2023,Checking,No,South Marissahaven,ccb0a007-e203-4f69-884b-5389cde0d609,1,43,5,Online
+ec9f2d48-797a-478d-a2bb-c6d6a154aa3f,f6e6ea37-f0de-4dac-86de-27782d7f92cd,8/7/2023,Checking,No,Georgeborough,94de6663-dc51-4f3c-aec4-b62b959e79c1,1,288,6,Online
+065ce79b-b28d-40fe-8f17-a643363b59b0,1175dbd8-18a1-485f-a86e-5cac31097cd2,1/13/2023,Credit,Yes,North Laura,a9435e85-3ccf-4f34-af79-5b9d9d3b171e,5,120,3,Phone
+0eb90fd0-b5c3-4f26-8514-ba91938957f3,fdce7970-bee9-4f55-a408-9fca9ea4964e,1/20/2022,Savings,Yes,Juanfort,3dc01764-f414-43e7-b068-adb1f00e7f59,1,101,6,Phone
+ceaeb431-bc64-450a-b3ca-6c7e9b1cdc01,5adab6b6-3053-4507-8791-d15a5b048113,7/23/2024,Checking,Yes,Harrisbury,77809c79-d4a1-4af1-a144-a3685e5813b3,4,122,3,Phone
+08e578a7-3a44-4586-bb78-94397f0496a4,6a6207da-ae04-455c-a8b4-b3de321d03b5,4/8/2020,Checking,No,East Gwendolynborough,de5b104e-1116-4817-b2e2-8686f3b1609c,2,257,9,Phone
+677a5609-9120-4e42-a6d7-7275eef942cd,cc074a06-f3cd-4376-bdf4-847e269e3d40,9/16/2020,Savings,No,West Sarahfurt,f8848bca-f43f-4afa-ad45-f37666f91fd3,4,317,7,Online
+c5d7a436-53e4-4d5f-9273-641cce61eea7,07734788-1ac7-428f-ba44-74d0e401e0c6,8/3/2020,Savings,No,Brownberg,d2423282-b0ba-4c4b-9d7c-fc5c843aa50c,5,244,5,In-Person
+b9b26f56-3979-4339-9e5f-27e1bc1e4127,3f994f94-d64a-47a8-b5bc-1a58f2c0a382,8/6/2021,Credit,No,East Kenneth,13c230e2-f4e2-4b1d-820c-190f89afebee,5,319,6,Online
+b50fd507-9372-4527-94a8-30a551bac0f6,7e4c6d64-bdd1-4986-9e18-61634a862394,9/5/2021,Credit,No,Port Ronald,9d9b8eb8-f999-4556-b7b1-2e03c832286d,5,284,3,Online
+bca0e36b-858e-4720-8389-2b95f2b497df,5c8871fc-31f9-4ca9-ae9f-583f5ec98d9c,9/22/2023,Savings,Yes,North Shannon,6585957b-a328-4251-acd0-7750d861679f,1,23,2,Online
+3998c2b7-8ca6-4738-8a17-0d90a8a5dae4,1f217638-6d8d-4aaf-9de0-26360374d408,6/6/2022,Credit,Yes,Williamshire,b02f798d-3102-4e7c-b046-e2b519b5db6b,3,220,5,Phone
+4e1f59eb-6873-4196-805f-c850e33560f4,db1e00df-ea89-4570-a288-f102cb80c257,7/20/2020,Savings,Yes,New Paulmouth,4a23068d-5753-4f36-9112-d07c71e3b2aa,4,289,2,Phone
+149dca1c-034b-4d5a-8470-4c1cd043c627,5b7d6c91-0dc5-430c-98b1-ee7436c03e79,7/12/2023,Checking,No,Port Lee,7cd21c9c-ba88-4d89-97ed-404c2eca86a9,2,194,10,Phone
+08b13745-07da-4d82-82fa-430592aae235,724403a5-ea78-49fe-a0dc-daeabaa91483,9/22/2024,Savings,No,North Courtney,db7f6f41-c727-4030-9579-69df3edb4805,2,222,10,Phone
+833af294-9d90-4e93-83be-bd0e91103000,af7cec62-2bc2-450f-b246-d8f46fe9c5e0,11/28/2021,Checking,No,Garzachester,66ebf418-ea7d-48dc-8bdc-128dd4270931,2,61,1,In-Person
+e2b71ca1-7830-4b8c-9b09-eba1953d27fd,a62255f9-c967-495b-a111-e9beca623eef,5/30/2022,Credit,Yes,Lake Nicholasborough,aff147f0-27e4-4dbc-b980-e1bf3c8c7e24,3,213,10,Online
+aa33465e-5b26-4d7d-9f06-ca1e7ea002e6,0914dbdb-2d47-4d2e-b5dc-d061ed2a0c5e,9/9/2022,Checking,Yes,Sparksburgh,01eae481-f050-4060-9217-30a0a8c65bc7,1,291,4,In-Person
+aaee28d3-2bca-4408-a57d-0a90da2f505d,3eeea855-8b63-4b44-b224-f5a6ba21ddd1,5/6/2022,Credit,Yes,Kruegerbury,ea6c4daa-4d66-4ddf-bd6e-314e5cbb5ab9,4,143,0,Phone
+ca963169-bc1c-4ac1-ac19-8b53b9d4a79c,974ffd3a-60ca-4955-b4e4-5ac038cbe77c,5/11/2024,Credit,No,Rachelmouth,701d1b0e-3700-4791-8607-ad9a02ec3304,5,178,9,Online
+d9ae9974-e1a1-4776-aa73-47cc188076ac,8f64e46a-330b-41bd-aa62-34484b8b62bc,3/2/2021,Credit,Yes,North Laura,8fe0f2b0-6e82-442f-b984-ca33661b88ca,1,243,7,Phone
+afc25638-e871-4975-936a-811b4773c5aa,ebebbc7e-d759-4119-b7b8-eadc37ce9c53,2/19/2022,Checking,Yes,Davidberg,1183bdd9-b72c-4d34-9fed-33e6598a7c4a,1,247,5,Online
+f5533884-89be-410e-9d22-7768cf67be9e,276a46c8-8e63-415f-b8aa-7ddd3ba0281a,1/24/2021,Savings,Yes,North Summer,0724ddd9-3aaa-4849-aaa8-640d8a84db72,5,43,7,Phone
+42ca4f08-dc0d-4789-8828-713455425ba7,a7bed4cb-808b-498e-8fbf-0c790199696d,1/22/2025,Credit,Yes,Gabriellatown,da00977b-64ad-45e0-8fb9-6d0442bacb0a,1,363,5,In-Person
+a4e3783b-aca1-4f06-ba58-1e7d26e497f9,bd0a44a7-26d6-4d56-bbf9-0992a0c78283,1/28/2025,Checking,No,Maryview,3395302e-a8af-4b0b-b17f-88486230983f,2,320,5,Online
+39118537-4392-4583-a4c4-2bb98131a0fc,e9f3bd10-421c-403c-b8c8-9f9d30fd1570,5/31/2022,Credit,Yes,Lake Jeremyhaven,0a0fb3cf-f0fe-4db0-8215-c05a3fd2d74f,4,21,4,Phone
+8778f2ca-ac75-4cdd-8889-e6fd9e18d038,693affbd-034e-48f6-ad1c-7766ccb87e60,6/10/2024,Savings,Yes,Rachaelstad,04bafd57-f92a-456f-b490-b2bc2c8b4533,1,109,8,Online
+6b4e17ac-9e64-4230-afc1-823ac42a4059,10856b7b-454a-4bed-b08e-d308f4a5a31b,3/20/2024,Checking,No,Andersonfurt,f125b5e0-50ce-4b1b-8089-531b9eb30b91,5,192,2,In-Person
+9038c113-62ae-49df-a60b-b6e194c930da,a4020a93-35d5-42ce-a652-63a61c68b7fb,10/9/2020,Credit,No,Lake Adriana,10774ae4-d064-4bfb-8c84-c8fb23ecf68a,5,247,0,In-Person
+5cc21fae-9a2f-4d01-91f8-8febdca4c3a9,5f4aa775-4af4-4690-adbf-b8c62b9bdf0e,5/21/2024,Credit,Yes,North Kelly,002fb261-046f-49c8-a10a-64a3ebeddb87,3,305,3,In-Person
+b56c9b89-5f3b-4fde-9a03-d6b176f7b68a,ee152aef-2cde-4406-bbf1-d59d6b399d0f,4/30/2024,Savings,No,Virginiastad,b83486e7-0d0b-4363-91b0-65f79f25cdbc,5,141,1,In-Person
+e66ace2a-9d23-4e5b-8d3a-ebaf82b97410,88587dc1-b14d-48d6-a6b2-516dca3ef3e7,3/12/2025,Checking,Yes,North Ashley,358395ab-d890-46d4-9be7-1d46598b191d,5,255,10,Online
+ece442f4-c28a-47ad-bfd6-023724829fb7,0df65a3e-e66a-4c04-a1ee-97171fa51aaa,7/12/2022,Credit,Yes,Cobbberg,5ef35be3-48c4-432e-8dc2-6e676642427b,1,25,0,In-Person
+bb0cacf7-ec0a-4109-acb4-5210e9a34a67,468d2a8b-eeeb-47ba-9a61-345115406db5,3/18/2024,Savings,No,East Eric,9b78f9c9-d5c8-4fac-a8f5-7f43b1844221,1,290,1,Online
+9c632a17-9ad5-4845-973c-c3e16c908aed,8e678583-ca99-4fd5-81b4-dd49e290a7f0,1/17/2020,Savings,No,New Linda,d3837096-b89b-4c1b-89af-16175579827f,1,157,2,Online
+ad1731eb-7b90-40d2-bb1b-e83a299c06ef,881bc44e-4172-484c-a7b2-e3c8df48ed42,8/27/2022,Checking,Yes,New Charlesfort,e2011215-6a7f-4c01-aac3-e0307898a9ae,4,21,9,Online
+2ede31f0-931a-41b8-ac77-1fa71c8de7ad,5afe8e6b-7b88-4f46-941f-74bf318b609b,11/4/2020,Credit,No,Lake Tammy,194692b8-592c-4412-845b-69383b539b43,5,0,5,Online
+a90b1508-899c-4155-9b63-aae832f0e4b5,de88f423-43be-4b9c-9035-928b9a896380,5/18/2023,Credit,Yes,Amandafort,0c2ba43d-1dd5-4ebe-9a3f-2c00b044b47a,3,237,5,Phone
+a587c404-e9ee-47b0-a29c-2bf0d85bf6c0,29725bf6-093f-46b8-a5a4-09a66ae849bb,3/18/2023,Savings,No,Johnmouth,13b0c30a-e126-439b-af5a-ce10a10d4d31,4,267,1,In-Person
+ac706684-7770-49a1-b3a4-0ca3fce87e65,85f463e4-1f07-417e-b057-2459894fcd94,12/7/2021,Savings,Yes,Andersonborough,ed609cf4-ad81-4360-b9fa-cd050d0a49d1,1,7,1,Phone
+243bc615-58fe-4580-80b8-811ff34ac046,b9c2aeef-237b-4799-83e9-2642adaee12d,3/5/2025,Savings,Yes,Perezstad,f65b2b84-96d0-4635-bb7f-f992c31b882d,2,22,2,Online
+fc21ea96-4505-48b8-80c3-448090180264,551e357b-0f2b-4636-9e4d-1b2087cedb4d,11/18/2022,Savings,Yes,Amandastad,f1665048-d11c-48f9-9340-09024fbeff0b,1,173,10,Phone
+e454fe30-a09b-4823-b65a-5b97dbf757fe,2bb1c291-c447-4b4f-9dc7-8b0f8a2fd6ea,7/29/2022,Checking,Yes,East Kaitlyn,59a195ef-fdb4-4fdb-9af4-5221d9b0e80e,2,12,7,In-Person
+49341ef4-f9d9-4e91-b379-c1d472acdac9,dd26863d-05ca-4730-b903-0bb5e9895ca7,11/7/2022,Savings,Yes,Justinmouth,bd3eb5b6-83f9-4eec-8dc6-a17e04c503b0,3,73,8,Phone
+a8365e04-a87c-4de1-8876-ad18b514878b,a184c53e-2884-496a-bdc8-56bd600ef197,12/6/2023,Credit,No,Port Anthony,45089b64-730e-48a8-b135-2197b2fb5f3b,2,236,2,In-Person
+05b6f835-e92e-445c-8b08-74f227801aae,fc96f341-a981-469c-aec4-fa1ff21f1fa2,6/27/2021,Checking,No,Port Kelly,35c85f03-1a6f-4e97-8e3d-b43ea0cff79e,3,320,4,Online
+99f58dfe-3b26-4f98-a350-6e1c6129447c,c3bc5188-a6e9-4b4e-ab26-ad7185eb04f0,4/14/2021,Checking,Yes,Baileyshire,b43e9ed0-3919-473d-b87c-fbd3826a918a,5,274,5,In-Person
+9604c79f-62d0-48c2-a7d0-80f1b7593d9d,fa616dcf-79d3-420d-ac46-aa16310cc632,3/12/2024,Savings,No,South Brian,7612fa5a-3e94-423e-ad84-1d66c6fd24ce,4,207,9,Phone
+16ba1cee-abfa-4afe-95b2-f8eeb0d484f4,41274d69-3260-4927-b219-d555618dfaf0,9/17/2023,Credit,Yes,Watsontown,fbddb799-667b-4d92-b598-e0a72401febb,3,103,10,Phone
+d0079b8a-20d1-465e-b003-90fab67f4618,db04751d-00ce-47f1-a408-2433993d9c78,1/24/2020,Savings,Yes,Millerton,31d2ddcf-44d7-4f4b-8f00-70492b6691f3,3,282,9,Phone
+98529e22-f49b-41c6-8cce-a5151c2437df,4515e3fc-367e-44ba-8a01-dc8b87a2d0dd,3/29/2020,Credit,No,Chavezfort,6a37075a-9dcb-40ec-86cf-6cfbc6f5b4c5,5,18,4,In-Person
+f6032f56-fb2d-4d14-ad4a-d012c78161af,7b06bfc3-826d-4376-bbfd-fb3124e1aaae,11/12/2024,Credit,No,Brianmouth,3a09a85a-743e-427d-89bc-c0d6a906eda0,5,81,10,In-Person
+35d485d7-f59a-4299-95d9-b96006bb84ab,87712271-e3e8-420b-9801-6ed00ba1f1cc,9/12/2021,Checking,No,East Christopher,3ea0b876-eea8-43db-afaf-ebc6067bbe5f,1,245,7,Phone
+6f9fd0b2-b13e-430d-aa1c-879cbbf8c530,80febc49-fd2a-4f3f-85ed-7105ccac2895,11/24/2022,Savings,No,New Jeffreyhaven,66e8afcf-5bf3-4b72-94b9-d9502328c589,5,356,2,Online
+b3baeabe-f8af-4c73-ada0-629d1499b761,f12cc623-b95f-4ccb-bd94-ce41ac480220,4/23/2022,Savings,No,South Andrewborough,19791243-a0b0-4d7d-8e8f-40b787a76d47,4,261,7,Phone
+aecc44d3-df48-480c-83f0-083d6f84ae17,240532ea-fa2d-4141-9136-ebad200e6776,9/13/2021,Credit,Yes,Tonyton,cc321a8e-72de-4278-ba9d-d3ef9056cec1,4,343,0,In-Person
+83de5259-f492-4fe2-b89b-c4d6b5a52b7e,d901d575-733d-47c9-a8f1-3ca573a7808f,3/8/2024,Credit,Yes,Jenniferton,6ee56de1-9c6f-4192-a29b-6b77373e5821,3,283,4,Phone
+c71e8f4f-40fc-4934-8263-43b5b528ffc1,7fad1043-5e48-419b-8ef3-e617f3d4f297,11/29/2022,Checking,No,Allisonstad,9ec689b0-6491-490e-8542-5ae6ba63b6d0,1,180,6,Phone
+e4e0d8a0-dc82-43f8-ba4d-c7f8396ca4a4,2f5602a5-8292-457e-85ce-43b90de8f5cd,11/16/2023,Savings,No,Port Shawnview,b4a71b38-e47f-4473-b7cb-7d5776a5b621,3,203,7,Online
+6d5384b2-f6bd-4e8d-933b-529997a651a5,22920f3b-df1e-4316-a82c-8d30922c5132,11/25/2023,Checking,Yes,North William,27c8b7a7-24b6-4a81-9849-f9dc00994b12,3,38,8,Phone
+70d7bdec-a699-4778-842e-bc0c9e5e3a00,83dbffab-7663-4163-81a3-b04548fc1a6f,10/23/2022,Checking,Yes,West Christineberg,2e75b3a8-f8a2-4219-b4f7-e4692ada94af,5,194,4,Online
+8a606196-56fb-44c1-84bf-1f3e0a2773af,1333fa43-8045-4f05-bbf3-99030ccd3828,1/6/2021,Credit,No,West Monicamouth,05c68d4a-9918-4c12-b000-bfb35fb23a87,3,229,7,In-Person
+cb7306b9-6d19-46a9-9c1e-4b303a3cf25d,d59c8e8c-8dcc-46b5-adb8-cd8a18d767db,6/19/2021,Checking,Yes,Ryanburgh,7bce999d-6584-49e2-a17b-a7a1ba09ef3c,1,201,10,Phone
+463851b4-c32b-428c-b9e8-c9244832192b,c2dacc1c-e5cc-4a30-abe5-ea1f154539c1,8/13/2024,Savings,Yes,Josephville,f7a0181a-7342-48d8-99da-0494bdce0176,1,166,10,Online
+27eac88c-a207-4a6c-ba06-36148dfa882d,5d64e0aa-831a-4b8f-ba5c-2ed8e1aced53,2/28/2021,Savings,No,Lake Stephenchester,fb0cc2c2-2769-4937-b1ed-e00878dd92bd,1,89,3,Online
+efa4d8be-b6ec-449d-8b34-bc4172212fec,4bd86f1b-65b4-4798-8960-0b37f287882e,8/25/2023,Checking,Yes,Lake Jeremiah,b18d3849-4dea-4214-b65d-9fdbf7b9ef2c,2,365,5,Phone
+c18e9a7e-92b6-4264-a425-0b11a218ce47,b7c0badc-4da2-4b5b-a239-6a0eae938101,5/20/2024,Credit,No,North Lynn,1897c96d-5f7c-45d7-87d9-9450df90e961,2,196,10,Online
+9a42c679-7645-4054-8ddf-082b29256ff7,c0e54d06-5600-4c0c-ba54-d11417288882,1/27/2020,Savings,Yes,Christinaville,6495218d-d087-45bd-b1c1-6f9139a0a553,1,107,9,Online
+31956d70-b8eb-4d24-8a38-cbe5a01937f6,ab3803ba-901b-46f1-a53b-2620ec1b08ba,12/25/2021,Savings,No,Lauraland,cfc092ea-dff1-4d56-ade1-0c15129f6d20,5,208,4,Online
+f0f548fe-77b9-4b40-96a0-fe2d7d9e3e72,672d0d87-3da8-4745-8506-7089e833dfcc,1/10/2021,Savings,No,Pateltown,0f90320f-3cad-4814-896e-83ee8d96fc35,4,202,0,In-Person
+099dfb6f-c646-4985-821f-1ab2a6f94f52,203bfdb3-63a7-44f1-9765-ee4e0bcfd6c1,5/7/2020,Checking,Yes,Staceyhaven,14376b84-e67d-4113-94fc-e8835a445c7a,5,315,7,In-Person
+47ea58d7-e392-4994-a0b5-27b52d9d1d72,55cff506-616f-4b24-b7c7-8b1d9a9872d3,11/28/2024,Savings,Yes,New Shannonhaven,d7189d06-732a-4831-8cc0-67c35281f8a6,1,190,3,Phone
+4a160bee-84a7-4e81-832e-bab56ca9dcab,5b445c76-e015-4f31-bf68-db1b0c1923f1,12/29/2020,Credit,Yes,East Sharon,2a1f836a-ebec-4377-af16-298053d11732,2,174,4,Online
+d3a97888-08b5-4dd8-80f6-d88ba3795952,76c221dc-1189-475e-83a9-0dec7f79a7fe,7/6/2024,Savings,Yes,New Danielland,944b0584-a75b-4b67-a1b5-21a11ce7f552,5,165,1,Phone
+01b363f7-8e95-4f88-95ab-e8baa6bada44,32b57bd2-5da5-47e4-a113-ec0d6aa242cf,7/11/2021,Savings,No,Riddleland,3facdf4f-c17b-4386-a777-3fb2020f45ad,2,96,10,In-Person
+4b5dba4d-3222-40c1-8b1d-fb54589a53bc,46b8c21d-a150-44c0-9c55-c84d6e0886a8,5/7/2022,Savings,Yes,Guerreroton,abab7f4c-64af-4b16-afdc-02b1162677a0,5,83,1,In-Person
+e20a97a3-8dfa-41f4-9606-c436881e7bcb,f2558163-0ba9-4a38-a3dd-0c67ca9569ec,9/10/2020,Credit,Yes,Jamesmouth,645866f0-5c6c-4a40-bb64-0aedc6dfdcdb,1,255,2,Phone
+c553fcf0-b880-40e8-b5a4-b870ce3db507,95f36899-d8d3-42a3-9aee-43a1ba341963,7/3/2024,Checking,No,Katherineburgh,6a21580c-563f-426f-b10e-633267be45e8,3,101,2,Phone
+34cd1eb0-f463-4afc-8894-81c2ffd7d1cd,8fcc675f-5b8e-401a-b448-59d65092dea1,7/30/2024,Savings,Yes,Jenniferbury,f279b6ca-67da-4e5b-b81a-8b55e9fdbd84,1,170,5,Phone
+8cd5579a-d8d6-445b-8265-1a2184fa1664,60c273ee-741f-48cc-9362-dd8642e6224b,8/28/2024,Savings,Yes,Alvarezchester,7066640c-a33f-426e-a7d6-fee0208b3a29,1,70,8,Online
+d10837e1-fd67-4c58-8bba-dad2a7c3ec68,a5c3c4d2-3d06-4790-99fc-1350cc7c25ce,8/7/2021,Savings,No,North Matthewmouth,dc0546ba-a1b5-4e30-a18b-1e6ff6b58d83,3,341,7,Phone
+ac484acf-f99c-4e50-97dd-3a118975073f,c66cd102-c885-4ca6-8d75-816b5590f7b3,8/30/2020,Savings,Yes,East Natasha,c4d54d44-1c9a-477a-9ae4-ac5295ec007b,5,364,7,Online
+ee0d7e07-6b54-4c36-b940-76b487ac0883,7ef302c5-a74e-443d-8a11-84c63f882b51,10/19/2024,Credit,No,Suttonport,b386d96e-1ea7-46c5-9b38-ec269553c727,5,264,8,Phone
+cd1bbccd-f13e-4ec6-a469-36143d207e76,c798fcbe-71c3-4ac2-9e8e-be76ac3209a6,9/25/2024,Credit,Yes,Williamsside,7ca101bb-8f42-4815-95a3-a53760b16367,4,212,3,Phone
+88fa274d-2196-49a4-907c-a12175a3c54f,24ea3267-bfca-49ba-9260-06bb4a6f0892,10/13/2022,Savings,No,New Blakemouth,0d0388f5-d07c-4bee-893b-2ed61d0e189a,3,318,2,In-Person
+1d609319-0d46-425b-a775-ac3cc1045ae2,43d68329-1985-487f-bf95-873684bdf4af,3/12/2021,Checking,No,South Marioview,26905670-3078-4cbe-9052-1e8fceac3d3a,4,133,4,In-Person
+c35e82d5-3e81-4032-886f-f31c34af8dad,3b9e9988-eec1-448d-9a89-3db2d6ea6c5d,2/23/2021,Credit,Yes,Josephfurt,9acc789e-9b65-43a9-8991-6424b9d971c7,1,21,1,Online
+2a208fd0-6934-4f64-92ae-1cce5a515fdd,ffaca2a0-e3ac-47b3-99e3-2ed2a7d13d5f,6/6/2022,Checking,No,South Brittanyland,a5361a1e-3a9f-4641-bf07-8a089845fc71,3,360,4,In-Person
+ec350433-bff9-4c1d-b59a-c06bfe1c1426,2cfc811e-05f0-4905-a6a5-1bddf0b86611,10/23/2022,Credit,Yes,Jamestown,43467046-1a20-49af-82a3-137880cd03ab,4,280,6,In-Person
+36c217c9-69f2-4f1f-89cc-574a70452ac3,c2e002dc-7d61-4ff9-8d33-5e3157c3c859,2/18/2023,Checking,Yes,Cohenside,173c45e1-2fa2-4188-a4ce-673ed8e1f589,1,221,9,Online
+3c1791c6-9b9a-4629-a43f-a0a544eb4911,edcb3e6e-b188-493a-bed0-68bc56309cc0,3/14/2023,Checking,Yes,South Maryfort,eedf954c-b095-4593-ab20-a51e2c8d23ed,4,80,3,Phone
+8b21a9b4-e222-47d7-aaf1-42da12dd37c1,b668ca4a-701c-4bef-9d40-c8c9723cd14f,9/19/2021,Checking,Yes,Brianshire,d6300489-c014-4438-aa4d-29ef8b9c6c18,3,52,10,Online
+96c7e1d2-bbdc-49d9-8e49-b5499ca53765,2b492220-a3a0-4c92-abe3-e67e798b13ae,12/12/2020,Checking,Yes,Blanchardchester,5e917ed5-3036-4144-bb42-f0bc3c91a958,1,194,4,In-Person
+15d61cec-2b95-4fb2-b433-3d83f8785622,d1e81ccb-a872-4405-916a-2131f26d7daa,9/29/2020,Savings,No,New Mollyville,854fd071-f7c8-478e-ac07-cbfee23f9641,1,153,8,In-Person
+b37fb690-ba27-45c9-ae83-7dc27108880b,ac5cf068-b6ad-46be-9b48-b9884250bf10,5/16/2020,Savings,Yes,North Susanside,c88decaa-512e-4727-978b-cd977443f6f4,4,149,1,Phone
+a3da52d9-6ccc-4e9b-97d4-3a3e26fe7880,cb28aa1a-87d6-4824-8423-91f4b144ad6f,4/23/2020,Credit,Yes,Brianchester,73d43fef-09b4-4d6e-8fef-7118cd93fa5d,2,249,9,Phone
+718585e8-951e-4da5-9018-60fd712189ec,352c5a61-b16b-4e74-9823-514c061c0ac4,6/12/2021,Savings,No,Matthewstown,05ec44b8-ff0d-431a-9dbf-ef70da7d4281,2,156,2,Online
+b0f1e52f-9559-4287-bfdf-2a7ccec81b41,55fa6f0f-9986-45d2-8fdf-8d10a4c72302,2/9/2020,Credit,No,Georgeville,127ed3a6-8796-4993-9a0a-2130627be419,4,253,8,Phone
+a9f62151-a6e9-4d1a-b355-589c02f1fd55,b7399736-63c0-43e1-a98d-e061e382b866,10/27/2021,Savings,Yes,Lake Karenport,c68e48af-2b44-47eb-8d90-d3431aab774f,5,48,6,In-Person
+0300e18c-7f42-4cbe-985c-cdd75b2f1198,b621e3d6-9430-41cd-8282-d6868ee12584,5/26/2020,Savings,No,Acostabury,fff1d339-6fb8-4f48-9415-fa1dbd0ae588,5,271,7,Phone
+973aaacc-af1b-4f89-b7e6-5c5f16f6193f,1375bf11-5cc9-44ad-9737-e64ebebac35e,12/5/2021,Savings,No,Michaelfort,08f92e8c-136b-4137-a03c-dfc7d819a88d,1,295,5,Online
+64bd9b45-8ad2-46ff-9a79-5cd5f20ae27c,1d60a2f2-40db-4f33-a726-a2629cf5d4e9,10/6/2020,Savings,No,Lake Brett,ee8462d5-8e9e-4252-9918-c333ad351b11,2,197,0,Phone
+2cd73c11-9c0f-49fe-9d88-48dd7164f5d3,f40119de-0bda-49dd-b9ee-124f70408d24,8/23/2020,Checking,No,Flynnton,df26de40-05c1-4790-8138-a197c738357f,5,68,0,Online
+663ee59e-fa2a-4f31-8fc9-0d3f3dcec0dd,fc983e01-5e74-458b-90ac-d01b72a0ff6e,1/29/2025,Checking,No,Lake Karen,207ac307-d9cd-46c5-b4ba-f42dc706fd63,5,152,4,Online
+aebdf2c7-1352-45ff-a41e-121177b22c5f,74d62f62-6139-478f-b052-6834fb404d2d,8/11/2021,Savings,No,Timothyville,66cde9c4-89e6-41d0-956e-80da0cc5c242,5,264,6,Phone
+539a9efe-a297-431b-bdd7-65159b3979f7,46f23620-6760-408f-89de-d7b0c9dcf2bb,11/29/2021,Credit,Yes,West Amberbury,eb80e697-6045-42a8-a4f1-379f7a0745a4,4,7,4,In-Person
+c5f5fb5e-9189-4ddd-8170-bab034546556,2c790ff6-6e1f-4caf-a489-c65d6216c0fd,1/14/2021,Checking,No,Adamview,64128f78-ad46-4bbd-89c2-9f5bf828a8dd,3,202,6,Online
+b44f5ad3-7075-4627-8c86-9e3dd1ec875e,140b9f23-0170-4282-85d9-d24ef3861dbc,6/6/2024,Checking,Yes,East Lisastad,6e0c0579-19de-4dcd-8502-c1073d7a30a1,2,168,1,Online
+30910c31-a45e-44b6-8702-65298c33b0fd,85b3814b-8d23-43ea-90d6-0da6b7a1f997,7/19/2023,Credit,Yes,South Maureenfurt,d06aa449-e00f-4917-9074-eb5b884cd8cb,1,222,10,Online
+65de939d-0f92-40e9-bac2-e0fc98d6f694,488f836d-491f-4e98-a9a5-7fb2c591072f,7/9/2024,Credit,No,Nicolechester,6c98f9fe-fe80-4a0d-81dc-27c5002515bd,2,57,2,In-Person
+05e0591a-d7ce-407b-8352-970c701fff38,8fb2df85-3f05-4f24-92cc-4e23e43b1b4a,5/3/2024,Checking,No,North Adrian,fb93030b-62a8-4374-bd5b-a9f97aacd867,2,114,5,Phone
+318bd522-bb91-49df-ba95-b0a058b6fcb1,642ed64b-b51f-42ee-99e6-791ac8f4bf6b,9/9/2023,Credit,No,Port Danielleville,113c0ca5-37fb-46f1-972d-d541aea044de,4,20,9,In-Person
+82aa126c-9776-4e57-97c5-8864d7db5454,824011d6-b6ec-42fb-abae-4fd6c2647f10,6/3/2021,Checking,No,East Brian,3f466eb6-529f-4d88-867c-0fd0af82279b,3,280,5,In-Person
+0ea3d94e-40a9-45a5-91c2-1bb3849188a0,47a745db-61b8-4a99-bde8-1e204548fb85,3/15/2025,Credit,Yes,Abbottborough,f12560a4-f5cd-4e72-afac-2475af3a5402,2,300,10,In-Person
+5d9e9377-a133-448b-83f2-d5f2e278a440,fd518bfb-723b-44c6-8793-8128c33329bd,11/27/2020,Savings,Yes,Port Marco,3296b4a7-9ce4-4097-bd7e-b3a6a06c72e2,4,175,1,In-Person
+251436c4-ab39-4748-98b5-b0e67f13ef85,9e901c4f-da21-4554-98f2-7f42d7f404c2,7/2/2020,Checking,No,Simmonsville,60bb18da-23fa-4f48-9903-3c0af7223def,5,51,9,Online
+51072ed4-3401-403f-a09c-232ca5659e29,28614864-ede5-4a6b-ae84-3db0e1316906,2/10/2023,Credit,Yes,South Michaelborough,ed0e25c7-f407-4839-bc24-7418349504f9,3,191,3,Online
+f9448ba6-a11a-47b4-ae55-d943f09794f6,49cf6227-d9e5-4ddd-b615-1488766da4cd,12/5/2023,Checking,Yes,New Matthew,9c71d854-8161-4cd5-9f6b-ce7fb16ab7c6,4,278,7,Phone
+599dc70c-db7b-4648-bbe4-6d129b307170,114c1fb1-4528-4898-b64f-2a84c9666ea0,12/16/2024,Savings,Yes,Lake Johnstad,4bc476fc-7d54-42a5-bae2-ab416480a31a,5,356,9,Phone
+10afad34-91c6-49af-ae80-9a44e826e78b,c037d637-2e6e-4fd5-b146-a901a6f88359,9/20/2023,Checking,No,Caitlinborough,59c1e875-a73e-4fe5-b537-0fbd99865f33,4,201,5,In-Person
+dbfa78cc-c989-4ae3-9452-0eefd91916ca,366c9c63-1a10-4525-bd08-5fdfc3291cf9,7/23/2021,Savings,Yes,South Carolchester,505ff4ba-265f-447f-9bd8-14fc1f4eb693,3,22,2,In-Person
+7c530e3f-5a35-41f0-b8a0-4c953e11e82a,8d1f0583-9c31-4b36-be70-981d9e8e5344,12/30/2024,Checking,No,Harrisport,0f11e729-d4cb-4ca8-8012-670b366258a0,2,128,6,Phone
+fca36830-566f-4bf1-9169-ee95ffb9b269,c6b48305-38cc-4d78-8abe-ba5d6c1e02e8,1/1/2025,Savings,Yes,East Kenneth,d8429635-9369-4cfa-8cdb-e5bd1a055c59,2,33,2,Phone
+b1dc8b36-394d-49d8-b0ac-6e059c78dbec,ccad4494-d0e9-4bad-8aff-e27cdffc9dd8,12/15/2024,Checking,No,Lake Jacobshire,ea6736de-c769-46b9-a4a7-679de1e715c3,2,233,6,In-Person
+6caddc85-ade1-4c9f-876e-1a42cbf325cc,3963e549-fc6c-41d4-924a-d4acef7d0fd5,8/29/2023,Savings,Yes,Joannamouth,01edd5e7-0b72-493d-a67d-4399b3444b0e,3,78,7,In-Person
+7b7b919b-304a-4a8d-8582-9c7e99a57800,f9ddc7e5-8b76-4ccf-b1c7-26fe08f638e5,10/7/2021,Checking,No,Steventon,624db2a8-ed98-446e-a4c7-3e819c378bac,1,339,5,Phone
+09e33e67-a2e1-4904-89df-e71df836a822,203da6a7-18ab-4a03-8c4c-22315c11905e,10/26/2021,Savings,Yes,South Johnstad,e0d841a6-1c01-4d85-8ee5-93c15149c8a1,3,256,8,Phone
+5c1316c2-4aa2-48a0-9f06-3b6311bdd9d1,030472ae-9e03-4673-a21e-bb62220aed9a,1/4/2021,Checking,Yes,West Seth,222c2cb7-61d5-4275-9e13-3bac6c8c8b95,4,85,5,Online
+92abcec1-2c1a-4da9-bac1-0c2d33b78791,76fd9bcc-e9df-4535-8159-1041d2b57d14,6/6/2023,Credit,No,Kylechester,a7b51905-4015-4837-aa49-00e02e4ffbdc,5,364,4,Online
+fa2d0dc5-dea6-4d29-b825-ec95a3d73e51,999fe627-fb3b-4707-b219-e9e7ccd56270,9/20/2022,Savings,No,East Rachel,cfab549f-528a-4c9d-af5e-1533c3704032,3,229,10,Phone
+006a6b39-f745-446a-9663-f1faccf83c9c,3e378ddf-8b94-49e3-a284-bafe3659bbe8,12/12/2020,Credit,No,West Davidton,095c615e-1ede-4399-a2e3-496712ff9a54,2,342,8,Online
+8f7e05e6-ad84-4b32-9ab1-5163a544c8b2,5df204c5-2674-4815-b3b4-d820eb9613d0,2/16/2025,Credit,No,Carolynton,b1cd22a9-88ac-4e84-a439-e4205f7b3a8c,5,341,0,In-Person
+51ef0dd5-4daf-48f8-bb63-707f6403d0ed,16cdcfe6-4197-48bb-8c3e-bc81775ce4cd,12/12/2022,Credit,Yes,Elizabethside,dc64b46c-35e2-4b06-8be9-f7a6bb30e993,5,300,8,Phone
+b9bbc69c-5418-4880-a2c2-e8e1305f82bf,4bf57d09-3618-4516-8e2d-3de63e26a736,3/20/2025,Savings,No,Nolanland,4fde75b3-dd9c-44ea-8dc7-f3c61fed34d4,1,239,10,Online
+5c5383f2-c198-4d12-80b1-4606e9c53dc9,4d50937e-dd7c-44a9-b492-994cfb10b0fe,3/26/2023,Credit,Yes,Lake Jason,a75fcd55-362e-4856-ae14-94b296b8eaa6,1,213,10,In-Person
+731a6348-30d9-4f45-a739-ab90d18c0403,12c1995b-59a1-4488-a694-97a85785dee6,4/21/2024,Checking,Yes,East Latoya,0ea337ed-53c0-45f2-8607-e6694c892d10,2,284,9,Online
+ba3d2613-6de4-4e88-b8a3-f110a98a8be8,1854f606-9e97-4862-82af-01502233a33f,7/26/2024,Checking,No,West Samuelborough,d3733a48-b42a-4430-a7d8-fdcf6254618b,5,49,3,In-Person
+ed6b212a-024c-48f4-a0bf-5b45b8e6c91a,0debb4d0-5706-40b9-aef0-366dd6f0bded,7/28/2021,Credit,Yes,North Michaelmouth,f5f47c75-a733-4b1e-a7e6-e60867cb075d,3,176,6,In-Person
+96f5e517-232c-4f1e-9e05-52a24407c34c,6f20ccf9-ae8c-41d3-b480-8eceb156c4b0,8/7/2021,Savings,Yes,Howardberg,c378b003-dd20-4828-9873-75b91dbdd57e,4,280,1,Online
+ce4ce84b-9721-454d-9909-59b158670b24,9218d543-8e58-429a-bd7d-4f65eb090702,4/4/2024,Savings,Yes,Colemanstad,033acf8a-c6d8-43e9-a37d-7c3a9b70bc42,4,295,3,Online
+4d6b952b-6665-4f6f-8fbc-fc99e4fac209,543a4573-7672-4977-b84d-63754c394602,6/14/2022,Savings,Yes,East Codybury,711bc450-4212-4dbf-91e2-4475a7390cad,3,348,7,Online
+2265a4a1-fb4b-44d8-aeba-eba10c55f86b,a4056d2c-a49c-4616-a70c-73f9654ba21e,3/3/2020,Credit,No,East Robert,d801ebed-e697-4459-a394-404500248b40,4,161,4,Phone
+3a95dd1f-4635-46e6-bdcd-899504f64b51,6f40f19c-8411-4101-8aab-76598ae0a50a,9/18/2022,Savings,Yes,New Kaitlinmouth,80748d00-95ab-416f-8c0f-fc135788d096,5,168,6,Phone
+6ffc1fe5-101f-4063-884a-b3cb7ab7df38,7a541a34-25f7-4221-895e-59c8acd97f8d,4/8/2023,Checking,No,Buckborough,631ee54a-1397-42c5-957f-973cc1fddb67,5,136,3,In-Person
+f1cf708c-8792-4b89-96eb-5a686cd7ab9f,76ff1be2-2d8a-4f07-92eb-177054a07e77,1/8/2024,Credit,No,Davismouth,334836f8-23ea-4bee-985d-424cf47aa9c8,3,185,4,In-Person
+4ed1dba2-5ae7-4eee-8838-8ed3f947f15b,ad010ba7-ee00-420a-80d5-d9a1736f6f46,7/6/2024,Savings,No,Port Jacqueline,bea2facc-09a0-415b-be05-3cc11dcda7a3,3,35,9,In-Person
+6c4e2948-16d1-4be2-a4a9-788056fe1e85,c1a70f0e-68b6-480a-93ea-dc0e4b9bf7f1,9/25/2021,Checking,No,North Jamietown,c7653d8f-d389-469d-bc24-233d35d56bba,2,25,3,In-Person
+1fa9017e-e81d-4bcc-a229-aa891554209c,87235319-1fe4-4cb4-ac49-3db70f0e661e,12/17/2021,Savings,Yes,Kristyburgh,5d18dbc3-ecb6-4cca-b251-cfbd21731278,5,193,7,Phone
+5e073528-1b68-4543-91b0-b4b1de225317,45fd2307-17ce-4997-827c-f63e4afa6a8f,5/18/2021,Checking,No,Woodview,db900c25-3878-4dd1-8702-468938d63b4b,1,160,8,Online
+4de5c922-a822-4f3d-b7fc-791e887b8786,dd649028-4ff9-4482-b8dd-e7f987fc1628,5/30/2021,Savings,No,Palmerland,578b0e7f-90b4-40f4-abd1-31e29a13c1f8,2,308,1,Online
+2c3ebcf5-e3bd-406d-8fdb-ac8c46650daa,289ae292-1b72-46cb-a085-a384a84edf1f,12/25/2021,Credit,No,West Lisa,e4932af1-f346-4b01-bc19-767d6723be5e,5,313,3,In-Person
+026589c4-fb78-4040-9d20-dab8b098ac25,d0b292ca-861a-47bb-8dca-ccc6dd2cb2d2,12/2/2023,Credit,No,Caitlinland,30398611-83a0-4747-8aab-a8fdb771e180,5,247,2,In-Person
+a4b06892-d9c8-423b-882f-2c0fea80c86a,d6116b04-446e-437a-8c93-12bef20a2034,2/10/2025,Checking,No,New Melinda,6d180e50-cab1-4393-b2a6-6b67bad01248,5,16,1,Phone
+3d430788-514b-4b15-a395-3e7dc16c1601,aed1fde9-89bf-4518-b5e6-4182b0788155,10/16/2023,Credit,No,Stevenhaven,b78c6885-a877-4013-a3a8-e425b1c41ec0,2,92,9,Phone
+cefa7030-8a5f-49bd-b670-d015f9c1c38d,18ed4012-7d50-4140-b964-15fae55b15a2,1/11/2024,Checking,Yes,Jenniferberg,471b84a3-a3e5-4901-9122-41309954de3d,1,54,10,Online
+d3bf80db-3fd2-4a0b-a99a-ff3444ddd085,90ae592a-9a71-4ae3-b20d-31e72fdfe06b,5/26/2025,Savings,Yes,New Edwardmouth,7bdedac5-bfd5-41ec-8db9-91bb4b75e031,4,81,3,Phone
+a6abb9d4-0b89-42cd-b53d-728779a4cd9f,f444ace1-a7a0-4eaa-975f-1815d25698cd,1/27/2023,Credit,No,Ortizhaven,54358c55-024e-484a-bd09-90503353d288,3,281,3,In-Person
+fcc24651-953b-4df2-aa50-6ef2e89a7df5,30cab6e7-1ac7-473a-baf5-8c6646260de4,5/23/2024,Savings,No,Shannonport,6124a43d-d594-4834-b771-6425ce971369,3,325,7,In-Person
+7c3bfe05-5735-40e8-84b3-6e099eb40bec,4a5b8291-23c1-43d8-83dc-ed099c7b4f67,6/18/2023,Checking,No,South Maryborough,07eb7066-940f-4614-8b00-12f668e47fad,1,76,8,In-Person
+300b8f4f-1b5b-4f04-a2bc-77b085155e10,98e12fde-8d2e-4454-b340-1b058465b300,5/9/2025,Credit,No,Carpenterfort,7833f9fc-50c1-44b3-a399-99f72cdb4fb3,4,121,2,Online
+220b04c3-0b22-4cdd-98e9-5301c58d2ee8,3e976208-31c2-481e-9d24-c85f8cbeef89,11/25/2021,Savings,No,East Jill,d49c9325-e8be-45ba-bb2c-a89841b93df8,5,1,5,Online
+f39476ec-893f-46a1-82b0-2485bee9501f,8972e123-ba25-42ff-9d8b-17c4ecd18a64,11/29/2022,Credit,No,Lake Michaelton,9062c54b-a85c-4d8c-a304-d488faf8fba0,2,68,1,Online
+0f9c3db2-1dd8-4f45-8cca-b84066895b6b,bf5d6acc-5e32-4d53-b8ad-01fed9c113bf,4/1/2021,Savings,No,Nicoleside,bcddfb61-238a-46a0-bfe7-03fae2af2e92,5,200,0,In-Person
+29e65305-9cee-4779-b887-7f8436e92f16,b9880c26-dbc2-417b-9b3e-33310536161b,12/10/2023,Credit,Yes,Sandersbury,e5a9765e-6160-4ce4-853d-65983f8172c3,4,342,5,Phone
+1df50f89-5d42-4c8d-b13d-444f66f3cc52,c3e84416-919b-42fe-8b0e-38c922cd5099,11/17/2022,Savings,No,Jessicahaven,25cfc6db-01b6-4557-b136-6da5f537b0cc,5,322,10,Online
+bf7d230e-c43a-4970-b4bc-51fa12373363,b89edcfb-517f-458a-9b97-a9be57e31659,8/11/2024,Checking,No,Hollowayview,60f331c2-aa70-4ba0-8d7a-1e9bb8cd2942,5,188,7,Online
+e654338c-e6e4-45b2-b832-6ba99c591121,8203a8a7-dd39-45a6-b921-ea752ed946e8,12/19/2023,Checking,Yes,South Elizabeth,fe9a8320-27a3-4cf4-99fd-9716d2af142b,2,206,2,Phone
+fe2a554a-6aa5-45aa-bcae-49a2c2c67da3,e761c115-dc91-4afc-8d65-6713fde2d986,10/11/2021,Savings,No,Benderport,2b185310-fcf2-4cd9-bba4-1929e7642c6d,2,203,7,Phone
+b51f983e-7188-4c5d-9be5-09ce0ece8d1c,80b3f348-8725-4185-b105-a0816fa0405b,1/11/2025,Checking,Yes,Zacharyport,b686d6de-8c23-45e9-b90f-7df42610a712,3,68,4,Online
+8c11ec0f-3b8a-4779-92ee-ccbcfce7c42c,920e7b00-aaad-474a-ac1b-b9384b5f428f,5/25/2023,Credit,No,Haroldton,bc3c6a93-a69f-4114-941c-0034c8683607,2,364,0,In-Person
+a0f1afc0-5174-4906-9cc3-d98577dc8260,b2b9de52-c882-4488-9813-f00ac10ca87e,6/22/2024,Savings,Yes,Ericburgh,7b660375-d5e2-4593-aafa-2503fa22b716,2,235,9,In-Person
+dc6ebfca-03ff-4942-a623-f13d02381679,158ddaee-a26d-47e3-8b3d-80b8f519c6f8,4/24/2024,Checking,No,East Raven,aab2a681-46b6-42b7-b4a2-53671643689d,1,188,7,In-Person
+cae90fa4-5cc6-4bb6-9986-6c6e825b202c,79211188-5e07-4e12-8270-864175a91520,11/18/2020,Checking,Yes,Sullivanmouth,13134863-bf58-4824-b529-999ed90beb6e,3,59,6,In-Person
+22faf3cf-83f8-4882-af05-4624365ff0fa,60cef9c0-c9a4-495a-b18b-8b8f9215099f,8/18/2022,Savings,No,Lisaborough,845f8cc9-04b0-445c-9500-eb42e4212c02,4,98,6,Phone
+ecd0703c-4e24-4a03-82b6-59ebac15ccbd,f7f8c420-3261-46bb-9e44-d0b27c6c0b41,5/10/2021,Savings,No,New Jessica,b70c16af-844b-4982-83ae-e7ece1dc2ed1,5,123,3,In-Person
+95d034f9-3af0-4a78-82b3-3e105b4a451a,50e01370-4579-4e88-9384-7c40a09e9dc5,7/16/2020,Savings,Yes,Jacobville,4722f13c-6f4d-4953-b3f2-1864be1f78b3,2,212,4,Phone
+0eca01cc-d587-4e31-aff6-d96558275545,bb562236-084e-4e79-9b3c-c1fe5b5e4da6,1/10/2021,Savings,Yes,Randallberg,558e4c7e-4f9e-400f-9823-cb6cfe815bf9,1,139,2,In-Person
+dfc6b275-c026-4596-8a89-e3d7c5f0cd6e,69b5943a-4108-43f8-8242-4ddfd4a87aae,12/20/2024,Credit,No,Michelleview,2de9a322-1887-4359-b594-b532c2339dc8,2,254,5,Phone
+48efa507-2c4e-4cd0-91dd-efb380a15a85,5290d90e-7f7c-4a12-b94e-a7838ed0e00e,9/6/2021,Savings,No,West Sarah,dcdb693c-e62a-4226-997e-a4742ea2977d,2,139,9,Phone
+9120879a-97b7-44e1-9ca6-6ccfa820b4d8,fdd6b9c2-1547-4522-8432-3f91979e575e,4/24/2024,Savings,Yes,Lake Stephen,00b3610f-000e-4c1b-92d2-5778216d7925,4,332,9,Phone
+21e8265b-016d-4f5b-ac54-7709ba7fa14d,b4cf3117-4904-4c05-aacd-fadcd895f919,8/22/2020,Credit,No,South Jennifer,ba7b29dc-1a58-413d-a88e-7dd0cfedb284,3,181,1,Online
+8573bc23-5d53-4983-8656-0048dd343d90,ea6ea22d-0cac-47c5-8d0e-e911f1f0101c,9/1/2024,Checking,Yes,New Michelle,9bf40914-a443-452a-bb43-c17f2d22a4e1,5,80,3,Online
+96782a91-e06d-4e9d-8b68-67a584937b95,5aba8724-af94-4c4e-b2c5-c2b8bd4b138d,7/22/2022,Savings,No,Jamesshire,5687720c-34be-4568-be96-a47f24913d58,4,357,0,Phone
+b0e10372-bd04-4d68-a954-3434aafa86f8,d4a14549-25b6-41a1-a4f1-1d8a85e13f0f,4/29/2022,Checking,No,Diazton,c3cb3675-55d7-4538-89ec-276a0532a1a1,1,181,6,Phone
+6c721f69-93b5-47ac-8a60-ed2a8df1a0af,966f2b9f-ebe9-4d9c-bd9f-9589dee985c6,6/16/2020,Savings,Yes,South Laura,c71bb97e-73a9-43ea-9902-4678191f3302,1,234,1,Online
+9ac45d07-40aa-4ec7-86c7-c25b533a36d9,c349f237-6906-48e8-8c8c-ff37ed06aac2,1/8/2020,Checking,No,South Angela,d8cd8ea7-6542-480d-98f4-66a601e1c173,1,325,8,Phone
+b65670a1-23c7-4456-9e1a-98479117c7c8,2ff68537-42d5-40c0-af7d-a4873054a9cd,10/1/2020,Savings,No,Donnashire,90ed40af-84eb-4aba-a600-dca6eefa7957,5,364,6,Phone
+67c0b698-8bdb-4e0d-8a12-db762ffb46e5,ca1ee5d3-0564-4920-bcb4-aa604cf0780a,5/20/2022,Credit,Yes,Murphyfurt,14a05d4f-77c8-4717-880d-4f1c48f7a3fd,1,5,3,Phone
+f184b902-0a37-4912-8197-97381737f12a,eac7ee99-4b54-4844-a2ac-966cbee0e5c3,12/6/2020,Savings,No,East Julia,8d7f1669-6ae4-42c5-8a83-6b40ff8864ce,3,210,5,In-Person
+3d179949-0f44-4665-b778-4b88343e1a76,5cd67069-601e-428f-bd78-8180b0b1ffcf,7/14/2022,Credit,No,Greenehaven,c769a125-8c28-4f7d-a3ce-332b0351f7fe,4,22,8,In-Person
+6a313b70-fdc6-458d-bfcb-2c457525b78f,bd2d3d70-68bd-471f-a63a-4367805beca0,11/11/2021,Savings,No,Porterstad,ad7b0adb-7aca-474d-baf3-0c26cd9d54ee,3,95,5,Phone
+eb140e2b-5b23-46f9-8388-62444a267794,f36188aa-1ae5-45b7-ae63-c866e06f3d28,11/11/2020,Checking,No,Richardburgh,cf7257ac-33e7-4d38-83e4-b3eb1068bb24,1,182,10,In-Person
+82470016-0e31-45a8-9ab1-7ae059f60afe,5b27576b-4bbe-4327-b0f3-ba4736a89232,3/12/2020,Credit,Yes,New Ginafurt,9d9bffc4-f017-4f3d-93ed-0ddc40f95a41,1,297,5,Online
+880610c9-70e5-4ec9-8866-92f1a0b40d0d,478cd072-d108-45d1-83ae-5e55417b162f,9/23/2022,Checking,Yes,Lopezfort,8419d190-c50c-44c5-97aa-98f547b3b41b,3,307,0,In-Person
+973ea2ed-4903-47c2-8f49-f590403bca46,472a5f0c-acb2-4cd3-805c-7ad4ec4b0764,11/17/2024,Savings,Yes,West Amanda,24592fc7-a8f2-440e-af76-5066648afdb0,4,291,10,Phone
+c0d2a30a-c874-4532-9db9-efc5c79f7461,59ba8a44-c179-472a-b5ea-89955b281802,5/29/2023,Checking,No,Richardstad,12a08fca-9ed9-4dbd-a06d-e632456a4782,1,230,7,Phone
+2cb6fbab-ecb7-43b8-a504-089241f6961f,288edab9-37a3-4ceb-9c89-5d04ddb5e00b,5/12/2024,Savings,No,Port Kimberly,80654a08-1444-4095-9327-725f5663fb9b,2,48,10,Online
+0c6e2824-e8a1-465f-936e-0fd835797470,0963ae2d-7430-406f-acd5-6569510de3bc,1/12/2023,Checking,Yes,East Amandafort,0f192a77-fdb1-407b-afdb-b512efa3c4c5,2,143,2,Phone
+60d029e9-3366-4a33-9d28-e14bb517c60a,bc1d0a97-adfa-462d-8d48-6cccfc009e85,7/11/2021,Checking,Yes,Bowenport,ea5dabaa-4098-4dc8-b787-088f10cb6bdc,2,357,2,In-Person
+b56e8829-71b6-4082-9237-271cc20b2061,b4516865-2276-476b-b89b-a0cb00879368,11/24/2020,Checking,No,Billyside,daa6f07a-fdfa-4616-9701-2a4c30158bd2,5,182,5,In-Person
+505efc9a-dbf0-4deb-bc6c-2d00a0555247,3ea1496c-19f9-41b0-b16a-cb2acdc90dca,1/6/2023,Savings,Yes,Crawfordberg,538e26a3-3e66-4bce-8a47-330d18935e2a,5,188,10,In-Person
+661ba05e-f835-4f17-afe2-435e297b7a94,5e6a9642-2c98-4700-af75-7cc6d7c00f6d,5/26/2022,Checking,Yes,Christinamouth,d8c35f21-61a0-473a-a34e-e6c1a647da52,1,171,3,In-Person
+900a97dd-2a61-478f-9c77-f6eba2b08f15,0933be23-4309-4c1f-ad71-26ac534527d0,6/12/2021,Credit,Yes,South Rebecca,6bbf8ad8-9670-4cd7-a56a-ca14163a3d28,5,333,3,Phone
+4d3472a4-3d31-4998-9d73-d1f830edbd1a,729c8cf3-d0da-473a-a86e-cf095e30e63b,12/7/2024,Credit,No,North William,98278b30-253e-463f-9102-117bdf28f474,5,8,1,Online
+7fe68f65-83e1-4f85-8bef-9e792932be0e,ca1bba6c-6db5-4a65-8b1e-ebdc6c8450e4,5/31/2023,Savings,No,Nicolemouth,1c8f3748-599d-47d5-a685-d809bd183f86,1,280,7,Online
+ed8b6658-f159-4cb3-8572-9d70716f467b,c417c641-bccd-4cec-a641-2e95fb6eb2a2,9/13/2021,Checking,Yes,Lake Jeremy,3bdaa27f-8a3a-491b-91ec-f50b63b21621,5,105,3,Online
+847b7183-1e23-4c48-8fdd-98b2b0e5ff02,1063455f-b5fa-4f13-9aca-e95523bf2ee4,3/6/2024,Checking,Yes,Sandraborough,18389a28-e0e8-4dc5-bbac-5c7dc72cfc79,1,336,10,Phone
+6fe3ed70-715d-420f-b65e-713af4c4bfeb,a4c51c3a-3cf1-4789-86f2-14542f32030e,7/17/2024,Checking,No,Port Barbara,51ce578f-561c-4477-9728-046a32d308d3,3,108,3,In-Person
+7fa83c0e-a04a-48d7-8dc5-829962a316d3,212b74a3-0abc-4996-b8c8-7137a4ec5ee7,8/23/2024,Credit,No,New Hollybury,942e0f96-24ab-4813-b5c2-daa7bb4ab89a,5,224,10,In-Person
+b5ce3683-6fd0-4aa0-9d0a-31635e5703dc,d912c316-4e81-4e9b-9ce1-756a96af7cc7,6/17/2024,Savings,No,South Jeremyfort,f1fc8119-ca51-41f8-b52c-ee7a7012653c,5,166,4,Online
+87c92e3d-bc2a-40fa-afb0-c987c8e58052,03d366fa-7be2-48d8-9ba5-5dd0761540ec,8/10/2022,Credit,Yes,South Dana,396f6310-a825-4021-a08c-b18c91722c19,5,299,3,Phone
